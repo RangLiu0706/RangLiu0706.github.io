@@ -23,7 +23,7 @@ Her current research interests are focused on signal processing, massive MIMO sy
 
 
 # 🔥 News
-- *2022.07*: &nbsp; Rang's blog is online.
+- *2022.07*: &nbsp; Rang's blog is online. Yeah!
 
 
 # 📝 Journal 
