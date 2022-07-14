@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rang Liu"
-description              : "A Ph.D. student in DUT. "
+description              : "Ph.D. student "
 repository               : "RangLiu0706/RangLiu0706.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YVZWuQcAAAAJ&hl=en"
   email            : "liurang@mail.dlut.edu.cn"
-  researchgate     :  e.g., "https://www.researchgate.net/profile/Rang-Liu-3"
+  researchgate     :  "https://www.researchgate.net/profile/Rang-Liu-3"
   uri              :
   bitbucket        :
   codepen          :
