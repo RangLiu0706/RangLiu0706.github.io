@@ -30,6 +30,12 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 # 📝 Journal 
 
+-	**Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://arxiv.org/abs/2206.08518)," *submitted to IEEE journal*. 
+
+-	**Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems]()," *submitted to IEEE journal*.  
+
+-	**Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation]()," *submitted to IEEE journal*. 
+
 - **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://ieeexplore.ieee.org/document/9769997)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, DOI: 10.1109/JSTSP.2022.3172788.
 
 -	**Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[Joint waveform and filter designs for STAP-SLP-based MIMO-DFRC systems](https://ieeexplore.ieee.org/document/9724259)," *IEEE J. Sel. Areas Commun. (JSAC)*, vol. 40, no. 6, pp. 1918-1931, Jun. 2022.
@@ -44,15 +50,15 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 -	**Rang Liu**, H. Li, and M. Li, "[Symbol-level hybrid precoding in mmWave multiuser MISO systems](https://ieeexplore.ieee.org/document/8756035)," *IEEE Commun. Lett.*, vol. 23, no. 9, pp. 1636-1639, Sep. 2019.
 
-- P. Ni, **Rang Liu**, M. Li, and Q. Liu, "[User association and hybrid beamforming designs for cooperative mmWave MIMO systems](https://ieeexplore.ieee.org/document/9831052)," *IEEE Trans. Signal Inf. Process. Netw.*, DOI: 10.1109/TSIPN.2022.3190740
+-	Z. Xiao, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
 -	A. L. Swindlehurst, G. Zhou, **Rang Liu**, C. Pan, and M. Li, "[Channel estimation with reconfigurable intelligent surfaces – A general framework](https://ieeexplore.ieee.org/document/9771077)," *Proceedings of the IEEE*, DOI: 10.1109/JPROC.2022.3170358.
-
--	Z. Xiao, **Rang Liu**(corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
 -	W. Cai, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[IRS-assisted multi-cell multi-band systems: Practical reflection model and joint beamforming designs](https://ieeexplore.ieee.org/document/9759366)," *IEEE Trans. Commun.*, vol. 70, no. 6, pp. 3897-3911, Jun. 2022.
 
 -	Z. Bo, **Rang Liu**, M. Li, and Q. Liu, "[Deep learning based efficient symbol-level precoding design for MU-MISO systems](https://ieeexplore.ieee.org/document/9468383)," *IEEE Trans. Veh. Technol.*, vol. 70, no. 8, pp. 8309-8313, Aug. 2021.
+
+- P. Ni, **Rang Liu**, M. Li, and Q. Liu, "[User association and hybrid beamforming designs for cooperative mmWave MIMO systems](https://ieeexplore.ieee.org/document/9831052)," *IEEE Trans. Signal Inf. Process. Netw.*, DOI: 10.1109/TSIPN.2022.3190740.
 
 -	Y. Ma, **Rang Liu**, M. Li, and Q. Liu, "[Passive information transmission in intelligent reflecting surface aided MISO systems](https://ieeexplore.ieee.org/document/9154740)," *IEEE Commun. Lett.*, vol. 24, no. 12, pp. 2951-2955, Dec. 2020.
 
