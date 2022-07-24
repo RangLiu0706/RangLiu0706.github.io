@@ -48,7 +48,7 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 -	A. L. Swindlehurst, G. Zhou, **Rang Liu**, C. Pan, and M. Li, "[Channel estimation with reconfigurable intelligent surfaces – A general framework](https://ieeexplore.ieee.org/document/9771077)," *Proceedings of the IEEE*, DOI: 10.1109/JPROC.2022.3170358.
 
--	Z. Xiao, **Rang Liu***, M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
+-	Z. Xiao, **Rang Liu**(corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
 -	W. Cai, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[IRS-assisted multi-cell multi-band systems: Practical reflection model and joint beamforming designs](https://ieeexplore.ieee.org/document/9759366)," *IEEE Trans. Commun.*, vol. 70, no. 6, pp. 3897-3911, Jun. 2022.
 
@@ -75,7 +75,7 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 -	Y. Ma, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Reflection and relay dual-functional RIS assisted MU-MISO systems](https://ieeexplore.ieee.org/document/9771713)," in *IEEE Wireless Commun. Netw. Conf. Workshops (WCNCW)*, Austin, USA, Apr. 2022.
 
--	Z. Xiao, **Rang Liu***, Y. Liu, M. Li, and Q. Liu, "[Low-complexity grouped symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9685319)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021. 
+-	Z. Xiao, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Low-complexity grouped symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9685319)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021. 
 
 -	W. Cai, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint beamforming designs for intelligent omni surface assisted wreless communication systems](https://ieeexplore.ieee.org/document/9685199)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021.
 
