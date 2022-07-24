@@ -30,11 +30,11 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 # 📝 Journal 
 
--	**Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://arxiv.org/abs/2206.08518)," *submitted to IEEE Wireless Commun.*. 
+-	**Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://arxiv.org/abs/2206.08518)," *submitted to IEEE Wireless Commun.*
 
--	**Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems]()," *submitted to IEEE Wireless Commun. Lett.*.  
+-	**Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems]()," *submitted to IEEE Wireless Commun. Lett.*
 
--	**Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation]()," *submitted to IEEE Wireless Commun. Lett.*. 
+-	**Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation]()," *submitted to IEEE Wireless Commun. Lett.*
 
 - **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://ieeexplore.ieee.org/document/9769997)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, DOI: 10.1109/JSTSP.2022.3172788.
 
