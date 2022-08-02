@@ -83,6 +83,8 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 -	**Rang Liu**, H. Li, Y. Guo, M. Li, and Q. Liu, "[Hybrid beamformer design with low-resolution phase shifters in MU-MISO SWIPT systems](https://ieeexplore.ieee.org/document/8555694)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Hangzhou, China, Oct. 2018.
 
+-	Z. Xiao, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design in DFRC systems for wideband sensing and OFDM communications]()," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022. 
+
 -	J. Chu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint transmit beamforming design for secure communication and radar coexistence systems](https://ieeexplore.ieee.org/document/9771662)," in *IEEE Wireless Commun. Netw. Conf. Workshops (WCNCW)*, Austin, USA, Apr. 2022.
 
 -	Y. Ma, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Reflection and relay dual-functional RIS assisted MU-MISO systems](https://ieeexplore.ieee.org/document/9771713)," in *IEEE Wireless Commun. Netw. Conf. Workshops (WCNCW)*, Austin, USA, Apr. 2022.
