@@ -23,7 +23,6 @@ My current research interests are focused on signal processing, massive MIMO sys
 My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 
-
 # 🔥 News
 - *2022.07*: &nbsp; My blog is online. Yeah!
 
@@ -123,3 +122,15 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 # 📖 Educations
 - *2020.09 - 2022.07 (now)*: Dalian University of Technology. Major in Information and Communication Engineering.
 - *2014.09 - 2018.06*: Dalian University of Technology. Major in Electronic and Information Engineering.
+
+
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+<!-- pv的方式，单个用户连续点击n篇文章，记录n次访问量 -->
+<span id="busuanzi_container_site_pv">
+    本站总访问量<span id="busuanzi_value_site_pv"></span>次
+</span>
+<!-- uv的方式，单个用户连续点击n篇文章，只记录1次访客数 -->
+<span id="busuanzi_container_site_uv">
+  本站访客数<span id="busuanzi_value_site_uv"></span>人次
+</span>
