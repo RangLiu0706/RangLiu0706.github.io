@@ -31,11 +31,11 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 -	**Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://arxiv.org/abs/2206.08518)," *submitted to IEEE Wireless Commun.*
 
--	**Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems]()," *submitted to IEEE Wireless Commun. Lett.*
+-	**Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems]()," *submitted to IEEE Commun. Lett.*
 
 -	**Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation]()," *submitted to IEEE Wireless Commun. Lett.*
 
-- **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://ieeexplore.ieee.org/document/9769997)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, DOI: 10.1109/JSTSP.2022.3172788.
+- **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://ieeexplore.ieee.org/document/9769997)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, vol. 16, no. 5, pp. 995-1010, Aug. 2022.
 
 -	**Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[Joint waveform and filter designs for STAP-SLP-based MIMO-DFRC systems](https://ieeexplore.ieee.org/document/9724259)," *IEEE J. Sel. Areas Commun. (JSAC)*, vol. 40, no. 6, pp. 1918-1931, Jun. 2022.
 
@@ -49,7 +49,7 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 -	**Rang Liu**, H. Li, and M. Li, "[Symbol-level hybrid precoding in mmWave multiuser MISO systems](https://ieeexplore.ieee.org/document/8756035)," *IEEE Commun. Lett.*, vol. 23, no. 9, pp. 1636-1639, Sep. 2019.
 
-- H. Luo, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design for RIS-assisted integrated sensing and communication systems]()," *IEEE Trans. Veh. Technol.*, to appear.
+- H. Luo, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design for RIS-assisted integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9852716)," *IEEE Trans. Veh. Technol.*, to appear.
 
 -	Z. Xiao, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
@@ -57,7 +57,7 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 -	W. Cai, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[IRS-assisted multi-cell multi-band systems: Practical reflection model and joint beamforming designs](https://ieeexplore.ieee.org/document/9759366)," *IEEE Trans. Commun.*, vol. 70, no. 6, pp. 3897-3911, Jun. 2022.
 
-- P. Ni, M. Li, **Rang Liu**, and Q. Liu, "[Partially distributed beamforming design for RIS-aided cell-free  networks]()," *IEEE Trans. Veh. Technol.*, to appear.
+- P. Ni, M. Li, **Rang Liu**, and Q. Liu, "[Partially distributed beamforming design for RIS-aided cell-free  networks](https://ieeexplore.ieee.org/document/9847407)," *IEEE Trans. Veh. Technol.*, to appear.
 
 -	Z. Bo, **Rang Liu**, M. Li, and Q. Liu, "[Deep learning based efficient symbol-level precoding design for MU-MISO systems](https://ieeexplore.ieee.org/document/9468383)," *IEEE Trans. Veh. Technol.*, vol. 70, no. 8, pp. 8309-8313, Aug. 2021.
 
@@ -68,9 +68,9 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 
 # 📝 Conference
--	**Rang Liu**, M. Li, and A. L. Swindlehurst, "[Joint beamforming and reflection design for RIS-assisted ISAC systems]()," in *Proc. European Signal Process. Conf. (EUSIPCO)*, Belgrade, Serbia, Aug. 2022, invited paper.
+-	**Rang Liu**, M. Li, and A. L. Swindlehurst, "[Joint beamforming and reflection design for RIS-assisted ISAC systems](https://arxiv.org/abs/2203.00265)," in *Proc. European Signal Process. Conf. (EUSIPCO)*, Belgrade, Serbia, Aug. 2022, invited paper.
 
--	**Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[Joint transmit waveform and receive filter design for dual-functional radar-communication systems]()," in *Proc. IEEE Int. Conf. Commun. (ICC)*, Seoul, South Korea, May 2022.
+-	**Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[Joint transmit waveform and receive filter design for dual-functional radar-communication systems](https://ieeexplore.ieee.org/document/9838990)," in *Proc. IEEE Int. Conf. Commun. (ICC)*, Seoul, South Korea, May 2022.
 
 -	**Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Symbol-level precoding design for dual-functional radar-communication systems](https://ieeexplore.ieee.org/document/9500781)," in *Proc. IEEE Int. Conf. Commun. (ICC)*, Montreal, Canada, Jun. 2021.
 
@@ -82,7 +82,7 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 -	**Rang Liu**, H. Li, Y. Guo, M. Li, and Q. Liu, "[Hybrid beamformer design with low-resolution phase shifters in MU-MISO SWIPT systems](https://ieeexplore.ieee.org/document/8555694)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Hangzhou, China, Oct. 2018.
 
--	Z. Xiao, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design in DFRC systems for wideband sensing and OFDM communications]()," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022. 
+-	Z. Xiao, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design in DFRC systems for wideband sensing and OFDM communications](https://arxiv.org/abs/2208.03055)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022. 
 
 -	J. Chu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint transmit beamforming design for secure communication and radar coexistence systems](https://ieeexplore.ieee.org/document/9771662)," in *IEEE Wireless Commun. Netw. Conf. Workshops (WCNCW)*, Austin, USA, Apr. 2022.
 
@@ -123,14 +123,12 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 - *2020.09 - 2022.07 (now)*: Dalian University of Technology. Major in Information and Communication Engineering.
 - *2014.09 - 2018.06*: Dalian University of Technology. Major in Electronic and Information Engineering.
 
-
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
+ <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <!-- pv的方式，单个用户连续点击n篇文章，记录n次访问量 -->
 <span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
+    Total <span id="busuanzi_value_site_pv"></span> views.
 </span>
 <!-- uv的方式，单个用户连续点击n篇文章，只记录1次访客数 -->
 <span id="busuanzi_container_site_uv">
-  本站访客数<span id="busuanzi_value_site_uv"></span>人次
+  Total <span id="busuanzi_value_site_uv"></span> visitors.
 </span>
