@@ -389,3 +389,7 @@ select:focus {
 #goog-wm-sb {
   @extend .btn;
 }
+
+.contact-list li {
+  list-style-type: none;
+}
