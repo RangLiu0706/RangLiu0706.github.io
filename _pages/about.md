@@ -25,7 +25,13 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 # 🔥 News
 - *2022.07*: &nbsp; My blog is online. Yeah!
-
+- *2022.08*: &nbsp; One journal paper co-authored with Luo is accepted by TVT.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+One conference paper co-authored with Xiao is accepted by GLOBECOM 2022.
+- *2022.09*: &nbsp; Two journal papers co-authored with Zhu and Wang are accepted by TCOM.
+- *2022.10*: &nbsp; I received the National Scholarship.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+My paper is accepted by WCL.
 
 # 📝 Journal
 
@@ -36,7 +42,7 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 
 
-3. **Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation]()," *submitted to IEEE Wireless Commun. Lett.*
+3. **Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation]()," *IEEE Wireless Commun. Lett.*, to appear.
 
 
 4.  **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://ieeexplore.ieee.org/document/9769997)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, vol. 16, no. 5, pp. 995-1010, Aug. 2022.
@@ -71,10 +77,10 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 14.	A. L. Swindlehurst, G. Zhou, **Rang Liu**, C. Pan, and M. Li, "[Channel estimation with reconfigurable intelligent surfaces – A general framework](https://ieeexplore.ieee.org/document/9771077)," *Proceedings of the IEEE*, vol. 110, no. 9, pp. 1312-1338, Sep. 2022.
 
 
-15.	Q. Zhu, M. Li, **Rang Liu**, Y. Liu, and Q. Liu, "[Joint beamforming designs for active reconfigurable intelligent surface: A sub-connected array architecture]()," *IEEE Trans. Commun.*, to appear.
+15.	Q. Zhu, M. Li, **Rang Liu**, Y. Liu, and Q. Liu, "[Joint beamforming designs for active reconfigurable intelligent surface: A sub-connected array architecture](https://ieeexplore.ieee.org/document/9913498/)," *IEEE Trans. Commun.*, to appear.
 
 
-16. Z. Wang, M. Li, **Rang Liu**, and Q. Liu, "[Joint user association and hybrid beamforming for cell-free mmWave MIMO communications]()," *IEEE Trans. Commun.*, to appear.
+16. Z. Wang, M. Li, **Rang Liu**, and Q. Liu, "[Joint user association and hybrid beamforming for cell-free mmWave MIMO communications](https://ieeexplore.ieee.org/document/9910182/)," *IEEE Trans. Commun.*, to appear.
 
 
 17.	W. Cai, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[IRS-assisted multi-cell multi-band systems: Practical reflection model and joint beamforming designs](https://ieeexplore.ieee.org/document/9759366)," *IEEE Trans. Commun.*, vol. 70, no. 6, pp. 3897-3911, Jun. 2022.
@@ -95,7 +101,7 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 # 📝 Conference
 
-1.	**Rang Liu**, M. Li, and A. L. Swindlehurst, "[Joint beamforming and reflection design for RIS-assisted ISAC systems](https://arxiv.org/abs/2203.00265)," in *Proc. European Signal Process. Conf. (EUSIPCO)*, Belgrade, Serbia, Aug. 2022, invited paper.
+1.	**Rang Liu**, M. Li, and A. L. Swindlehurst, "[Joint beamforming and reflection design for RIS-assisted ISAC systems](https://ieeexplore.ieee.org/document/9909807/)," in *Proc. European Signal Process. Conf. (EUSIPCO)*, Belgrade, Serbia, Aug. 2022, invited paper.
 
 
 2.	**Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[Joint transmit waveform and receive filter design for dual-functional radar-communication systems](https://ieeexplore.ieee.org/document/9838990)," in *Proc. IEEE Int. Conf. Commun. (ICC)*, Seoul, South Korea, May 2022.
@@ -167,9 +173,10 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 # 🎖 Honors and Awards
 - *2020.10*: I received the National Scholarship.
+- *2022.10*: I received the National Scholarship.
 
 # 📖 Educations
-- *2020.09 - 2022.07 (now)*: Dalian University of Technology. Major in Information and Communication Engineering.
+- *2020.09 - 2022.10 (now)*: Dalian University of Technology. Major in Information and Communication Engineering.
 - *2014.09 - 2018.06*: Dalian University of Technology. Major in Electronic and Information Engineering.
 
  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
