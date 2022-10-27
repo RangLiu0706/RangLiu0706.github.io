@@ -42,7 +42,7 @@ My paper is accepted by WCL.
 
 
 
-3. **Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation]()," *IEEE Wireless Commun. Lett.*, to appear.
+3. **Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation](https://ieeexplore.ieee.org/document/9928318)," *IEEE Wireless Commun. Lett.*, to appear.
 
 
 4.  **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://ieeexplore.ieee.org/document/9769997)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, vol. 16, no. 5, pp. 995-1010, Aug. 2022.
