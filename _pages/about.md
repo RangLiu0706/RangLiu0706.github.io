@@ -33,7 +33,8 @@ One conference paper co-authored with Xiao is accepted by GLOBECOM 2022.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 My paper is accepted by WCL.
 - *2022.11*: &nbsp; My paper is accepted by WC and CL.
-
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+One journal paper co-authored with Chu is accepted by TVT.
 # 📝 Journal
 
 1. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://arxiv.org/abs/2206.08518)," *IEEE Wireless Commun.*, to appear.            
@@ -68,35 +69,36 @@ My paper is accepted by WCL.
 
 11. 刘让, 罗泓昊, 李明. [智能超表面在通信感知一体化系统中的应用](https://www.zte.com.cn/china/about/magazine/zte-communications/2022/cn202203/specialtopic/cn202202009.html)[J]. 中兴通讯技术, 2022, 28(3): 53-57.
 
+12. J. Chu, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint secure transmit beamforming designs for integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9968163)," *IEEE Trans. Veh. Technol.*, to appear.
 
-12. H. Luo, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design for RIS-assisted integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9852716)," *IEEE Trans. Veh. Technol.*, to appear.
-
-
-13.	Z. Xiao, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
+13. H. Luo, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design for RIS-assisted integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9852716)," *IEEE Trans. Veh. Technol.*, to appear.
 
 
-14.	A. L. Swindlehurst, G. Zhou, **Rang Liu**, C. Pan, and M. Li, "[Channel estimation with reconfigurable intelligent surfaces – A general framework](https://ieeexplore.ieee.org/document/9771077)," *Proceedings of the IEEE*, vol. 110, no. 9, pp. 1312-1338, Sep. 2022.
+14.	Z. Xiao, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
 
-15.	Q. Zhu, M. Li, **Rang Liu**, Y. Liu, and Q. Liu, "[Joint beamforming designs for active reconfigurable intelligent surface: A sub-connected array architecture](https://ieeexplore.ieee.org/document/9913498/)," *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7628-7643, Nov. 2022.
+15.	A. L. Swindlehurst, G. Zhou, **Rang Liu**, C. Pan, and M. Li, "[Channel estimation with reconfigurable intelligent surfaces – A general framework](https://ieeexplore.ieee.org/document/9771077)," *Proceedings of the IEEE*, vol. 110, no. 9, pp. 1312-1338, Sep. 2022.
 
 
-16. Z. Wang, M. Li, **Rang Liu**, and Q. Liu, "[Joint user association and hybrid beamforming for cell-free mmWave MIMO communications](https://ieeexplore.ieee.org/document/9910182/)," *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7307-7321, Nov. 2022.
+16.	Q. Zhu, M. Li, **Rang Liu**, Y. Liu, and Q. Liu, "[Joint beamforming designs for active reconfigurable intelligent surface: A sub-connected array architecture](https://ieeexplore.ieee.org/document/9913498/)," *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7628-7643, Nov. 2022.
 
 
-17.	W. Cai, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[IRS-assisted multi-cell multi-band systems: Practical reflection model and joint beamforming designs](https://ieeexplore.ieee.org/document/9759366)," *IEEE Trans. Commun.*, vol. 70, no. 6, pp. 3897-3911, Jun. 2022.
+17. Z. Wang, M. Li, **Rang Liu**, and Q. Liu, "[Joint user association and hybrid beamforming for cell-free mmWave MIMO communications](https://ieeexplore.ieee.org/document/9910182/)," *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7307-7321, Nov. 2022.
 
 
-18. P. Ni, M. Li, **Rang Liu**, and Q. Liu, "[Partially distributed beamforming design for RIS-aided cell-free  networks](https://ieeexplore.ieee.org/document/9847407)," *IEEE Trans. Veh. Technol.*, to appear.
+18.	W. Cai, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[IRS-assisted multi-cell multi-band systems: Practical reflection model and joint beamforming designs](https://ieeexplore.ieee.org/document/9759366)," *IEEE Trans. Commun.*, vol. 70, no. 6, pp. 3897-3911, Jun. 2022.
 
 
-19.	Z. Bo, **Rang Liu**, M. Li, and Q. Liu, "[Deep learning based efficient symbol-level precoding design for MU-MISO systems](https://ieeexplore.ieee.org/document/9468383)," *IEEE Trans. Veh. Technol.*, vol. 70, no. 8, pp. 8309-8313, Aug. 2021.
+19. P. Ni, M. Li, **Rang Liu**, and Q. Liu, "[Partially distributed beamforming design for RIS-aided cell-free  networks](https://ieeexplore.ieee.org/document/9847407)," *IEEE Trans. Veh. Technol.*, to appear.
 
 
-20. P. Ni, **Rang Liu**, M. Li, and Q. Liu, "[User association and hybrid beamforming designs for cooperative mmWave MIMO systems](https://ieeexplore.ieee.org/document/9831052)," *IEEE Trans. Signal Inf. Process. Netw.*, vol. 8, pp. 641-654, Jul. 2022.
+20.	Z. Bo, **Rang Liu**, M. Li, and Q. Liu, "[Deep learning based efficient symbol-level precoding design for MU-MISO systems](https://ieeexplore.ieee.org/document/9468383)," *IEEE Trans. Veh. Technol.*, vol. 70, no. 8, pp. 8309-8313, Aug. 2021.
 
 
-21.	Y. Ma, **Rang Liu**, M. Li, and Q. Liu, "[Passive information transmission in intelligent reflecting surface aided MISO systems](https://ieeexplore.ieee.org/document/9154740)," *IEEE Commun. Lett.*, vol. 24, no. 12, pp. 2951-2955, Dec. 2020.
+21. P. Ni, **Rang Liu**, M. Li, and Q. Liu, "[User association and hybrid beamforming designs for cooperative mmWave MIMO systems](https://ieeexplore.ieee.org/document/9831052)," *IEEE Trans. Signal Inf. Process. Netw.*, vol. 8, pp. 641-654, Jul. 2022.
+
+
+22.	Y. Ma, **Rang Liu**, M. Li, and Q. Liu, "[Passive information transmission in intelligent reflecting surface aided MISO systems](https://ieeexplore.ieee.org/document/9154740)," *IEEE Commun. Lett.*, vol. 24, no. 12, pp. 2951-2955, Dec. 2020.
 
 
 
