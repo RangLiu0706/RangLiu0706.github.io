@@ -25,16 +25,17 @@ My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 # 🔥 News
 - *2022.07*: &nbsp; My blog is online. Yeah!
-- *2022.08*: &nbsp; One journal paper co-authored with Luo is accepted by TVT.
+- *2022.08*: &nbsp; One journal paper co-authored with Honghao is accepted by TVT.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-One conference paper co-authored with Xiao is accepted by GLOBECOM 2022.
-- *2022.09*: &nbsp; Two journal papers co-authored with Zhu and Wang are accepted by TCOM.
+One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
+- *2022.09*: &nbsp; Two journal papers co-authored with Qi and Zihuan are accepted by TCOM.
 - *2022.10*: &nbsp; I received the National Scholarship.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 My paper is accepted by WCL.
 - *2022.11*: &nbsp; My paper is accepted by WC and CL.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-One journal paper co-authored with Chu is accepted by TVT.
+One journal paper co-authored with Jinjin is accepted by TVT.
+- *2022.12*: &nbsp; One journal paper co-authored with Sifan is accepted by TVT.
 # 📝 Journal
 
 1. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://arxiv.org/abs/2206.08518)," *IEEE Wireless Commun.*, to appear.            
@@ -71,34 +72,33 @@ One journal paper co-authored with Chu is accepted by TVT.
 
 12. J. Chu, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint secure transmit beamforming designs for integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9968163)," *IEEE Trans. Veh. Technol.*, to appear.
 
-13. H. Luo, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design for RIS-assisted integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9852716)," *IEEE Trans. Veh. Technol.*, to appear.
+13. H. Luo, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design for RIS-assisted integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9852716)," *IEEE Trans. Veh. Technol.*, vol. 71, no. 12, pp. 13393 - 13397, Dec. 2022.
 
 
 14.	Z. Xiao, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
 
-15.	A. L. Swindlehurst, G. Zhou, **Rang Liu**, C. Pan, and M. Li, "[Channel estimation with reconfigurable intelligent surfaces – A general framework](https://ieeexplore.ieee.org/document/9771077)," *Proceedings of the IEEE*, vol. 110, no. 9, pp. 1312-1338, Sep. 2022.
+15. S. Liu, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint BS-RIS-user association and beamforming design for RIS-assisted cellular networks](https://ieeexplore.ieee.org/document/9996967)," *IEEE Trans. Veh. Technol.*, to appear.
 
 
-16.	Q. Zhu, M. Li, **Rang Liu**, Y. Liu, and Q. Liu, "[Joint beamforming designs for active reconfigurable intelligent surface: A sub-connected array architecture](https://ieeexplore.ieee.org/document/9913498/)," *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7628-7643, Nov. 2022.
+16. P. Ni, M. Li, **Rang Liu**, and Q. Liu, "[Partially distributed beamforming design for RIS-aided cell-free  networks](https://ieeexplore.ieee.org/document/9847407)," *IEEE Trans. Veh. Technol.*, vol. 71, no. 12, pp. 13377 - 13381, Dec. 2022.
+
+17.	Q. Zhu, M. Li, **Rang Liu**, Y. Liu, and Q. Liu, "[Joint beamforming designs for active reconfigurable intelligent surface: A sub-connected array architecture](https://ieeexplore.ieee.org/document/9913498/)," *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7628-7643, Nov. 2022.
 
 
-17. Z. Wang, M. Li, **Rang Liu**, and Q. Liu, "[Joint user association and hybrid beamforming for cell-free mmWave MIMO communications](https://ieeexplore.ieee.org/document/9910182/)," *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7307-7321, Nov. 2022.
+18. Z. Wang, M. Li, **Rang Liu**, and Q. Liu, "[Joint user association and hybrid beamforming for cell-free mmWave MIMO communications](https://ieeexplore.ieee.org/document/9910182/)," *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7307-7321, Nov. 2022.
+
+19.	A. L. Swindlehurst, G. Zhou, **Rang Liu**, C. Pan, and M. Li, "[Channel estimation with reconfigurable intelligent surfaces – A general framework](https://ieeexplore.ieee.org/document/9771077)," *Proceedings of the IEEE*, vol. 110, no. 9, pp. 1312-1338, Sep. 2022.
+
+20. P. Ni, **Rang Liu**, M. Li, and Q. Liu, "[User association and hybrid beamforming designs for cooperative mmWave MIMO systems](https://ieeexplore.ieee.org/document/9831052)," *IEEE Trans. Signal Inf. Process. Netw.*, vol. 8, pp. 641-654, Jul. 2022.
+
+21.	W. Cai, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[IRS-assisted multi-cell multi-band systems: Practical reflection model and joint beamforming designs](https://ieeexplore.ieee.org/document/9759366)," *IEEE Trans. Commun.*, vol. 70, no. 6, pp. 3897-3911, Jun. 2022.
 
 
-18.	W. Cai, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[IRS-assisted multi-cell multi-band systems: Practical reflection model and joint beamforming designs](https://ieeexplore.ieee.org/document/9759366)," *IEEE Trans. Commun.*, vol. 70, no. 6, pp. 3897-3911, Jun. 2022.
+22.	Z. Bo, **Rang Liu**, M. Li, and Q. Liu, "[Deep learning based efficient symbol-level precoding design for MU-MISO systems](https://ieeexplore.ieee.org/document/9468383)," *IEEE Trans. Veh. Technol.*, vol. 70, no. 8, pp. 8309-8313, Aug. 2021.
 
 
-19. P. Ni, M. Li, **Rang Liu**, and Q. Liu, "[Partially distributed beamforming design for RIS-aided cell-free  networks](https://ieeexplore.ieee.org/document/9847407)," *IEEE Trans. Veh. Technol.*, to appear.
-
-
-20.	Z. Bo, **Rang Liu**, M. Li, and Q. Liu, "[Deep learning based efficient symbol-level precoding design for MU-MISO systems](https://ieeexplore.ieee.org/document/9468383)," *IEEE Trans. Veh. Technol.*, vol. 70, no. 8, pp. 8309-8313, Aug. 2021.
-
-
-21. P. Ni, **Rang Liu**, M. Li, and Q. Liu, "[User association and hybrid beamforming designs for cooperative mmWave MIMO systems](https://ieeexplore.ieee.org/document/9831052)," *IEEE Trans. Signal Inf. Process. Netw.*, vol. 8, pp. 641-654, Jul. 2022.
-
-
-22.	Y. Ma, **Rang Liu**, M. Li, and Q. Liu, "[Passive information transmission in intelligent reflecting surface aided MISO systems](https://ieeexplore.ieee.org/document/9154740)," *IEEE Commun. Lett.*, vol. 24, no. 12, pp. 2951-2955, Dec. 2020.
+23.	Y. Ma, **Rang Liu**, M. Li, and Q. Liu, "[Passive information transmission in intelligent reflecting surface aided MISO systems](https://ieeexplore.ieee.org/document/9154740)," *IEEE Commun. Lett.*, vol. 24, no. 12, pp. 2951-2955, Dec. 2020.
 
 
 
