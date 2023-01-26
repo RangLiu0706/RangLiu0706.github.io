@@ -36,6 +36,8 @@ My paper is accepted by WCL.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 One journal paper co-authored with Jinjin is accepted by TVT.
 - *2022.12*: &nbsp; One journal paper co-authored with Sifan is accepted by TVT.
+- *2023.01*: &nbsp; One conference paper co-authored with Wanning is accepted by ICC2023.
+
 # 📝 Journal
 
 1. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://arxiv.org/abs/2206.08518)," *IEEE Wireless Commun.*, to appear.            
@@ -45,7 +47,7 @@ One journal paper co-authored with Jinjin is accepted by TVT.
 
 
 
-3. **Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation](https://ieeexplore.ieee.org/document/9928318)," *IEEE Wireless Commun. Lett.*, to appear.
+3. **Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation](https://ieeexplore.ieee.org/document/9928318)," *IEEE Wireless Commun. Lett.*, vol. 12, no. 1, pp. 50-54, Jan. 2023.
 
 
 4.  **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://ieeexplore.ieee.org/document/9769997)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, vol. 16, no. 5, pp. 995-1010, Aug. 2022.
@@ -125,7 +127,7 @@ One journal paper co-authored with Jinjin is accepted by TVT.
 7.	**Rang Liu**, H. Li, Y. Guo, M. Li, and Q. Liu, "[Hybrid beamformer design with low-resolution phase shifters in MU-MISO SWIPT systems](https://ieeexplore.ieee.org/document/8555694)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Hangzhou, China, Oct. 2018.
 
 
-8.	Z. Xiao, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design in DFRC systems for wideband sensing and OFDM communications](https://arxiv.org/abs/2208.03055)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022. 
+8.	Z. Xiao, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design in DFRC systems for wideband sensing and OFDM communications](https://ieeexplore.ieee.org/document/10001164)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022. 
 
 
 9.	J. Chu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint transmit beamforming design for secure communication and radar coexistence systems](https://ieeexplore.ieee.org/document/9771662)," in *IEEE Wireless Commun. Netw. Conf. Workshops (WCNCW)*, Austin, USA, Apr. 2022.
@@ -179,7 +181,7 @@ One journal paper co-authored with Jinjin is accepted by TVT.
 - *2022.10*: I received the National Scholarship.
 
 # 📖 Educations
-- *2020.09 - 2022.10 (now)*: Dalian University of Technology. Major in Information and Communication Engineering.
+- *2020.09 - 2023.01 (now)*: Dalian University of Technology. Major in Information and Communication Engineering.
 - *2014.09 - 2018.06*: Dalian University of Technology. Major in Electronic and Information Engineering.
 
  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
