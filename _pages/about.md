@@ -41,7 +41,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 - *2022.07*: &nbsp; My blog is online. Yeah!
 
 
-# 📝 Journal-1
+# 📝 Journal
 
 16. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://arxiv.org/abs/2301.11134)," submitted.
 
@@ -83,9 +83,9 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 1. Z. Xiao, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
-# 📝 Journal-2
+# 📝 Journal
 
-10. Q. zhu, M. Li, **Rang Liu**, and Q. Liu, "[Joint transceiver beamforming and reflecting design for active RIS-aided ISAC systems](https://arxiv.org/abs/2302.10616)," *IEEE Trans. Veh. Technol.*, to appear.
+10. Q. Zhu, M. Li, **Rang Liu**, and Q. Liu, "[Joint transceiver beamforming and reflecting design for active RIS-aided ISAC systems](https://arxiv.org/abs/2302.10616)," *IEEE Trans. Veh. Technol.*, to appear.
 
 
 9. S. Liu, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint BS-RIS-user association and beamforming design for RIS-assisted cellular networks](https://ieeexplore.ieee.org/document/9996967)," *IEEE Trans. Veh. Technol.*, to appear.
@@ -112,7 +112,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 
 
-# 📝 Conference-1
+# 📝 Conference
 
 7.	**Rang Liu**, M. Li, and A. L. Swindlehurst, "[Joint beamforming and reflection design for RIS-assisted ISAC systems](https://ieeexplore.ieee.org/document/9909807/)," in *Proc. European Signal Process. Conf. (EUSIPCO)*, Belgrade, Serbia, Aug. 2022, invited paper.
 
@@ -134,7 +134,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 1.	**Rang Liu**, H. Li, Y. Guo, M. Li, and Q. Liu, "[Hybrid beamformer design with low-resolution phase shifters in MU-MISO SWIPT systems](https://ieeexplore.ieee.org/document/8555694)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Hangzhou, China, Oct. 2018.
 
-# 📝 Conference-2
+# 📝 Conference
 
 17. W. Yang, **Rang Liu**, W. Cai, M. Li, and Q. Liu, "[Channel estimation and pilot allocation for practical RIS-aided wideband OFDMA systems]()," in *Proc. IEEE Int. Conf. Commun. (ICC)*, Rome, Italy, May 2023.
 
