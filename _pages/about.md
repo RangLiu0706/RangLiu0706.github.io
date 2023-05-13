@@ -77,7 +77,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 4. H. Luo, **Rang Liu** (corresponding author), M. Li, and Q. Liu, "[RIS-aided integrated sensing and communication: Joint beamforming and reflection design](https://ieeexplore.ieee.org/document/10052711/)," *IEEE Trans. Veh. Technol.*, to appear.
 
-3. J. Chu, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint secure transmit beamforming designs for integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9968163)," *IEEE Trans. Veh. Technol.*, to appear.
+3. J. Chu, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint secure transmit beamforming designs for integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9968163)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 4, pp. 4778-4791, Apr. 2023.
 
 2. H. Luo, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design for RIS-assisted integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9852716)," *IEEE Trans. Veh. Technol.*, vol. 71, no. 12, pp. 13393 - 13397, Dec. 2022.
 
