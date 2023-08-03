@@ -34,11 +34,15 @@ One journal paper co-authored with Jinjin is accepted by TVT.
 - *2022.10*: &nbsp; I received the National Scholarship.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 My paper is accepted by WCL.
+<details>
+<summary> More</summary>
 - *2022.09*: &nbsp; Two journal papers co-authored with Qi and Zihuan are accepted by TCOM.
 - *2022.08*: &nbsp; One journal paper co-authored with Honghao is accepted by TVT.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 - *2022.07*: &nbsp; My blog is online. Yeah!
+</details>
+
 
 
 # 📝 Journal
