@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree in electronics information engineering from Dalian University of Technology, Dalian, China, in 2018. 
-I am now studying toward the Ph.D. degree with the School of Information and Communication Engineering, Dalian University of Technology, Dalian, China.
+I received the B.S. degree in electronics information engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree in School of Information and Communication Engineering, Dalian University of Technology, Dalian, China, in 2023. My Ph. D. advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html). I am now working as a postdoc with [Prof. Swindlehurst](https://engineering.uci.edu/users/lee-swindlehurst) in University of California, Irvine.
 My current research interests are focused on signal processing, massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communication. 
-My advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html).
 
 
 # 🔥 News
 
+- *2023.09*: &nbsp; My postdoc research start at UCI.
+- *2023.08*: &nbsp; My conference paper is accepted by Globecom 2023.
+- *2023.07*: &nbsp; I successfully defend my doctoral dissertation.
 - *2023.02*: &nbsp; Two journal papers co-authored with Honghao and Qi are accepted by TVT.
 - *2023.01*: &nbsp; One conference paper co-authored with Wanning is accepted by ICC2023.
 - *2022.12*: &nbsp; One journal paper co-authored with Sifan is accepted by TVT.
@@ -34,20 +35,17 @@ One journal paper co-authored with Jinjin is accepted by TVT.
 - *2022.10*: &nbsp; I received the National Scholarship.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 My paper is accepted by WCL.
-<details>
-<summary> More</summary>
 - *2022.09*: &nbsp; Two journal papers co-authored with Qi and Zihuan are accepted by TCOM.
 - *2022.08*: &nbsp; One journal paper co-authored with Honghao is accepted by TVT.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 - *2022.07*: &nbsp; My blog is online. Yeah!
-</details>
 
 
 
 # 📝 Journal
 
-16. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://arxiv.org/abs/2301.11134)," submitted.
+16. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://arxiv.org/abs/2301.11134)," major revision.
 
 15. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.          
 
@@ -79,7 +77,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 5. 刘让, 罗泓昊, 李明. [智能超表面在通信感知一体化系统中的应用](https://www.zte.com.cn/china/about/magazine/zte-communications/2022/cn202203/specialtopic/cn202202009.html)[J]. 中兴通讯技术, 2022, 28(3): 53-57.
 
-4. H. Luo, **Rang Liu** (corresponding author), M. Li, and Q. Liu, "[RIS-aided integrated sensing and communication: Joint beamforming and reflection design](https://ieeexplore.ieee.org/document/10052711/)," *IEEE Trans. Veh. Technol.*, to appear.
+4. H. Luo, **Rang Liu** (corresponding author), M. Li, and Q. Liu, "[RIS-aided integrated sensing and communication: Joint beamforming and reflection design](https://ieeexplore.ieee.org/document/10052711/)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 7, pp. 9626-9630, Jul. 2023.
 
 3. J. Chu, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Joint secure transmit beamforming designs for integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9968163)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 4, pp. 4778-4791, Apr. 2023.
 
@@ -89,13 +87,16 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 # 📝 Journal
 
-10. Q. Zhu, M. Li, **Rang Liu**, and Q. Liu, "[Joint transceiver beamforming and reflecting design for active RIS-aided ISAC systems](https://ieeexplore.ieee.org/document/10054402/)," *IEEE Trans. Veh. Technol.*, to appear.
+11. Q. Liu, Y. Zhu, M. Li, **Rang Liu**, Y. Liu, and Z. Lu,  "[DRL-based secrecy rate optimization for RIS-assisted secure ISAC systems](https://ieeexplore.ieee.org/document/10193812/)," *IEEE Trans. Veh. Technol.*, to appear.
+
+10. Q. Zhu, M. Li, **Rang Liu**, and Q. Liu, "[Joint transceiver beamforming and reflecting design for active RIS-aided ISAC systems](https://ieeexplore.ieee.org/document/10054402/)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 7, pp. 9636-9640, Jul. 2023.
 
 
-9. S. Liu, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint BS-RIS-user association and beamforming design for RIS-assisted cellular networks](https://ieeexplore.ieee.org/document/9996967)," *IEEE Trans. Veh. Technol.*, to appear.
+9. S. Liu, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint BS-RIS-user association and beamforming design for RIS-assisted cellular networks](https://ieeexplore.ieee.org/document/9996967)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 5, pp. 6113-6128, May 2023.
 
 
 8. P. Ni, M. Li, **Rang Liu**, and Q. Liu, "[Partially distributed beamforming design for RIS-aided cell-free  networks](https://ieeexplore.ieee.org/document/9847407)," *IEEE Trans. Veh. Technol.*, vol. 71, no. 12, pp. 13377 - 13381, Dec. 2022.
+
 
 7.	Q. Zhu, M. Li, **Rang Liu**, Y. Liu, and Q. Liu, "[Joint beamforming designs for active reconfigurable intelligent surface: A sub-connected array architecture](https://ieeexplore.ieee.org/document/9913498/)," *IEEE Trans. Commun.*, vol. 70, no. 11, pp. 7628-7643, Nov. 2022.
 
@@ -118,6 +119,9 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 # 📝 Conference
 
+8. **Rang Liu**, M. Li, and Q. Liu, "[Joint transmit/receive antenna selection and beamforming design for ISAC systems]()," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Kuala Lumpur, Malaysia, Dec. 2023. 
+
+
 7.	**Rang Liu**, M. Li, and A. L. Swindlehurst, "[Joint beamforming and reflection design for RIS-assisted ISAC systems](https://ieeexplore.ieee.org/document/9909807/)," in *Proc. European Signal Process. Conf. (EUSIPCO)*, Belgrade, Serbia, Aug. 2022, invited paper.
 
 
@@ -138,40 +142,47 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 1.	**Rang Liu**, H. Li, Y. Guo, M. Li, and Q. Liu, "[Hybrid beamformer design with low-resolution phase shifters in MU-MISO SWIPT systems](https://ieeexplore.ieee.org/document/8555694)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Hangzhou, China, Oct. 2018.
 
+
 # 📝 Conference
 
-17. W. Yang, **Rang Liu**, W. Cai, M. Li, and Q. Liu, "[Channel estimation and pilot allocation for practical RIS-aided wideband OFDMA systems]()," in *Proc. IEEE Int. Conf. Commun. (ICC)*, Rome, Italy, May 2023.
+19. H. Zhang, S. Liu, **Rang Liu**, M. Li, and Q. Liu, "[Distributed DRL based beamforming design for RIS-assisted multi-cell systems](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Kuala Lumpur, Malaysia, Dec. 2023. 
 
 
-16.	Z. Xiao, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design in DFRC systems for wideband sensing and OFDM communications](https://ieeexplore.ieee.org/document/10001164)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022. 
+18. W. Yang, **Rang Liu**, W. Cai, M. Li, and Q. Liu, "[Channel estimation and pilot allocation for practical RIS-aided wideband OFDMA systems]()," in *Proc. IEEE Int. Conf. Commun. (ICC)*, Rome, Italy, May 2023.
 
 
-15.	J. Chu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint transmit beamforming design for secure communication and radar coexistence systems](https://ieeexplore.ieee.org/document/9771662)," in *IEEE Wireless Commun. Netw. Conf. Workshops (WCNCW)*, Austin, USA, Apr. 2022.
+17.	Z. Xiao, **Rang Liu**, M. Li, Y. Liu, and Q. Liu, "[Joint beamforming design in DFRC systems for wideband sensing and OFDM communications](https://ieeexplore.ieee.org/document/10001164)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Rio de Janeiro, Brazil, Dec. 2022. 
 
 
-14.	Y. Ma, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Reflection and relay dual-functional RIS assisted MU-MISO systems](https://ieeexplore.ieee.org/document/9771713)," in *IEEE Wireless Commun. Netw. Conf. Workshops (WCNCW)*, Austin, USA, Apr. 2022.
+16.	J. Chu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint transmit beamforming design for secure communication and radar coexistence systems](https://ieeexplore.ieee.org/document/9771662)," in *IEEE Wireless Commun. Netw. Conf. Workshops (WCNCW)*, Austin, USA, Apr. 2022.
 
 
-13.	Z. Xiao, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Low-complexity grouped symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9685319)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021. 
+15.	Y. Ma, **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Reflection and relay dual-functional RIS assisted MU-MISO systems](https://ieeexplore.ieee.org/document/9771713)," in *IEEE Wireless Commun. Netw. Conf. Workshops (WCNCW)*, Austin, USA, Apr. 2022.
 
 
-12.	W. Cai, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint beamforming designs for intelligent omni surface assisted wreless communication systems](https://ieeexplore.ieee.org/document/9685199)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021.
+14.	Z. Xiao, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Low-complexity grouped symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9685319)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021. 
 
 
-11.	P. Ni, **Rang Liu**, M. Li, and Q. Liu, "[Hybrid analog-digital beamforming in cooperative mmWave MIMO systems](https://ieeexplore.ieee.org/document/9685913)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021.
+13.	W. Cai, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint beamforming designs for intelligent omni surface assisted wreless communication systems](https://ieeexplore.ieee.org/document/9685199)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021.
+
+
+12.	P. Ni, **Rang Liu**, M. Li, and Q. Liu, "[Hybrid analog-digital beamforming in cooperative mmWave MIMO systems](https://ieeexplore.ieee.org/document/9685913)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021.
 
 
 
-10.	Q. Zhu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint design of hybrid and reflection beamforming for RIS-aided mmWave MIMO communications](https://ieeexplore.ieee.org/document/9682008)," in *IEEE Globecom Workshops (GC Wkshps)*, Madrid, Spain, Dec. 2021.
+11.	Q. Zhu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint design of hybrid and reflection beamforming for RIS-aided mmWave MIMO communications](https://ieeexplore.ieee.org/document/9682008)," in *IEEE Globecom Workshops (GC Wkshps)*, Madrid, Spain, Dec. 2021.
 
 
-9.	J. Chu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[AN-aided secure beamforming design for dual-functional radar-communication systems](https://ieeexplore.ieee.org/document/9538912)," in *IEEE/CIC Int. Conf. Commun. China (ICCC Workshops)*, Xiamen, China, Jul. 2021.
+10.	J. Chu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[AN-aided secure beamforming design for dual-functional radar-communication systems](https://ieeexplore.ieee.org/document/9538912)," in *IEEE/CIC Int. Conf. Commun. China (ICCC Workshops)*, Xiamen, China, Jul. 2021.
 
 
-8.	S. Liu, P. Ni, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[BS-RIS-user association and beamforming designs for RIS-aided cellular networks](https://ieeexplore.ieee.org/document/9580193)," in *Proc. IEEE/CIC Int. Conf. Commun. China (ICCC)*, Xiamen, China, Jul. 2021.
+9.	S. Liu, P. Ni, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[BS-RIS-user association and beamforming designs for RIS-aided cellular networks](https://ieeexplore.ieee.org/document/9580193)," in *Proc. IEEE/CIC Int. Conf. Commun. China (ICCC)*, Xiamen, China, Jul. 2021.
 
 
-7.	Q. Zhu, H. Li, **Rang Liu**, M. Li, and Q. Liu, "[Hybrid beamforming and passive reflection design for RIS-assisted mmWave MIMO systems](https://ieeexplore.ieee.org/document/9473829)," in *IEEE Int. Conf. Commun. Workshops (ICC Workshops)*, Montreal, Canada, Jun. 2021.
+8.	Q. Zhu, H. Li, **Rang Liu**, M. Li, and Q. Liu, "[Hybrid beamforming and passive reflection design for RIS-assisted mmWave MIMO systems](https://ieeexplore.ieee.org/document/9473829)," in *IEEE Int. Conf. Commun. Workshops (ICC Workshops)*, Montreal, Canada, Jun. 2021.
+
+
+7. W. Yang, H. Li, **Rang Liu**, M. Li, and Q. Liu, "[Channel estimation for practical IRS-assisted OFDM systems](https://ieeexplore.ieee.org/document/9419982)," in *IEEE Wireless Commun. Network Conf. Workshops (WCNCW)*, Nanjing, China, Apr. 2021.
 
 
 6.	W. Cai, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Intelligent reflecting surface assisted multi-cell multi-band wireless networks](https://ieeexplore.ieee.org/document/9417342)," in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Nanjing, China, Apr. 2021.
@@ -197,7 +208,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 - *2022.10*: I received the National Scholarship.
 
 # 📖 Educations
-- *2020.09 - 2023.01 (now)*: Dalian University of Technology. Major in Information and Communication Engineering.
+- *2020.09 - 2023.09*: Dalian University of Technology. Major in Information and Communication Engineering.
 - *2014.09 - 2018.06*: Dalian University of Technology. Major in Electronic and Information Engineering.
 
  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>

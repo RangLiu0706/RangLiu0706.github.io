@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rang Liu"
-description              : "Ph.D. student"
+description              : "Postdoc"
 repository               : "RangLiu0706/RangLiu0706.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Rang Liu"
   avatar           : "images/Rang.jpg"
-  bio              : "Dalian University of Technology"
-  location         : "Dalian, China"
+  bio              : "University of California Irvine"
+  location         : "Irvine, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YVZWuQcAAAAJ&hl=en"
-  email            : "liurang@mail.dlut.edu.cn"
+  email            : "rangl2@uci.edu"
   researchgate     :  "https://www.researchgate.net/profile/Rang-Liu-3"
   uri              :
   bitbucket        :
