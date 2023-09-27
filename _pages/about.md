@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree in electronics information engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree in School of Information and Communication Engineering, Dalian University of Technology, Dalian, China, in 2023. My Ph. D. advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html). I am now working as a postdoc with [Prof. Swindlehurst](https://engineering.uci.edu/users/lee-swindlehurst) in University of California, Irvine.
-My current research interests are focused on signal processing, massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communication. 
+I received the B.S. degree in Electronics Information Engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree from School of Information and Communication Engineering, Dalian University of Technology, Dalian, China, in 2023. My Ph. D. advisor is [Prof. Ming Li](http://ice.dlut.edu.cn/LiMing/index_chinese.html). I am currently working as a postdoc with [Prof. Swindlehurst](https://engineering.uci.edu/users/lee-swindlehurst) at the University of California, Irvine.
+My current research interests focus on signal processing, massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communication. 
 
 
 # 🔥 News
 
-- *2023.09*: &nbsp; My postdoc research start at UCI.
+- *2023.09*: &nbsp; My postdoc research starts at UCI.
 - *2023.08*: &nbsp; My conference paper is accepted by Globecom 2023.
 - *2023.07*: &nbsp; I successfully defend my doctoral dissertation.
 - *2023.02*: &nbsp; Two journal papers co-authored with Honghao and Qi are accepted by TVT.
