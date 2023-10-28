@@ -23,10 +23,11 @@ My current research interests focus on signal processing, massive MIMO systems, 
 
 # 🔥 News
 
+- *2023.10*: &nbsp; One correspondence co-authored with Jinjin is accepted by TVT.
 - *2023.09*: &nbsp; My postdoc research starts at UCI.
 - *2023.08*: &nbsp; My conference paper is accepted by Globecom 2023.
 - *2023.07*: &nbsp; I successfully defend my doctoral dissertation.
-- *2023.02*: &nbsp; Two journal papers co-authored with Honghao and Qi are accepted by TVT.
+- *2023.02*: &nbsp; Two correspondence co-authored with Honghao and Qi are accepted by TVT.
 - *2023.01*: &nbsp; One conference paper co-authored with Wanning is accepted by ICC2023.
 - *2022.12*: &nbsp; One journal paper co-authored with Sifan is accepted by TVT.
 - *2022.11*: &nbsp; My paper is accepted by WC and CL.
@@ -36,7 +37,7 @@ One journal paper co-authored with Jinjin is accepted by TVT.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 My paper is accepted by WCL.
 - *2022.09*: &nbsp; Two journal papers co-authored with Qi and Zihuan are accepted by TCOM.
-- *2022.08*: &nbsp; One journal paper co-authored with Honghao is accepted by TVT.
+- *2022.08*: &nbsp; One correspondence co-authored with Honghao is accepted by TVT.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 - *2022.07*: &nbsp; My blog is online. Yeah!
@@ -86,6 +87,8 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 1. Z. Xiao, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
 # 📝 Journal
+
+12. J. Chu, Z. Lu, **Rang Liu**, M. Li, and Q. Liu, "[Joint beamforming and reflection design for secure RIS-ISAC systems]()," *IEEE Trans. Veh. Technol.*, to appear.
 
 11. Q. Liu, Y. Zhu, M. Li, **Rang Liu**, Y. Liu, and Z. Lu,  "[DRL-based secrecy rate optimization for RIS-assisted secure ISAC systems](https://ieeexplore.ieee.org/document/10193812/)," *IEEE Trans. Veh. Technol.*, to appear.
 
