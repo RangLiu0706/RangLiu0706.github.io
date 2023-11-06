@@ -24,7 +24,7 @@ My current research interests focus on signal processing, massive MIMO systems, 
 # 🔥 News
 
 - *2023.10*: &nbsp; One correspondence co-authored with Jinjin is accepted by TVT.
-- *2023.09*: &nbsp; My postdoc research starts at UCI.
+- *2023.09*: &nbsp; My postdoc research starts at UCI. :)
 - *2023.08*: &nbsp; My conference paper is accepted by Globecom 2023.
 - *2023.07*: &nbsp; I successfully defend my doctoral dissertation.
 - *2023.02*: &nbsp; Two correspondence co-authored with Honghao and Qi are accepted by TVT.
@@ -88,7 +88,11 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 # 📝 Journal
 
-12. J. Chu, Z. Lu, **Rang Liu**, M. Li, and Q. Liu, "[Joint beamforming and reflection design for secure RIS-ISAC systems]()," *IEEE Trans. Veh. Technol.*, to appear.
+14. Z. Xiao, **Rang Liu**, M. Li, and Q. Liu, "[A novel joint angle-range-velocity estimation method for MIMO-OFDM ISAC systems](https://arxiv.org/abs/2308.03387)," submitted. 
+
+13. Q. Zhu, M. Li, **Rang Liu**, and Q. Liu, "[Cramer-Rao bound optimization for active RIs-empowered ISAC systems](https://arxiv.org/abs/2309.09207)," *IEEE Trans. Wireless Commun.*, major revision.
+
+12. J. Chu, Z. Lu, **Rang Liu**, M. Li, and Q. Liu, "[Joint beamforming and reflection design for secure RIS-ISAC systems](https://ieeexplore.ieee.org/document/10298597)," *IEEE Trans. Veh. Technol.*, to appear.
 
 11. Q. Liu, Y. Zhu, M. Li, **Rang Liu**, Y. Liu, and Z. Lu,  "[DRL-based secrecy rate optimization for RIS-assisted secure ISAC systems](https://ieeexplore.ieee.org/document/10193812/)," *IEEE Trans. Veh. Technol.*, to appear.
 
@@ -147,6 +151,13 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 
 # 📝 Conference
+
+25. Y. Zheng, **Rang Liu**, M. Li, and Q. Liu, "[End-to-end learning for SLP-based ISAC systems](), submitted.
+<!-- 24. Y. Yang, Z. Lu, M. Li, **Rang Liu**, and Q. Liu, "[A practical beamforming design for active RIS-assisted MU-MISO systems](), submitted. -->
+23. S. Liu, **Rang Liu**, Z. Lu, M. Li, and Q. Liu, "[Cooperative cell-free ISAC networks: Joint BS mode selection and beamforming design](https://arxiv.org/abs/2305.10800), submitted. 
+22. P. Li, Z. Xiao, M. Li, **Rang Liu**, and Q. Liu, "[Low-range-sidelobe waveform design for MIMO-OFDM ISAC systems](https://arxiv.org/abs/2305.18847), submitted.
+21. P. Jiang, **Rang Liu**, M. Li, Z. Xiao, and Q. Liu, "[Deep learning for SLP-based ISAC waveform design](), submitted.
+20. L. V. Nguyen, **Rang Liu**, and A. L. Swindlehurst, "[Exploitation of symmetrical non-convexity for symbol-level DFRC signal design](), submitted.
 
 19. H. Zhang, S. Liu, **Rang Liu**, M. Li, and Q. Liu, "[Distributed DRL based beamforming design for RIS-assisted multi-cell systems](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Kuala Lumpur, Malaysia, Dec. 2023. 
 
