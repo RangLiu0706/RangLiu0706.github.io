@@ -22,7 +22,7 @@ My current research interests focus on signal processing, massive MIMO systems, 
 
 
 # 🔥 News
-
+- *2023.11*: &nbsp; My paper is accepted by TWC.
 - *2023.10*: &nbsp; One correspondence co-authored with Jinjin is accepted by TVT.
 - *2023.09*: &nbsp; My postdoc research starts at UCI. :)
 - *2023.08*: &nbsp; My conference paper is accepted by Globecom 2023.
@@ -46,7 +46,8 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 # 📝 Journal
 
-16. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://arxiv.org/abs/2301.11134)," major revision.
+
+16. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://arxiv.org/abs/2301.11134)," *IEEE Trans. Wireless Commun.*, to appear.
 
 15. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.          
 
@@ -87,6 +88,12 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 1. Z. Xiao, **Rang Liu** (corresponding author), M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
 # 📝 Journal
+
+17. P. Jiang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[SLP-based dual-functional waveform design for ISAC systems: A deep learning approach]()," submitted. 
+
+16. H. Zhang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Joint sensing and communication optimization in target-mounted STARS-assisted vehicular networks: A MADRL approach](https://arxiv.org/abs/2311.10352)," submitted. 
+
+15. Z. Xiao, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Sparsity exploitation via joint receive processing and transmit beamforming design for MIMO-OFDM ISAC systems]()," submitted. 
 
 14. Z. Xiao, **Rang Liu**, M. Li, and Q. Liu, "[A novel joint angle-range-velocity estimation method for MIMO-OFDM ISAC systems](https://arxiv.org/abs/2308.03387)," submitted. 
 
