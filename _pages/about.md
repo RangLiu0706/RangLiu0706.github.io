@@ -160,25 +160,25 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 
 # 📝 Conference
 
-26. M. Liu, M. Li, **Rang Liu**, and Q. Liu,  "[A novel dynamic hybrid beamforming design for ELAA systems](), in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. submitted.
+26. M. Liu, M. Li, **Rang Liu**, and Q. Liu,  "[A novel dynamic hybrid beamforming design for ELAA systems](), in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. 
 
 
-25. P. Li, Z. Xiao, M. Li, **Rang Liu**, and Q. Liu, "[Low-range-sidelobe waveform design for MIMO-OFDM ISAC systems](https://arxiv.org/abs/2305.18847), in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. submitted.
+25. P. Li, Z. Xiao, M. Li, **Rang Liu**, and Q. Liu, "[Low-range-sidelobe waveform design for MIMO-OFDM ISAC systems](https://arxiv.org/abs/2305.18847), in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. 
 
 
-24. P. Jiang, **Rang Liu**, M. Li, Z. Xiao, and Q. Liu, "[Deep learning for SLP-based ISAC waveform design](), in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. submitted.
+24. P. Jiang, **Rang Liu**, M. Li, Z. Xiao, and Q. Liu, "[Deep learning for SLP-based ISAC waveform design](), in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. 
 
 
-23. L. V. Nguyen, **Rang Liu**, and A. L. Swindlehurst, "[Exploitation of symmetrical non-convexity for symbol-level DFRC signal design](), in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. submitted.
+23. L. V. Nguyen, **Rang Liu**, and A. L. Swindlehurst, "[Exploitation of symmetrical non-convexity for symbol-level DFRC signal design](), in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. 
 
 
-22. S. Liu, **Rang Liu**, Z. Lu, M. Li, and Q. Liu, "[Cooperative cell-free ISAC networks: Joint BS mode selection and beamforming design](https://arxiv.org/abs/2305.10800), in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Dubai, United Arab Emirates, Apr. 2024. submitted.
+22. S. Liu, **Rang Liu**, Z. Lu, M. Li, and Q. Liu, "[Cooperative cell-free ISAC networks: Joint BS mode selection and beamforming design](https://arxiv.org/abs/2305.10800), in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Dubai, United Arab Emirates, Apr. 2024. 
 
 
-21. Y. Zheng, **Rang Liu**, M. Li, and Q. Liu, "[End-to-end learning for SLP-based ISAC systems](https://arxiv.org/abs/2401.05663), in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Dubai, United Arab Emirates, Apr. 2024. submitted.
+21. Y. Zheng, **Rang Liu**, M. Li, and Q. Liu, "[End-to-end learning for SLP-based ISAC systems](https://arxiv.org/abs/2401.05663), in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Dubai, United Arab Emirates, Apr. 2024. 
 
 
-20. Y. Yang, Z. Lu, M. Li, **Rang Liu**, and Q. Liu, "[A practical beamforming design for active RIS-assisted MU-MISO systems](https://arxiv.org/abs/2401.03873), in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Dubai, United Arab Emirates, Apr. 2024. submitted.
+20. Y. Yang, Z. Lu, M. Li, **Rang Liu**, and Q. Liu, "[A practical beamforming design for active RIS-assisted MU-MISO systems](https://arxiv.org/abs/2401.03873), in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Dubai, United Arab Emirates, Apr. 2024. 
 
 
 19. H. Zhang, S. Liu, **Rang Liu**, M. Li, and Q. Liu, "[Distributed DRL based beamforming design for RIS-assisted multi-cell systems](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Kuala Lumpur, Malaysia, Dec. 2023. 
