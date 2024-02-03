@@ -19,9 +19,11 @@ redirect_from:
 
 I received the B.S. degree in Electronics Information Engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree from School of Information and Communication Engineering, Dalian University of Technology, Dalian, China, in 2023. My Ph. D. advisor is [Prof. Ming Li](https://www.minglabdut.com/index.html). I am currently working as a Postdoctoral Scholar with [Prof. Swindlehurst](https://scholar.google.com/citations?user=ibAcKWwAAAAJ&hl=en) at the Department of Electrical Engineering and Computer Science, University of California, Irvine.
 My research interests mainly focus on signal processing, massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communication. 
+Please feel free to contact me at rangl2@uci.edu.
 
 
 # 🔥 News
+- *2024.02*: &nbsp; Some codepackages are made public for personal and academic use.
 - *2024.01*: &nbsp; Some papers coauthored with my colleagues are accepted by WCNC and ICC.
 - *2023.11*: &nbsp; My paper is accepted by TWC.
 - *2023.10*: &nbsp; One correspondence co-authored with Jinjin is accepted by TVT.
@@ -48,9 +50,9 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 # 📝 Journal
 
 
-16. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, to appear.
+16. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, to appear. [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/blob/main/docs/SNR-CRB-constrained_joint_beamforming_and_reflection_designs_for_RIS-ISAC_systems.zip">code</a>]
 
-15. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.          
+15. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.  [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/blob/main/docs/Integrated_sensing_and%20communication_with_reconfigurable_intelligent_surfaces_Opportunities_applications_and_future_directions.zip">code</a>]        
 
 14. **Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems](https://ieeexplore.ieee.org/document/9950493/)," *IEEE Commun. Lett.*, vol. 27, no. 2, pp. 615-619, Feb. 2023. <a href="https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/supportCL.pdf">supporting document</a>
 
@@ -58,18 +60,17 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022.
 13. **Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation](https://ieeexplore.ieee.org/document/9928318)," *IEEE Wireless Commun. Lett.*, vol. 12, no. 1, pp. 50-54, Jan. 2023.
 
 
-12.  **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://ieeexplore.ieee.org/document/9769997)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, vol. 16, no. 5, pp. 995-1010, Aug. 2022.
+12.  **Rang Liu**, M. Li, Y. Liu, Q. Wu, and Q. Liu, "[Joint transmit waveform and passive beamforming design for RIS-aided DFRC systems](https://ieeexplore.ieee.org/document/9769997)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, vol. 16, no. 5, pp. 995-1010, Aug. 2022. [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/blob/main/docs/Joint_transmit_waveform_and_passive_beamforming_design_for_RIS_aided_DFRC_systems.zip">code</a>]
 
-11. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[Joint waveform and filter designs for STAP-SLP-based MIMO-DFRC systems](https://ieeexplore.ieee.org/document/9724259)," *IEEE J. Sel. Areas Commun. (JSAC)*, vol. 40, no. 6, pp. 1918-1931, Jun. 2022.
+11. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[Joint waveform and filter designs for STAP-SLP-based MIMO-DFRC systems](https://ieeexplore.ieee.org/document/9724259)," *IEEE J. Sel. Areas Commun. (JSAC)*, vol. 40, no. 6, pp. 1918-1931, Jun. 2022. [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/blob/main/docs/Joint_waveform_and_filter_designs_for_STAP-SLP-based_MIMO-DFRC_systems.zip">code</a>]
 
 
 10.	**Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[Dual-functional radar-communication waveform design: A symbol-level precoding approach](https://ieeexplore.ieee.org/document/9534484)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, vol. 15, no. 6, pp. 1316-1331, Nov. 2021.
 
 
-9.	**Rang Liu**, M. Li, Q. Liu, A. L. Swindlehurst, and Q. Wu, "[Intelligent reflecting surface based passive information transmission: A symbol-level precoding approach](https://ieeexplore.ieee.org/document/9435988)," *IEEE Trans. Veh. Technol.*, vol. 70, no. 7, pp. 6735-6749, Jul. 2021.
+9.	**Rang Liu**, M. Li, Q. Liu, A. L. Swindlehurst, and Q. Wu, "[Intelligent reflecting surface based passive information transmission: A symbol-level precoding approach](https://ieeexplore.ieee.org/document/9435988)," *IEEE Trans. Veh. Technol.*, vol. 70, no. 7, pp. 6735-6749, Jul. 2021. [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/blob/main/docs/Intelligent_reflecting_surface_based_passive_information_transmission_A_symbol-level_precoding_approach.zip">code</a>]
 
-
-8.	**Rang Liu**, M. Li, Q. Liu, and A. Lee Swindlehurst, "[Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO systems](https://ieeexplore.ieee.org/document/9219206)," *IEEE Trans. Wireless Commun.*, vol. 20, no. 2, pp. 798-811, Feb. 2021.
+8.	**Rang Liu**, M. Li, Q. Liu, and A. Lee Swindlehurst, "[Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO systems](https://ieeexplore.ieee.org/document/9219206)," *IEEE Trans. Wireless Commun.*, vol. 20, no. 2, pp. 798-811, Feb. 2021. [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/blob/main/docs/Joint_symbol-level_precoding_and_reflecting_designs_for_IRS-enhanced_MU-MISO_system.zip">code</a>]
 
 
 7.	**Rang Liu**, M. Li, Q. Liu, and A. Lee Swindlehurst, "[Secure symbol-level precoding in MU-MISO wiretap systems](https://ieeexplore.ieee.org/document/9068286)," *IEEE Trans. Inf. Forens. Security*, vol. 15, pp. 3359-3373, Apr. 2020.
