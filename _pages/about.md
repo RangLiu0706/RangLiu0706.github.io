@@ -23,7 +23,7 @@ Please feel free to contact me at rangl2@uci.edu.
 
 
 # 🔥 News
-- *2024.03*: &nbsp; I am invited to present our work about RIS-ISAC on SPS Webinar. [video](https://rc.signalprocessingsociety.org/education/webinars/spsweb24007) [slides](https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/RIS-ISAC.pdf)
+- *2024.03*: &nbsp; I am invited to present our work about RIS-ISAC on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">video</a>], [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/RIS-ISAC.pdf">slides</a>]
 <!-- *2024.03*: &nbsp; One journal paper co-authored with Qi is accepted by TWC. -->
 <!-- *2024.02*: &nbsp; One journal paper co-authored with Haocheng is accepted by TVT. -->
 - *2024.02*: &nbsp; Some codepackages are made public for personal and academic use.
@@ -34,8 +34,8 @@ Please feel free to contact me at rangl2@uci.edu.
 - *2023.08*: &nbsp; My conference paper is accepted by Globecom 2023.
 - *2023.07*: &nbsp; I successfully defend my doctoral dissertation.
 <!-- *2023.02*: &nbsp; Two correspondence co-authored with Honghao and Qi are accepted by TVT.
-- *2023.01*: &nbsp; One conference paper co-authored with Wanning is accepted by ICC2023.
-- *2022.12*: &nbsp; One journal paper co-authored with Sifan is accepted by TVT.-->
+*2023.01*: &nbsp; One conference paper co-authored with Wanning is accepted by ICC2023.
+*2022.12*: &nbsp; One journal paper co-authored with Sifan is accepted by TVT.-->
 - *2022.11*: &nbsp; My paper is accepted by WC and CL.
 <!-- <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 One journal paper co-authored with Jinjin is accepted by TVT.-->
