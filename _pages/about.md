@@ -251,27 +251,24 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 # 📚 Book Chapters
 
+
 - M. Li, **Rang Liu**, H. Luo, and Q. Liu, ``Reconfigurable Intelligent Surface Empowered Integrated Sensing and Communications: Principle, Modeling, and Optimization.'' In [*Integrated Sensing and Communications for Future Wireless Networks: Principles, Advances and Key Enabling Technologies*](https://www.amazon.com/Integrated-Sensing-Communications-Wireless-Networks/dp/044322143X), edited by A. Kaushik. Amsterdam, Netherlands: Elsevier, 2024. 
 
 - **Rang Liu**, M. Li, X. Meng, F. Liu, and A. L. Swindlehurst, ``Integrated Sensing and Communications with Reconfigurable Intelligent Surfaces.'' In *Metasurfaces for Wireless Communications*. Springer, in production.
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023.12*: I receive the Outstanding Doctoral Dissertation of CESE.
 - *2020.10*: I receive the National Scholarship.
 - *2022.10*: I receive the National Scholarship.
 
 # 🎓 Activities
-
 - Invited talks: SPS webinar 
-
 - Technical Program Committee (TPC) for Conferences: VTC2024-Fall
-
 - Co-Chair for Conferences: ICASSP2025
+- Reviewer for Journals: JSAC, JSTSP, TSP, TWC, TCOM, TIFS, WC, CM, TVT, SJ, TGCN, SPL, WCL, CL 
+- Reviewer for Conferences: GLOBECOM, ICC, WCNC, WCSP, ICCC, ISWCS, ISACom, JC\&S, PIMRC
 
-- Reviewer for Journals: JSAC, JSTSP, TSP, TWC, TCOM, TIFS, WC, CM, TVT, SJ, TGCN, SPL, WCL, CL, ...
-
-- Reviewer for Conferences: GLOBECOM, ICC, WCNC, WCSP, ICCC, ISWCS, ISACom, JC\&S, PIMRC,...
 
 
 # 👩‍🎓 Educations

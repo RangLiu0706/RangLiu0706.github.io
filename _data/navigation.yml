@@ -12,6 +12,9 @@ main:
   - title: "Conference"
     url: "/#-conference"
 
+  - title: "Book Chapters"
+    url: "/#-book-chapters"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
