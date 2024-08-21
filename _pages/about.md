@@ -60,7 +60,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 # 📑 Journal
 
-> ## First and Corresponding Author
+## &nbsp;First and Corresponding Author
 16. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. [<a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC">code</a>]
 
 15. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.  [<a href="https://github.com/RangLiu0706/RIS_ISAC_magazine">code</a>]        
@@ -102,7 +102,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 1. Z. Xiao, **Rang Liu**\*, M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
->  ## Co-Author
+## Co-Author
 
 22. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems]()," *IEEE Journal*, submitted. 
 
@@ -152,7 +152,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 # 📝 Conference
 
->  ## First Author
+## First Author
 
 8. **Rang Liu**, M. Li, and Q. Liu, "[Joint transmit/receive antenna selection and beamforming design for ISAC systems](https://ieeexplore.ieee.org/document/10437147)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Kuala Lumpur, Malaysia, Dec. 2023. 
 
@@ -178,7 +178,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 1.	**Rang Liu**, H. Li, Y. Guo, M. Li, and Q. Liu, "[Hybrid beamformer design with low-resolution phase shifters in MU-MISO SWIPT systems](https://ieeexplore.ieee.org/document/8555694)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Hangzhou, China, Oct. 2018.
 
 
->  ## Co-Author
+## Co-Author
 
 26. M. Liu, M. Li, **Rang Liu**, and Q. Liu,  "[A novel dynamic hybrid beamforming design for ELAA systems](https://ieeexplore.ieee.org/document/10622286), in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. 
 
