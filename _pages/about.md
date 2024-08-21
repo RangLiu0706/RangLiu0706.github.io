@@ -49,7 +49,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 - *2022.07*: &nbsp; My blog is online. Yeah!
 
 
-# 📝 Journal
+# 📑 Journal
 
 
 16. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. [<a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC">code</a>]
@@ -93,7 +93,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 1. Z. Xiao, **Rang Liu**\*, M. Li, Y. Liu, and Q. Liu, "[Low-complexity designs of symbol-level precoding for MU-MISO systems](https://ieeexplore.ieee.org/document/9770790)," *IEEE Trans. Commun.*, vol. 70, no. 7, pp. 4624-4639, Jul. 2022.
 
-# 📝 Journal
+# 📑 Journal
 
 
 22. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems]()," *IEEE Journal*, submitted. 
@@ -249,7 +249,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 1.	H. Li, **Rang Liu**, M. Li, and Q. Liu, "[FP-based hybrid precoding with dynamic subarrays and low-resolution PSs](https://ieeexplore.ieee.org/document/8928111)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Xian, China, Oct. 2019.
 
 
-# 📚 Book Chapters
+# 📖 Book Chapters
 
 
 - M. Li, **Rang Liu**, H. Luo, and Q. Liu, ``Reconfigurable Intelligent Surface Empowered Integrated Sensing and Communications: Principle, Modeling, and Optimization.'' In [*Integrated Sensing and Communications for Future Wireless Networks: Principles, Advances and Key Enabling Technologies*](https://www.amazon.com/Integrated-Sensing-Communications-Wireless-Networks/dp/044322143X), edited by A. Kaushik. Amsterdam, Netherlands: Elsevier, 2024. 
@@ -262,13 +262,12 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 - *2020.10*: I receive the National Scholarship.
 - *2022.10*: I receive the National Scholarship.
 
-# 🎓 Activities
+# 🌍 Activities
 - Invited talks: SPS webinar 
 - Technical Program Committee (TPC) for Conferences: VTC2024-Fall
 - Co-Chair for Conferences: ICASSP2025
 - Reviewer for Journals: JSAC, JSTSP, TSP, TWC, TCOM, TIFS, WC, CM, TVT, SJ, TGCN, SPL, WCL, CL 
-- Reviewer for Conferences: GLOBECOM, ICC, WCNC, WCSP, ICCC, ISWCS, ISACom, JC\&S, PIMRC
-
+- Reviewer for Conferences: GLOBECOM, ICC, WCNC, WCSP, ICCC, ISWCS, ISACom, JC&S, PIMRC
 
 
 # 👩‍🎓 Educations
