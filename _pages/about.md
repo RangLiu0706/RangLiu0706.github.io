@@ -49,6 +49,15 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 - *2022.07*: &nbsp; My blog is online. Yeah!
 
 
+# 📖 Book Chapters
+
+
+- M. Li, **Rang Liu**, H. Luo, and Q. Liu, ``Reconfigurable Intelligent Surface Empowered Integrated Sensing and Communications: Principle, Modeling, and Optimization.'' In [*Integrated Sensing and Communications for Future Wireless Networks: Principles, Advances and Key Enabling Technologies*](https://www.amazon.com/Integrated-Sensing-Communications-Wireless-Networks/dp/044322143X), edited by A. Kaushik. Amsterdam, Netherlands: Elsevier, 2024. 
+
+- **Rang Liu**, M. Li, X. Meng, F. Liu, and A. L. Swindlehurst, ``Integrated Sensing and Communications with Reconfigurable Intelligent Surfaces.'' In *Metasurfaces for Wireless Communications*. Springer, in production.
+
+
+
 # 📑 Journal
 
 
@@ -247,14 +256,6 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 
 1.	H. Li, **Rang Liu**, M. Li, and Q. Liu, "[FP-based hybrid precoding with dynamic subarrays and low-resolution PSs](https://ieeexplore.ieee.org/document/8928111)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Xian, China, Oct. 2019.
-
-
-# 📖 Book Chapters
-
-
-- M. Li, **Rang Liu**, H. Luo, and Q. Liu, ``Reconfigurable Intelligent Surface Empowered Integrated Sensing and Communications: Principle, Modeling, and Optimization.'' In [*Integrated Sensing and Communications for Future Wireless Networks: Principles, Advances and Key Enabling Technologies*](https://www.amazon.com/Integrated-Sensing-Communications-Wireless-Networks/dp/044322143X), edited by A. Kaushik. Amsterdam, Netherlands: Elsevier, 2024. 
-
-- **Rang Liu**, M. Li, X. Meng, F. Liu, and A. L. Swindlehurst, ``Integrated Sensing and Communications with Reconfigurable Intelligent Surfaces.'' In *Metasurfaces for Wireless Communications*. Springer, in production.
 
 
 # 🏆 Honors and Awards
