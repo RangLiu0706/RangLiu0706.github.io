@@ -6,14 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Book Chapters"
+    url: "/#-book-chapters"
+    
   - title: "Journal"
     url: "/#-journal"
   
   - title: "Conference"
     url: "/#-conference"
-
-  - title: "Book Chapters"
-    url: "/#-book-chapters"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
