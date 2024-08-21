@@ -96,13 +96,18 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 # 📝 Journal
 
-20. P. Li. M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[MIMO-OFDM ISAC waveform design for range-Doppler sidelobe suppression](https://arxiv.org/abs/2406.17218)," submitted. 
 
-19. M. Liu, M. Liu, **Rang Liu**, and Q. Liu, "[Dynamic hybrid beamforming designs for ELAA near-field communications]()," submitted. 
+22. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems]()," *IEEE Journal*, submitted. 
 
-18. P. Jiang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[SLP-based dual-functional waveform design for ISAC systems: A deep learning approach]()," *IEEE Trans. Veh. Technol.*, under revision.
+21. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Dynamic hybrid beamforming designs for ELAA near-field communications]()," *IEEE Journal*, under review. 
 
-17. Z. Xiao, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Sparsity exploitation via joint receive processing and transmit beamforming design for MIMO-OFDM ISAC systems](https://arxiv.org/abs/2312.17454)," submitted. 
+20. P. Li. M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[MIMO-OFDM ISAC waveform design for range-Doppler sidelobe suppression](https://arxiv.org/abs/2406.17218)," *IEEE Trans. Wireless Commun.*, under review. 
+
+19. X. Lv, **Rang Liu**, M. Li, and Q. Liu, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach]()," *IEEE Wireless Commun. Lett.*, under review. 
+
+18. P. Jiang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[SLP-based dual-functional waveform design for ISAC systems: A deep learning approach]()," *IEEE Trans. Veh. Technol.*, under review.
+
+17. Z. Xiao, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Sparsity exploitation via joint receive processing and transmit beamforming design for MIMO-OFDM ISAC systems](https://arxiv.org/abs/2312.17454)," *IEEE Trans. Commun.*, under review. 
 
 16. S. Zhang, Z. Xiao, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Multipath exploitation for fluctuating target detection in RIS-assisted ISAC systems](https://ieeexplore.ieee.org/document/10564104)," *IEEE Wireless Commun. Lett.*, to appear.
 
@@ -245,6 +250,14 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 1.	H. Li, **Rang Liu**, M. Li, and Q. Liu, "[FP-based hybrid precoding with dynamic subarrays and low-resolution PSs](https://ieeexplore.ieee.org/document/8928111)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Xian, China, Oct. 2019.
 
 
+# 📚 Book Chapters
+- M. Li, **Rang Liu**, H. Luo, and Q. Liu, ``Reconfigurable Intelligent Surface Empowered Integrated Sensing and Communications: Principle, Modeling, and Optimization.'' In [*Integrated Sensing and Communications for Future Wireless Networks: Principles, Advances and Key Enabling Technologies*](https://www.amazon.com/Integrated-Sensing-Communications-Wireless-Networks/dp/044322143X), edited by A. Kaushik. Amsterdam, Netherlands: Elsevier, 2024. 
+
+
+- **Rang Liu**, M. Li, X. Meng, F. Liu, and A. L. Swindlehurst, ``Integrated Sensing and Communications with Reconfigurable Intelligent Surfaces.'' In *Metasurfaces for Wireless Communications*. Springer, in production.
+
+
+
 # 🎖 Honors and Awards
 - *2023.12*: I receive the Outstanding Doctoral Dissertation of CESE.
 - *2020.10*: I receive the National Scholarship.
@@ -252,18 +265,18 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 # 🎓 Activities
 
-- Invited talks: SPS webinar, 
+- Invited talks: SPS webinar 
 
 - Technical Program Committee (TPC) for Conferences: VTC2024-Fall
 
 - Co-Chair for Conferences: ICASSP2025
 
-- Reviewer for Journals: JSAC, JSTSP, TSP, TWC, TCOM, TIFS, WC, CM, TVT, SJ, TGCN, SPL, WCL, CL...
+- Reviewer for Journals: JSAC, JSTSP, TSP, TWC, TCOM, TIFS, WC, CM, TVT, SJ, TGCN, SPL, WCL, CL, ...
 
 - Reviewer for Conferences: GLOBECOM, ICC, WCNC, WCSP, ICCC, ISWCS, ISACom, JC\&S, PIMRC,...
 
 
-# 📖 Educations
+# 👩‍🎓 Educations
 - *2020.09 - 2023.09*: Dalian University of Technology. Major in Information and Communication Engineering.
 - *2014.09 - 2018.06*: Dalian University of Technology. Major in Electronic and Information Engineering.
 
