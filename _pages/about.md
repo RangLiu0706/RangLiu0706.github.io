@@ -95,7 +95,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 5. 刘让, 罗泓昊, 李明. [智能超表面在通信感知一体化系统中的应用](https://www.zte.com.cn/china/about/magazine/zte-communications/2022/cn202203/specialtopic/cn202202009.html)[J]. 中兴通讯技术, 2022, 28(3): 53-57.
 
-17. Z. Xiao, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Sparsity exploitation via joint receive processing and transmit beamforming design for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10736664)," *IEEE Trans. Commun.*, to appear. 
+17. Z. Xiao, **Rang Liu**\*, M. Li, W. Wang, and Q. Liu, "[Sparsity exploitation via joint receive processing and transmit beamforming design for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10736664)," *IEEE Trans. Commun.*, to appear. 
 
 5. Z. Xiao, **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[A novel joint angle-range-velocity estimation method for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10634583)," *IEEE Trans. Signal Process.*, vol. 72, pp. 3805-3818, Aug. 2024. 
 
@@ -113,9 +113,9 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 23. L. Liu, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://arxiv.org/abs/2409.07034)," *IEEE Journal*, submitted. 
 
-22. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems]()," *IEEE Journal*, submitted. 
+22. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems]()," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, under review. 
 
-21. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Dynamic hybrid beamforming designs for ELAA near-field communications](https://arxiv.org/abs/2409.03560)," *IEEE Journal*, under review. 
+21. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Dynamic hybrid beamforming designs for ELAA near-field communications](https://arxiv.org/abs/2409.03560)," *IEEE J. Sel. Areas Commun. (JSAC)*, to appear. 
 
 20. P. Li. M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[MIMO-OFDM ISAC waveform design for range-Doppler sidelobe suppression](https://arxiv.org/abs/2406.17218)," *IEEE Trans. Wireless Commun.*, under review. 
 
@@ -161,9 +161,9 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;First Author
 
-11. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization using a parametric scattering model for extended targets in ISAC systems]()," submitted.
+11. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization using a parametric scattering model for extended targets in ISAC systems](https://arxiv.org/abs/2411.00145)," submitted.
 
-10. **Rang Liu**, M. Li, and Q. Liu, "[Joint space-time adaptive processing and beamforming design for cell-free ISAC systems](https://arxiv.org/abs/2410.14642)," in *Proc. *, 2025.
+10. **Rang Liu**, M. Li, and Q. Liu, "[Joint space-time adaptive processing and beamforming design for cell-free ISAC systems](https://arxiv.org/abs/2410.14642)," submitted.
 
 
 9. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization for joint array partitioning and beamforming design in ISAC systems]()," in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, USA, Oct. 2024.
@@ -291,9 +291,9 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 # 🌍 Activities
 - Invited talks: SPS webinar 
-- Technical Program Committee (TPC) for Conferences: VTC2024-Fall, ICNC2025, JC\&S2025, WCNC2025
+- Technical Program Committee (TPC) for Conferences: VTC2024-Fall, ICNC2025, JC\&S2025, WCNC2025, VTC2025-Spring
 - Co-Chair for Conferences: ICASSP2025
-- Reviewer for Journals: JSAC, JSTSP, TSP, TWC, TCOM, TIFS, WC, CM, TVT, SJ, TGCN, SPL, WCL, CL 
+- Reviewer for Journals: JSAC, JSTSP, TSP, TWC, TCOM, TIFS, TAES, WC, CM, TVT, SJ, TGCN, SPL, WCL, CL 
 - Reviewer for Conferences: GLOBECOM, ICC, WCNC, WCSP, ICCC, ISWCS, ISACom, JC&S, PIMRC
 
 
