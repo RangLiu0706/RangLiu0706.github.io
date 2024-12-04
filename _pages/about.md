@@ -117,10 +117,11 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 22. P. Jiang, M. Li, **Rang Liu**, W. Wang, and Q. Liu, "[Joint waveform and beamforming design in RIS-ISAC systems: A model-driven learning approach]()," *IEEE Trans. Commun.*, under review.
 
 21. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems]()," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, under review. 
+[<a href="https://github.com/RangLiu0706/Distributed-Distortion-Aware-Beamforming-Designs-for-CF-mMIMO-Systems">convergence analysis</a>] 
 
 20. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Dynamic hybrid beamforming designs for ELAA near-field communications](https://arxiv.org/abs/2409.03560)," *IEEE J. Sel. Areas Commun. (JSAC)*, to appear. 
 
-19. P. Li. M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[MIMO-OFDM ISAC waveform design for range-Doppler sidelobe suppression](https://arxiv.org/abs/2406.17218)," *IEEE Trans. Wireless Commun.*, to appear. 
+19. P. Li. M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[MIMO-OFDM ISAC waveform design for range-Doppler sidelobe suppression](https://ieeexplore.ieee.org/document/10771629)," *IEEE Trans. Wireless Commun.*, to appear. 
 
 18. X. Lv, **Rang Liu**, M. Li, and Q. Liu, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach]()," *IEEE Wireless Commun. Lett.*, under review. 
 
@@ -199,13 +200,13 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 31. Y. Sun, **Rang Liu**, Z. Lu, H. Luo, M. Li, and Q. Liu, "[Active reconfigurable intelligent surface empowered synthetic aperture radar imaging](https://arxiv.org/abs/2409.11728)," in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, USA, Oct. 2024.
 
-30. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distortion-aware beamforming design for MU-MISO systems]()," in *Proc. Veh. Technol. Conf. (VTC2024-Fall)*, Washington DC, USA, Oct. 2024.
+30. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distortion-aware beamforming design for MU-MISO systems](https://ieeexplore.ieee.org/document/10757545)," in *Proc. Veh. Technol. Conf. (VTC2024-Fall)*, Washington DC, USA, Oct. 2024.
 
-29. M. Yu, J. Chu, **Rang Liu**, P. Li, M. Li, and Q. Liu, "[Active RIS empowered secure MISO systems: AN and RIF approaches]()," in *Proc. Veh. Technol. Conf. (VTC2024-Fall)*, Washington DC, USA, Oct. 2024.
+29. M. Yu, J. Chu, **Rang Liu**, P. Li, M. Li, and Q. Liu, "[Active RIS empowered secure MISO systems: AN and RIF approaches](https://ieeexplore.ieee.org/document/10757472)," in *Proc. Veh. Technol. Conf. (VTC2024-Fall)*, Washington DC, USA, Oct. 2024.
 
-28. P. Jiang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Model-driven deep learning for joint waveform and beamforming design in RIS-ISAC systems]()," in *Proc. Veh. Technol. Conf. (VTC2024-Fall)*, Washington DC, USA, Oct. 2024.
+28. P. Jiang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Model-driven deep learning for joint waveform and beamforming design in RIS-ISAC systems](https://ieeexplore.ieee.org/document/10757550)," in *Proc. Veh. Technol. Conf. (VTC2024-Fall)*, Washington DC, USA, Oct. 2024.
 
-27. M. Lu, M. Yu, **Rang Liu**, S. Liu, M. Li, W. Wang, and Q. Liu, "[RIS-based dual-functional access point for energy efficiency in cell-free systems]()," in *Proc. Veh. Technol. Conf. (VTC2024-Fall)*, Washington DC, USA, Oct. 2024.
+27. M. Lu, M. Yu, **Rang Liu**, S. Liu, M. Li, W. Wang, and Q. Liu, "[RIS-based dual-functional access point for energy efficiency in cell-free systems](https://ieeexplore.ieee.org/document/10757457)," in *Proc. Veh. Technol. Conf. (VTC2024-Fall)*, Washington DC, USA, Oct. 2024.
 
 
 26. M. Liu, M. Li, **Rang Liu**, and Q. Liu,  "[A novel dynamic hybrid beamforming design for ELAA systems](https://ieeexplore.ieee.org/document/10622286)," in *Proc. IEEE Int. Conf. Commun. (ICC)*, Denver, USA, Jun. 2024. 
