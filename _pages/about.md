@@ -62,7 +62,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;First and Corresponding Author
 
-19. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://arxiv.org/abs/2410.12923)," *IEEE Trans. Wireless Commun.*, under review.  
+19. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://arxiv.org/abs/2410.12923)," *IEEE Trans. Wireless Commun.*, to appear.  
 
 18. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. [<a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC">code</a>]
 
