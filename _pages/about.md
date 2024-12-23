@@ -72,11 +72,9 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 18. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. [<a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC">code</a>]
 
-17. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, 
-applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.  [<a href="https://github.com/RangLiu0706/RIS_ISAC_magazine">code</a>]        
+17. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.  [<a href="https://github.com/RangLiu0706/RIS_ISAC_magazine">code</a>]        
 
-16. **Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems]
-(https://ieeexplore.ieee.org/document/9950493/)," *IEEE Commun. Lett.*, vol. 27, no. 2, pp. 615-619, Feb. 2023. <a href="https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/supportCL.pdf">supporting document</a>
+16. **Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems](https://ieeexplore.ieee.org/document/9950493/)," *IEEE Commun. Lett.*, vol. 27, no. 2, pp. 615-619, Feb. 2023. <a href="https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/supportCL.pdf">supporting document</a>
 
 
 15. **Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation](https://ieeexplore.ieee.org/document/9928318)," *IEEE Wireless Commun. Lett.*, vol. 12, no. 1, pp. 50-54, Jan. 2023.
