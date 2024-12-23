@@ -57,8 +57,7 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 
 - M. Li, **Rang Liu**, H. Luo, and Q. Liu, ``Reconfigurable Intelligent Surface Empowered Integrated Sensing and Communications: Principle, Modeling, and Optimization.'' 
-in [*Integrated Sensing and Communications for Future Wireless Networks: Principles, Advances and Key Enabling Technologies*]
-(https://shop.elsevier.com/books/integrated-sensing-and-communications-for-future-wireless-networks/kaushik/978-0-443-22143-9#full-description), edited by A. Kaushik. Amsterdam, Netherlands: Elsevier, 2024. 
+in [*Integrated Sensing and Communications for Future Wireless Networks: Principles, Advances and Key Enabling Technologies*](https://shop.elsevier.com/books/integrated-sensing-and-communications-for-future-wireless-networks/kaushik/978-0-443-22143-9#full-description), edited by A. Kaushik. Amsterdam, Netherlands: Elsevier, 2024. 
 
 - **Rang Liu**, M. Li, X. Meng, F. Liu, and A. L. Swindlehurst, ``Integrated Sensing and Communications with Reconfigurable Intelligent Surfaces.'' 
 in *Metasurfaces for Wireless Communications*. Springer, in production.
@@ -69,11 +68,9 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;First and Corresponding Author
 
-19. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems]
-(https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, to appear.  
+19. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, to appear.  
 
-18. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems]
-(https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. [<a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC">code</a>]
+18. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. [<a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC">code</a>]
 
 17. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, 
 applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.  [<a href="https://github.com/RangLiu0706/RIS_ISAC_magazine">code</a>]        
