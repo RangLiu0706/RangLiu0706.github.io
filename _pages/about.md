@@ -17,8 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree in Electronics Information Engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree from School of Information and Communication Engineering, Dalian University of Technology, Dalian, China, in 2023. My Ph. D. advisor is [Prof. Ming Li](https://www.minglabdut.com/index.html). I am currently working as a Postdoctoral Scholar with [Prof. Swindlehurst](https://scholar.google.com/citations?user=ibAcKWwAAAAJ&hl=en) at the Department of Electrical Engineering and Computer Science, University of California, Irvine.
-My research interests mainly focus on signal processing, massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communication. 
+I received the B.S. degree in Electronics Information Engineering from Dalian University of Technology, Dalian, China, in 2018, 
+and the Ph.D. degree from School of Information and Communication Engineering, Dalian University of Technology, Dalian, China, in 2023. 
+My Ph. D. advisor is [Prof. Ming Li](https://www.minglabdut.com/index.html). 
+I am currently a Postdoctoral Scholar working with [Prof. Swindlehurst](https://scholar.google.com/citations?user=ibAcKWwAAAAJ&hl=en) at the Department of Electrical 
+Engineering and Computer Science, University of California, Irvine.
+My research interests focus on optimization and signal processing in wireless communication systems, with an emphasis on massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communications.
 Please feel free to contact me at rangl2@uci.edu.
 
 
@@ -52,9 +56,12 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 # 📖 Book Chapters
 
 
-- M. Li, **Rang Liu**, H. Luo, and Q. Liu, ``Reconfigurable Intelligent Surface Empowered Integrated Sensing and Communications: Principle, Modeling, and Optimization.'' In [*Integrated Sensing and Communications for Future Wireless Networks: Principles, Advances and Key Enabling Technologies*](https://www.amazon.com/Integrated-Sensing-Communications-Wireless-Networks/dp/044322143X), edited by A. Kaushik. Amsterdam, Netherlands: Elsevier, 2024. 
+- M. Li, **Rang Liu**, H. Luo, and Q. Liu, ``Reconfigurable Intelligent Surface Empowered Integrated Sensing and Communications: Principle, Modeling, and Optimization.'' 
+in [*Integrated Sensing and Communications for Future Wireless Networks: Principles, Advances and Key Enabling Technologies*]
+(https://shop.elsevier.com/books/integrated-sensing-and-communications-for-future-wireless-networks/kaushik/978-0-443-22143-9#full-description), edited by A. Kaushik. Amsterdam, Netherlands: Elsevier, 2024. 
 
-- **Rang Liu**, M. Li, X. Meng, F. Liu, and A. L. Swindlehurst, ``Integrated Sensing and Communications with Reconfigurable Intelligent Surfaces.'' In *Metasurfaces for Wireless Communications*. Springer, in production.
+- **Rang Liu**, M. Li, X. Meng, F. Liu, and A. L. Swindlehurst, ``Integrated Sensing and Communications with Reconfigurable Intelligent Surfaces.'' 
+in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 
 
@@ -62,13 +69,17 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;First and Corresponding Author
 
-19. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://arxiv.org/abs/2410.12923)," *IEEE Trans. Wireless Commun.*, to appear.  
+19. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems]
+(https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, to appear.  
 
-18. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. [<a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC">code</a>]
+18. **Rang Liu**, M. Li, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems]
+(https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. [<a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC">code</a>]
 
-17. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.  [<a href="https://github.com/RangLiu0706/RIS_ISAC_magazine">code</a>]        
+17. **Rang Liu**, M. Li, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, 
+applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.  [<a href="https://github.com/RangLiu0706/RIS_ISAC_magazine">code</a>]        
 
-16. **Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems](https://ieeexplore.ieee.org/document/9950493/)," *IEEE Commun. Lett.*, vol. 27, no. 2, pp. 615-619, Feb. 2023. <a href="https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/supportCL.pdf">supporting document</a>
+16. **Rang Liu**, M. Li, and Q. Liu, "[Joint transmit waveform and reflection design for RIS-assisted MIMO radar systems]
+(https://ieeexplore.ieee.org/document/9950493/)," *IEEE Commun. Lett.*, vol. 27, no. 2, pp. 615-619, Feb. 2023. <a href="https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/supportCL.pdf">supporting document</a>
 
 
 15. **Rang Liu**, Z. Bo, M. Li, and Q. Liu, "[End-to-end learning for symbol-level precoding and detection with adaptive modulation](https://ieeexplore.ieee.org/document/9928318)," *IEEE Wireless Commun. Lett.*, vol. 12, no. 1, pp. 50-54, Jan. 2023.
@@ -94,6 +105,8 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 
 7. 刘让, 罗泓昊, 李明. [智能超表面在通信感知一体化系统中的应用](https://www.zte.com.cn/china/about/magazine/zte-communications/2022/cn202203/specialtopic/cn202202009.html)[J]. 中兴通讯技术, 2022, 28(3): 53-57.
+
+18. X. Lv, **Rang Liu**, M. Li, and Q. Liu, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach]()," *IEEE Wireless Commun. Lett.*, under review. 
 
 6. Z. Xiao, **Rang Liu**\*, M. Li, W. Wang, and Q. Liu, "[Sparsity exploitation via joint receive processing and transmit beamforming design for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10736664)," *IEEE Trans. Commun.*, to appear. 
 
@@ -123,7 +136,6 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 19. P. Li. M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[MIMO-OFDM ISAC waveform design for range-Doppler sidelobe suppression](https://ieeexplore.ieee.org/document/10771629)," *IEEE Trans. Wireless Commun.*, to appear. 
 
-18. X. Lv, **Rang Liu**, M. Li, and Q. Liu, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach]()," *IEEE Wireless Commun. Lett.*, under review. 
 
 17. P. Jiang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[SLP-based dual-functional waveform design for ISAC systems: A deep learning approach]()," *IEEE Trans. Veh. Technol.*, under review.
 
@@ -167,10 +179,12 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 11. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization using a parametric scattering model for extended targets in ISAC systems](https://arxiv.org/abs/2411.00145)," submitted.
 
-10. **Rang Liu**, M. Li, and Q. Liu, "[Joint space-time adaptive processing and beamforming design for cell-free ISAC systems](https://arxiv.org/abs/2410.14642)," submitted.
+10. **Rang Liu**, M. Li, and Q. Liu, "[Joint space-time adaptive processing and beamforming design for cell-free ISAC systems](https://arxiv.org/abs/2410.14642)," in 
+*Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)*, Hyderabad, India, Apr. 2025.
 
 
-9. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization for joint array partitioning and beamforming design in ISAC systems]()," in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, USA, Oct. 2024.
+9. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization for joint array partitioning and beamforming design in ISAC systems]()," 
+in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, USA, Oct. 2024.
 
 8. **Rang Liu**, M. Li, and Q. Liu, "[Joint transmit/receive antenna selection and beamforming design for ISAC systems](https://ieeexplore.ieee.org/document/10437147)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Kuala Lumpur, Malaysia, Dec. 2023. 
 
@@ -289,16 +303,15 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
 
 
 # 🏆 Honors and Awards
-- *2023.12*: I receive the Outstanding Doctoral Dissertation of CESE.
-- *2020.10*: I receive the National Scholarship.
-- *2022.10*: I receive the National Scholarship.
+- *2023.12*: I received the Outstanding Doctoral Dissertation of China Education Society of Electronics.
+- *2022.10*: I received the National Scholarship.
+- *2020.10*: I received the National Scholarship.
 
 # 🌍 Activities
-- Invited talks: SPS webinar 
-- Technical Program Committee (TPC) for Conferences: VTC2024-Fall, ICNC2025, JC\&S2025, WCNC2025, VTC2025-Spring
-- Co-Chair for Conferences: ICASSP2025
-- Reviewer for Journals: JSAC, JSTSP, TSP, TWC, TCOM, TIFS, TAES, WC, CM, TVT, SJ, TGCN, SPL, WCL, CL 
-- Reviewer for Conferences: GLOBECOM, ICC, WCNC, WCSP, ICCC, ISWCS, ISACom, JC&S, PIMRC
+- Co-chair for special sessions in: SAM 2024, ICASSP 2025.
+- Invited talks: SPS webinar.
+- TPC for conferences: VTC 2024-Fall, ICNC 2025, JC\&S 2025, WCNC 2025, VTC 2025-Spring.
+- Reviewer for JSAC, JSTSP, TSP, TCOM, TIFS, TAES, TWC, TVT, TGCN, TCCN, SJ, WCM, CM, WCL, SPL, CL, ICC, GLOBECOM, WCNC, etc.
 
 
 # 👩‍🎓 Educations
