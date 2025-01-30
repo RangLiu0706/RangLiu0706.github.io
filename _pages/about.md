@@ -95,12 +95,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 9.	**Rang Liu**, M. Li\*, Q. Liu, and A. Lee Swindlehurst, "[Secure symbol-level precoding in MU-MISO wiretap systems](https://ieeexplore.ieee.org/document/9068286)," *IEEE Trans. Inf. Forens. Security*, vol. 15, pp. 3359-3373, Apr. 2020.
 
-
 8.	**Rang Liu**, H. Li, and M. Li\*, "[Symbol-level hybrid precoding in mmWave multiuser MISO systems](https://ieeexplore.ieee.org/document/8756035)," *IEEE Commun. Lett.*, vol. 23, no. 9, pp. 1636-1639, Sep. 2019.
-
-<!--
-7. 刘让, 罗泓昊, 李明. [智能超表面在通信感知一体化系统中的应用](https://www.zte.com.cn/china/about/magazine/zte-communications/2022/cn202203/specialtopic/cn202202009.html)[J]. 中兴通讯技术, 2022, 28(3): 53-57.
--->
 
 7. X. Lv, **Rang Liu**\*, M. Li, and Q. Liu, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach](https://arxiv.org/abs/2501.07893)," under review. 
 
@@ -119,21 +114,20 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;Co-Author
 
-25. S. Zhang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Target detection in ISAC systems with active RISs: A multi-perspective bbservation approach](https://arxiv.org/abs/2501.06449)," under review. 
+25. S. Zhang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Target detection in ISAC systems with active RISs: A multi-perspective observation approach](https://arxiv.org/abs/2501.06449)," under review. 
 
-24. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Low range-Doppler sidelobe ISAC waveform design: A low-complexity approach]()," under review. 
+24. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Low range-Doppler sidelobe ISAC waveform design: A low-complexity approach]()," *IEEE Trans. Veh. Technol.*, under review.
 
 23. J. Xu, H. Wang, **Rang Liu**, J. A. Nossek, and A. L. Swindlehurst, "[Non-reciprocal reconfigurable intelligent surfaces](https://arxiv.org/abs/2411.15617)," under review. 
 
 22. L. Liu, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://arxiv.org/abs/2409.07034)," under review. 
 
-21. P. Jiang, M. Li, **Rang Liu**, W. Wang, and Q. Liu, "[Joint waveform and beamforming design in RIS-ISAC systems: A model-driven learning approach]()," *IEEE Trans. Commun.*, under review.
+21. P. Jiang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[SLP-based dual-functional waveform design for ISAC systems: A deep learning approach]()," *IEEE Trans. Veh. Technol.*, under review.
 
-20. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems]()," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, under review. 
+20. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems]()," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, to appear. 
 [<a href="https://github.com/RangLiu0706/Distributed-Distortion-Aware-Beamforming-Designs-for-CF-mMIMO-Systems">convergence analysis</a>] 
 
-
-19. P. Jiang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[SLP-based dual-functional waveform design for ISAC systems: A deep learning approach]()," *IEEE Trans. Veh. Technol.*, under review.
+19. P. Jiang, M. Li, **Rang Liu**, W. Wang, and Q. Liu, "[Joint waveform and beamforming design in RIS-ISAC systems: A model-driven learning approach]()," *IEEE Trans. Commun.*, to appear.
 
 18. M. Liu, M. Li\*, **Rang Liu**, and Q. Liu, "[Dynamic hybrid beamforming designs for ELAA near-field communications](https://arxiv.org/abs/2409.03560)," *IEEE J. Sel. Areas Commun. (JSAC)*, to appear. 
 
@@ -268,7 +262,6 @@ in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, U
 12.	P. Ni, **Rang Liu**, M. Li, and Q. Liu, "[Hybrid analog-digital beamforming in cooperative mmWave MIMO systems](https://ieeexplore.ieee.org/document/9685913)," in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Madrid, Spain, Dec. 2021.
 
 
-
 11.	Q. Zhu, **Rang Liu**, Y. Liu, M. Li, and Q. Liu, "[Joint design of hybrid and reflection beamforming for RIS-aided mmWave MIMO communications](https://ieeexplore.ieee.org/document/9682008)," in *IEEE Globecom Workshops (GC Wkshps)*, Madrid, Spain, Dec. 2021.
 
 
@@ -328,3 +321,6 @@ in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, U
 <span id="busuanzi_container_site_uv">
   Total <span id="busuanzi_value_site_uv"></span> visitors.
 </span>
+<!--
+7. 刘让, 罗泓昊, 李明. [智能超表面在通信感知一体化系统中的应用](https://www.zte.com.cn/china/about/magazine/zte-communications/2022/cn202203/specialtopic/cn202202009.html)[J]. 中兴通讯技术, 2022, 28(3): 53-57.
+-->
