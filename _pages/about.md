@@ -99,8 +99,6 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 8.	**Rang Liu**, H. Li, and M. Li\*, "[Symbol-level hybrid precoding in mmWave multiuser MISO systems](https://ieeexplore.ieee.org/document/8756035)," *IEEE Commun. Lett.*, vol. 23, no. 9, pp. 1636-1639, Sep. 2019.
 
-7. X. Lv, **Rang Liu**\*, M. Li, and Q. Liu, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach](https://arxiv.org/abs/2501.07893)," under review. 
-
 6. Z. Xiao, **Rang Liu**\*, M. Li, W. Wang, and Q. Liu, "[Sparsity exploitation via joint receive processing and transmit beamforming design for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10736664)," *IEEE Trans. Commun.*, to appear. 
 
 5. Z. Xiao, **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[A novel joint angle-range-velocity estimation method for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10634583)," *IEEE Trans. Signal Process.*, vol. 72, pp. 3805-3818, Aug. 2024. 
