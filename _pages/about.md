@@ -92,10 +92,10 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 11.	**Rang Liu**, M. Li\*, Q. Liu, A. L. Swindlehurst, and Q. Wu, "[Intelligent reflecting surface based passive information transmission: A symbol-level precoding approach](https://ieeexplore.ieee.org/document/9435988)," *IEEE Trans. Veh. Technol.*, vol. 70, no. 7, pp. 6735-6749, Jul. 2021. [<a href="https://github.com/RangLiu0706/RIS-based-passive-information-transmission">code</a>]
 
-10.	**Rang Liu**, M. Li\*, Q. Liu, and A. Lee Swindlehurst, "[Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO systems](https://ieeexplore.ieee.org/document/9219206)," *IEEE Trans. Wireless Commun.*, vol. 20, no. 2, pp. 798-811, Feb. 2021. [<a href="https://github.com/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO">code</a>]
+10.	**Rang Liu**, M. Li\*, Q. Liu, and A. L. Swindlehurst, "[Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO systems](https://ieeexplore.ieee.org/document/9219206)," *IEEE Trans. Wireless Commun.*, vol. 20, no. 2, pp. 798-811, Feb. 2021. [<a href="https://github.com/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO">code</a>]
 
 
-9.	**Rang Liu**, M. Li\*, Q. Liu, and A. Lee Swindlehurst, "[Secure symbol-level precoding in MU-MISO wiretap systems](https://ieeexplore.ieee.org/document/9068286)," *IEEE Trans. Inf. Forens. Security*, vol. 15, pp. 3359-3373, Apr. 2020.
+9.	**Rang Liu**, M. Li\*, Q. Liu, and A. L. Swindlehurst, "[Secure symbol-level precoding in MU-MISO wiretap systems](https://ieeexplore.ieee.org/document/9068286)," *IEEE Trans. Inf. Forens. Security*, vol. 15, pp. 3359-3373, Apr. 2020.
 
 8.	**Rang Liu**, H. Li, and M. Li\*, "[Symbol-level hybrid precoding in mmWave multiuser MISO systems](https://ieeexplore.ieee.org/document/8756035)," *IEEE Commun. Lett.*, vol. 23, no. 9, pp. 1636-1639, Sep. 2019.
 
@@ -114,17 +114,17 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;Co-Author
 
-
+27. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Tri-timescale beamforming design for tri-hybrid architectures with reconfigurable antennas](https://arxiv.org/abs/2503.03620)," submitted. 
 
 26. Y. Sun, **Rang Liu**, M. Li, and Q. Liu, "[One-bit DAC/ADC-based transceiver designs for MIMO-ISAC systems]()," submitted. 
 
-25. S. Zhang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Target detection in ISAC systems with active RISs: A multi-perspective observation approach](https://arxiv.org/abs/2501.06449)," under review. 
+25. S. Zhang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Target detection in ISAC systems with active RISs: A multi-perspective observation approach](https://arxiv.org/abs/2501.06449)," *IEEE Trans. Cogn. Commun. Netw.*, under review.  
 
 24. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Low range-Doppler sidelobe ISAC waveform design: A low-complexity approach]()," *IEEE Trans. Veh. Technol.*, under review.
 
 23. J. Xu, H. Wang, **Rang Liu**, J. A. Nossek, and A. L. Swindlehurst, "[Non-reciprocal reconfigurable intelligent surfaces](https://arxiv.org/abs/2411.15617)," *IEEE Wireless Commun. Lett.*, under review. 
 
-22. L. Liu, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://arxiv.org/abs/2409.07034)," under review. 
+22. L. Liu, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://arxiv.org/abs/2409.07034)," *IEEE Trans. Wireless Commun.*, under review.
 
 21. P. Jiang, M. Li, **Rang Liu**, W. Wang, and Q. Liu, "[SLP-based dual-functional waveform design for ISAC systems: A deep learning approach]()," *IEEE Trans. Veh. Technol.*, to appear.
 
@@ -133,7 +133,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 19. P. Jiang, M. Li\*, **Rang Liu**, W. Wang, and Q. Liu, "[Joint waveform and beamforming design in RIS-ISAC systems: A model-driven learning approach](https://ieeexplore.ieee.org/document/10857301)," *IEEE Trans. Commun.*, to appear.
 
-18. M. Liu, M. Li\*, **Rang Liu**, and Q. Liu, "[Dynamic hybrid beamforming designs for ELAA near-field communications](https://ieeexplore.ieee.org/document/10845800)," *IEEE J. Sel. Areas Commun. (JSAC)*, to appear. 
+18. M. Liu, M. Li\*, **Rang Liu**, and Q. Liu, "[Dynamic hybrid beamforming designs for ELAA near-field communications](https://ieeexplore.ieee.org/document/10845800)," *IEEE J. Sel. Areas Commun. (JSAC)*, vol. 43, no. 3, pp. 644-658, Mar. 2025. 
 
 17. P. Li. M. Li\*, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[MIMO-OFDM ISAC waveform design for range-Doppler sidelobe suppression](https://ieeexplore.ieee.org/document/10771629)," *IEEE Trans. Wireless Commun.*, vol. 24, no. 2, pp. 1001-1015, Feb. 2025. 
 
