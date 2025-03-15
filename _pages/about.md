@@ -180,7 +180,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 11. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization using a parametric scattering model for extended targets in ISAC systems](https://arxiv.org/abs/2411.00145)," submitted.
 
-10. **Rang Liu**, M. Li, and Q. Liu, "[Joint space-time adaptive processing and beamforming design for cell-free ISAC systems](https://arxiv.org/abs/2410.14642)," in 
+10. **Rang Liu**, M. Li, and Q. Liu, "[Joint space-time adaptive processing and beamforming design for cell-free ISAC systems](https://ieeexplore.ieee.org/document/10887688)," in 
 *Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)*, Hyderabad, India, Apr. 2025.
 
 
