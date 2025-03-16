@@ -70,7 +70,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective]()," submitted.
 
-19. **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, to appear.  
+19. **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, vol. 24, no. 3, pp. 2052-2066, Mar. 2025.
 
 18. **Rang Liu**, M. Li\*, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. [<a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC">code</a>]
 
@@ -178,7 +178,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;First Author
 
-11. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization using a parametric scattering model for extended targets in ISAC systems](https://arxiv.org/abs/2411.00145)," submitted.
+11. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization using a parametric scattering model for extended targets in ISAC systems](https://arxiv.org/abs/2411.00145)," in *Proc. IEEE Int. Radar Conf.*, Atlanta, Georgia, USA, May 2025..
 
 10. **Rang Liu**, M. Li, and Q. Liu, "[Joint space-time adaptive processing and beamforming design for cell-free ISAC systems](https://ieeexplore.ieee.org/document/10887688)," in 
 *Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)*, Hyderabad, India, Apr. 2025.
