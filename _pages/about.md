@@ -68,7 +68,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;First and Corresponding Author
 
-20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective]()," submitted.
+20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective](https://arxiv.org/abs/2503.13870)," submitted.
 
 19. **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, vol. 24, no. 3, pp. 2052-2066, Mar. 2025.
 
