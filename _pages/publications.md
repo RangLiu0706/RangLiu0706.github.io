@@ -74,7 +74,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 
 
-# 📑 Journals (Co-author)  {#journal-coauthor}
+# 🤝 Journals (Co-author)  {#journal-coauthor}
 
 29. L. V. Nguyen, **Rang Liu**, N. T. Nguyen, M. Juntti, B. Ottersten, and A. L. Swindlehurst, "[Exploiting symmetric non-convexity for multi-objective symbol-level DFRC signal design](https://arxiv.org/abs/2504.14281)," submitted.
 
@@ -138,7 +138,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 
 
-# 📝 Conferences  {#conferences}
+# 🎤 Conferences  {#conferences}
 
 11. **Rang Liu**, A. L. Swindlehurst, and M. Li, "[CRB optimization using a parametric scattering model for extended targets in ISAC systems](https://arxiv.org/abs/2411.00145)," in *Proc. IEEE Int. Radar Conf.*, Atlanta, Georgia, USA, May 2025.
 
