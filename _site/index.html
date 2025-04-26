@@ -153,113 +153,74 @@
     <div id="main" role="main">
       
 <div class="sidebar">
-  
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="/images/Rang.jpg" class="author__avatar" alt="Rang Liu">
+    <img
+      src="/images/Rang.jpg"
+      class="author__avatar"
+      alt="Rang Liu"
+    >
   </div>
 
   <div class="author__content">
     <h3 class="author__name">Rang Liu</h3>
-    <p class="author__bio">University of California Irvine</p>
+    
+      <p class="author__bio">University of California Irvine</p>
+    
   </div>
 
   <div class="author__urls-wrapper">
-    <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       
-        <li><div style="white-space: normal; margin-bottom: 1em;">Postdoc</div></li>
+        <li>
+          <div style="white-space: normal; margin-bottom: 1em;">
+            Postdoc
+          </div>
+        </li>
       
       
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Irvine, CA</li>
-      
-      
-      
-      
-        <li><a href="mailto:rangl2@uci.edu"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
-      
-      
-       
-        <li><a href="https://www.researchgate.net/profile/Rang-Liu-3"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+        <li><i class="fa fa-fw fa-map-marker"></i> Irvine, CA</li>
       
       
       
       
+        <li>
+          <a href="mailto:rangl2@uci.edu">
+            <i class="fas fa-fw fa-envelope"></i> Email
+          </a>
+        </li>
+        <!-- Copy-to-Clipboard 邮箱按钮 -->
+        <li class="copy-email">
+          <button id="copy-email-btn" data-email="rangl2@uci.edu">
+            <i class="fas fa-fw fa-envelope"></i>
+            Copy Email
+          </button>
+        </li>
+      
+      
+      
+        <li>
+          <a href="https://www.researchgate.net/profile/Rang-Liu-3">
+            <i class="fab fa-fw fa-researchgate"></i> ResearchGate
+          </a>
+        </li>
       
       
       
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-        <li><a href="https://scholar.google.com/citations?user=YVZWuQcAAAAJ&hl=en"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
-      
-      
-      
-      
+        <li>
+          <a href="https://scholar.google.com/citations?user=YVZWuQcAAAAJ&hl=en">
+            <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
+          </a>
+        </li>
       
     </ul>
-      <div class="author__urls_sm">
-      
-      
-        <a href="mailto:rangl2@uci.edu"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
-      
-      
-       
-        <a href="https://www.researchgate.net/profile/Rang-Liu-3"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-        <a href="https://scholar.google.com/citations?user=YVZWuQcAAAAJ&hl=en"><i class="fas fa-fw fa-graduation-cap"></i></a>
-      
-      
-      
-      
-      
-    </div>
   </div>
 </div>
+</div>
 
-  
-    
-  
-  </div>
 
     
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
@@ -274,8 +235,7 @@ and the Ph.D. degree from School of Information and Communication Engineering, D
 My Ph. D. advisor is <a href="https://www.minglabdut.com/index.html">Prof. Ming Li</a>. 
 I am currently a Postdoctoral Scholar working with <a href="https://scholar.google.com/citations?user=ibAcKWwAAAAJ&amp;hl=en">Prof. Swindlehurst</a> at the Department of Electrical 
 Engineering and Computer Science, University of California, Irvine.
-My research interests focus on optimization and signal processing in wireless communication systems, with an emphasis on massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communications.
-Please feel free to contact me at rangl2@uci.edu.</p>
+My research interests focus on optimization and signal processing in wireless communication systems, with an emphasis on massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communications.</p>
 
 <h1 id="-news">🔥 News</h1>
 <ul>
@@ -384,6 +344,30 @@ One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
             });
         });
     })
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const btn = document.getElementById('copy-email-btn');
+    if (!btn) return;
+    btn.addEventListener('click', () => {
+      const email = btn.dataset.email;
+      navigator.clipboard.writeText(email).then(() => {
+        btn.textContent = 'Copied!';
+        setTimeout(() => { btn.textContent = 'Copy Email'; }, 2000);
+      }).catch(() => {
+        // 如果浏览器不支持 clipboard API
+        const textarea = document.createElement('textarea');
+        textarea.value = email;
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+        btn.textContent = 'Copied!';
+        setTimeout(() => { btn.textContent = 'Copy Email'; }, 2000);
+      });
+    });
+  });
 </script>
 
 

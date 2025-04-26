@@ -15,7 +15,7 @@ My Ph. D. advisor is [Prof. Ming Li](https://www.minglabdut.com/index.html).
 I am currently a Postdoctoral Scholar working with [Prof. Swindlehurst](https://scholar.google.com/citations?user=ibAcKWwAAAAJ&hl=en) at the Department of Electrical 
 Engineering and Computer Science, University of California, Irvine.
 My research interests focus on optimization and signal processing in wireless communication systems, with an emphasis on massive MIMO systems, reconfigurable intelligent surfaces, and integrated sensing and communications.
-Please feel free to contact me at rangl2@uci.edu.
+ 
 
 
 # 🔥 News

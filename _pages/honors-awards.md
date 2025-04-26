@@ -8,7 +8,7 @@ sidebar: true
 
  
 
-# 🏆 Honors & Awards
+# 🏆 Honors &amp; Awards
 - **Feb. 2025** - Exemplary Reviewer Award, IEEE Wireless Communications Letters.
 - **Dec. 2023** - Outstanding Doctoral Dissertation Award, China Education Society of Electronics. 
 - **Oct. 2022** - National Scholarship, Ministry of Education of China.

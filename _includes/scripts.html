@@ -30,3 +30,27 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const btn = document.getElementById('copy-email-btn');
+    if (!btn) return;
+    btn.addEventListener('click', () => {
+      const email = btn.dataset.email;
+      navigator.clipboard.writeText(email).then(() => {
+        btn.textContent = 'Copied!';
+        setTimeout(() => { btn.textContent = 'Copy Email'; }, 2000);
+      }).catch(() => {
+        // 如果浏览器不支持 clipboard API
+        const textarea = document.createElement('textarea');
+        textarea.value = email;
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+        btn.textContent = 'Copied!';
+        setTimeout(() => { btn.textContent = 'Copy Email'; }, 2000);
+      });
+    });
+  });
+</script>

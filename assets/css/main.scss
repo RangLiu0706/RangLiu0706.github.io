@@ -298,3 +298,31 @@ h1:before, .anchor:before {
   border-bottom: 2px solid $primary-color;
   padding-bottom: 0.25em;
 }
+// ──────────────────────────────────────────────────────────
+// Sidebar “Copy Email” 按钮样式
+// ──────────────────────────────────────────────────────────
+
+.sidebar-item.copy-email {
+  display: flex;
+  align-items: center;
+  margin: 0.5em 0;
+
+  i {
+    margin-right: 0.5em;
+    font-size: 1.2em;
+  }
+
+  #copy-email-btn {
+    background: none;
+    border: 1px solid $primary-color;
+    padding: 0.25em 0.75em;
+    font-size: 0.9em;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+
+    &:hover {
+      background: $primary-color;
+      color: white;
+    }
+  }
+}
