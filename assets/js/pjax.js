@@ -1,14 +1,15 @@
-// pjax.js — 完整版：导航高亮 + 子导航平滑滚动
+// pjax.js — 完整版：导航高亮 + 子导航平滑滚动 + 兼容 GitHub Pages 子路径
 document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('pjax-container');
-  const topLinks = document.querySelectorAll('.masthead__menu-item a');
+  const topLinks = Array.from(document.querySelectorAll('.masthead__menu-item a'));
 
-  // 更新主导航高亮
+  // 更新主导航高亮，兼容仓库子路径
   function updateTopnavHighlight() {
-    const path = window.location.pathname.replace(/\/+$/, '/');
+    const currentPath = window.location.pathname.replace(/\/+$/, '/');
     topLinks.forEach(link => {
-      const href = link.getAttribute('href');
-      if (href === path || (href !== '/' && path.startsWith(href))) {
+      // 用 link.pathname 确保拿到带仓库前缀的绝对路径
+      const hrefPath = link.pathname.replace(/\/+$/, '/');
+      if (hrefPath === currentPath || (hrefPath !== '/' && currentPath.startsWith(hrefPath))) {
         link.classList.add('active');
         link.setAttribute('aria-current', 'page');
       } else {
@@ -18,16 +19,15 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 绑定子导航锚点滚动，覆盖 base target
+  // 绑定子导航锚点滚动（覆盖 base target）
   function bindSubnav() {
     document.querySelectorAll('.subnav a[href^="#"]').forEach(link => {
-      link.target = '_self'; // 覆盖 base target="_blank"
+      link.target = '_self';
       link.addEventListener('click', e => {
         e.preventDefault();
-        const target = document.querySelector(link.getAttribute('href'));
-        if (target) {
-          target.scrollIntoView({ behavior: 'smooth' });
-          // 更新 URL 中的 hash，但不重载页面
+        const targetEl = document.querySelector(link.hash);
+        if (targetEl) {
+          targetEl.scrollIntoView({ behavior: 'smooth' });
           history.replaceState(null, '', window.location.pathname + link.hash);
         }
       });
@@ -45,13 +45,14 @@ document.addEventListener('DOMContentLoaded', () => {
         if (next && container) {
           container.innerHTML = next.innerHTML;
         }
-        // 更新页面标题（如果有）
+        // 可选：更新页内标题
         const newTitle = doc.querySelector('h1.page__title');
         if (newTitle) {
           const titleEl = document.querySelector('h1.page__title');
           if (titleEl) titleEl.textContent = newTitle.textContent;
         }
-        // —— 先更新历史记录 —— 
+
+        // 先更新历史记录
         if (addToHistory) {
           history.pushState(null, '', url);
         }
@@ -76,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadPage(location.href, false);
   });
 
-  // 初次加载时，设置高亮并绑定子导航
+  // 首次加载时，设置高亮并绑定子导航
   updateTopnavHighlight();
   bindSubnav();
 });
