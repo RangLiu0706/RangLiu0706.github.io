@@ -19,30 +19,34 @@ Please feel free to contact me at rangl2@uci.edu.
 
 
 # 🔥 News
-- *2024.03*: &nbsp; I am invited to present our work about RIS-ISAC on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/RIS-ISAC.pdf">slides</a>]
+- **Mar. 2024** – Invited to present RIS-ISAC work on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/RIS-ISAC.pdf">slides</a>]
+- **Feb. 2024** – Released code packages for academic use.  
+- **Nov. 2023** – Paper accepted by IEEE TWC.  
+- **Sep. 2023** – Started postdoctoral research at UCI.  
+- **Aug. 2023** – Conference paper accepted by GLOBECOM 2023.  
+- **Jul. 2023** – Successfully defended doctoral dissertation.  
+- **Nov. 2022** – Paper accepted by WC and CL.
+- **Oct. 2022** – Received National Scholarship. Paper accepted by WCL.
+- **Jul. 2022** – Launched personal blog.  
+
+
+
 <!-- *2024.03*: &nbsp; One journal paper co-authored with Qi is accepted by TWC. -->
 <!-- *2024.02*: &nbsp; One journal paper co-authored with Haocheng is accepted by TVT. -->
-- *2024.02*: &nbsp; Some codepackages are made public for personal and academic use.
 <!-- *2024.01*: &nbsp; Some papers coauthored with my colleagues are accepted by WCNC and ICC. -->
-- *2023.11*: &nbsp; My paper is accepted by TWC.
 <!-- *2023.10*: &nbsp; One correspondence co-authored with Jinjin is accepted by TVT.-->
-- *2023.09*: &nbsp; My postdoc research starts at UCI. :)
-- *2023.08*: &nbsp; My conference paper is accepted by Globecom 2023.
-- *2023.07*: &nbsp; I successfully defend my doctoral dissertation.
+
 <!-- *2023.02*: &nbsp; Two correspondence co-authored with Honghao and Qi are accepted by TVT.
 *2023.01*: &nbsp; One conference paper co-authored with Wanning is accepted by ICC2023.
 *2022.12*: &nbsp; One journal paper co-authored with Sifan is accepted by TVT.-->
-- *2022.11*: &nbsp; My paper is accepted by WC and CL.
+
 <!-- <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 One journal paper co-authored with Jinjin is accepted by TVT.-->
-- *2022.10*: &nbsp; I received the National Scholarship.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-My paper is accepted by WCL.
+
 <!-- *2022.09*: &nbsp; Two journal papers co-authored with Qi and Zihuan are accepted by TCOM.
 *2022.08*: &nbsp; One correspondence co-authored with Honghao is accepted by TVT.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 One conference paper co-authored with Zichao is accepted by GLOBECOM 2022. -->
-- *2022.07*: &nbsp; My blog is online. Yeah!
 
 
  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>

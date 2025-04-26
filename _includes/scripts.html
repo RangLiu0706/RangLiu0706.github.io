@@ -1,6 +1,27 @@
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/pjax.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/pjax.js'        | relative_url }}"></script>
 
+<!-- 动态更新主导航 active -->
+<script>
+  function updateNavActive() {
+    var path = window.location.pathname;
+    document.querySelectorAll('#site-nav .visible-links a')
+      .forEach(function(link) {
+        var href = link.getAttribute('href');
+        if (href === path || (href !== '/' && path.startsWith(href))) {
+          link.classList.add('active');
+          link.setAttribute('aria-current', 'page');
+        } else {
+          link.classList.remove('active');
+          link.removeAttribute('aria-current');
+        }
+      });
+  }
+  // 首次加载和每次 PJAX 完成后都执行
+  document.addEventListener('DOMContentLoaded', updateNavActive);
+  document.addEventListener('pjax:end',       updateNavActive);
+  document.addEventListener('pjax:complete',  updateNavActive);
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

@@ -225,18 +225,21 @@ h1:before, .anchor:before {
   transition: color 0.2s, border-color 0.2s;
 }
 
-/* 悬停时稍微点亮 */
-.masthead__menu-item a:hover {
+ 
+.masthead__menu-link:hover,
+.masthead__menu-link:focus {
   color: $primary-color !important;
 }
 
-/* 当前项高亮：字体加粗 + 底部短线 */
-.masthead__menu-item a.active {
+.masthead__menu-link.active {
   color: $primary-color !important;
   font-weight: 600;
   border-bottom: 2px solid $primary-color;
   padding-bottom: 0.25em;
 }
+
+
+
 /* ─────────────────────────────────────────
    子导航吸顶（Sticky Subnav）
    ───────────────────────────────────────── */
@@ -250,3 +253,48 @@ h1:before, .anchor:before {
     border-bottom: 1px solid $border-color; /* 保留下边框 */
   }
   
+// —— 主导航 链接的基础样式 ——
+.masthead__menu-link {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  color: inherit;
+}
+
+// Hover / Focus
+.masthead__menu-link:hover,
+.masthead__menu-link:focus {
+  color: $primary-color !important;
+}
+
+// 当前页面高亮
+.masthead__menu-link.active {
+  color: $primary-color !important;
+  font-weight: 600;
+  border-bottom: 2px solid $primary-color;
+  padding-bottom: 0.25em;
+}
+
+
+// ──────────────────────────────────────────────────────────────────────────
+// Custom Nav Active Styling
+// ──────────────────────────────────────────────────────────────────────────
+
+.masthead__menu-link {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  color: inherit;
+}
+
+.masthead__menu-link:hover,
+.masthead__menu-link:focus {
+  color: $primary-color !important;
+}
+
+.masthead__menu-link.active {
+  color: $primary-color !important;
+  font-weight: 600;
+  border-bottom: 2px solid $primary-color;
+  padding-bottom: 0.25em;
+}

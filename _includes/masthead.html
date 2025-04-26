@@ -5,17 +5,18 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
+            {% assign this_url = link.url | relative_url %}
             <li class="masthead__menu-item">
               <a
-                href="{{ link.url | relative_url }}"
-                class="{% if page.url == link.url %}active{% endif %}"
+                href="{{ this_url }}"
+                class="masthead__menu-link{% if page.url == this_url or page.url contains this_url %} active{% endif %}"
+                {% if page.url == this_url %}aria-current="page"{% endif %}
               >
                 {{ link.title | replace: '&amp;', '&' }}
               </a>
             </li>
           {% endfor %}
-        </ul>    
-        
+        </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
