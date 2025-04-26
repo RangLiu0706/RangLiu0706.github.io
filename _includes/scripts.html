@@ -1,14 +1,17 @@
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/pjax.js'        | relative_url }}"></script>
 
-<!-- 动态更新主导航 active -->
+<!-- 动态更新主导航 active（兼容 Pages 子路径） -->
 <script>
   function updateNavActive() {
-    var path = window.location.pathname;
-    document.querySelectorAll('#site-nav .visible-links a')
-      .forEach(function(link) {
-        var href = link.getAttribute('href');
-        if (href === path || (href !== '/' && path.startsWith(href))) {
+    // 取当前完整 path，并保证尾部有一个斜杠
+    const currentPath = window.location.pathname.replace(/\/+$/, '/');
+    document
+      .querySelectorAll('#site-nav .visible-links a')
+      .forEach(link => {
+        // 用 link.pathname 而非 href，拿到带仓库名前缀的绝对路径
+        const hrefPath = link.pathname.replace(/\/+$/, '/');
+        if (hrefPath === currentPath || (hrefPath !== '/' && currentPath.startsWith(hrefPath))) {
           link.classList.add('active');
           link.setAttribute('aria-current', 'page');
         } else {
@@ -17,8 +20,10 @@
         }
       });
   }
-  // 首次加载和每次 PJAX 完成后都执行
+
+  // 首次加载高亮
   document.addEventListener('DOMContentLoaded', updateNavActive);
+  // PJAX 完成后也高亮
   document.addEventListener('pjax:end',       updateNavActive);
   document.addEventListener('pjax:complete',  updateNavActive);
 </script>
