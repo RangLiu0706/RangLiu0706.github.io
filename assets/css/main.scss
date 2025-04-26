@@ -107,3 +107,146 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ─────────────────────────────────────────
+   导航栏字体大小调整
+   ───────────────────────────────────────── */
+   .masthead__menu-item a {
+    font-size: 1.125em !important;   /* 这里把 1.125em 换成你想要的大小 */
+    line-height: 1.2;                /* 可选：调整行高，让点击区域更舒服 */
+    padding: 0.5em 0.75em;           /* 可选：扩大左右内边距，增加点击面积 */
+  }
+
+  /* ─────────────────────────────────────────
+   覆盖：内容区里 H2/H3 缩小
+   ───────────────────────────────────────── */
+.page__content {
+
+  /* 二级标题（## Book Chapters, ## Journal） */
+  h2 {
+    font-size: 1.25em !important;      /* 原来可能是 1.5em，这里调小 */
+    line-height: 1.3;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+  }
+
+  /* 三级标题（### 小节标题） */
+  h3 {
+    font-size: 1.125em !important;     /* 原来可能是 1.25em，这里再调小 */
+    line-height: 1.35;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+  }
+
+}
+
+/* 二级导航样式 */
+.subnav {
+    margin: 1.5em 0;
+    border-bottom: 1px solid $border-color;
+  }
+  .subnav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .subnav li {
+    margin-right: 1.5em;
+  }
+  .subnav a {
+    font-size: 1em;
+    font-weight: 600;
+    color: $text-color;
+    padding: 0.25em 0;
+    border-bottom: 3px solid transparent;
+    transition: border-color 0.2s;
+  }
+  .subnav a:hover,
+  .subnav a:focus {
+    border-bottom-color: $primary-color;
+    color: $text-color;
+  }
+  .subnav a:active {
+    border-bottom-color: darken($primary-color, 10%);
+  }
+  
+/* ─────────────────────────────────────────
+   子导航：去下划+灰底高亮+四项布局
+   ───────────────────────────────────────── */
+
+   .subnav {
+    margin: 1.5em 0;
+    padding: 0.25em 0;
+    border-bottom: 1px solid $border-color;
+  }
+  
+  .subnav ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .subnav li {
+    margin-right: 1em; /* 四项时也会均匀分布 */
+  }
+  
+  .subnav a {
+    display: inline-block;
+    padding: 0.5em 0.75em;
+    font-size: 1em;
+    font-weight: 500;
+    color: $text-color;         /* 非活动文字颜色 */
+    text-decoration: none;      /* 去掉默认下划线 */
+    border-radius: 0.375em;     /* 圆角 */
+    transition: background 0.2s, color 0.2s;
+  }
+  
+  .subnav a:hover {
+    background: rgba($dark-gray, 0.1); /* 悬停浅灰 */
+  }
+  
+  .subnav a.active {
+    background: rgba($dark-gray, 0.15); /* 活动项浅灰背景 */
+    color: $primary-color;             /* 活动文字用主色 */
+  }
+  
+/* ─────────────────────────────────────────
+   顶栏导航：文字颜色 & 当前项高亮
+   ───────────────────────────────────────── */
+
+/* 整体加深文字（从原来的浅灰换成深灰） */
+.masthead__menu-item a {
+  color: $text-color !important;      /* 用主题的深灰核心色 */
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+/* 悬停时稍微点亮 */
+.masthead__menu-item a:hover {
+  color: $primary-color !important;
+}
+
+/* 当前项高亮：字体加粗 + 底部短线 */
+.masthead__menu-item a.active {
+  color: $primary-color !important;
+  font-weight: 600;
+  border-bottom: 2px solid $primary-color;
+  padding-bottom: 0.25em;
+}
+/* ─────────────────────────────────────────
+   子导航吸顶（Sticky Subnav）
+   ───────────────────────────────────────── */
+   .subnav {
+    position: sticky;
+    top: 3.5rem;         /* 根据你的顶部主导航高度调整，这里示例 3.5rem */
+    background: white;   /* 吸顶后盖住底下内容 */
+    z-index: 15;         /* 保证在内容之上 */
+    margin-top: 1em;     /* 可选：和上面内容留点空隙 */
+    padding-bottom: 0.5em; /* 可选：吸顶时稍微加点内边距 */
+    border-bottom: 1px solid $border-color; /* 保留下边框 */
+  }
+  
