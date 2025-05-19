@@ -19,7 +19,7 @@ My research interests focus on optimization and signal processing in wireless co
 
 
 # 🔥 News
-- **Mar. 2024** – Invited to present RIS-ISAC work on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="https://github.com/RangLiu0706/RangLiu0706.github.io/tree/main/docs/RIS-ISAC.pdf">slides</a>]
+- **Mar. 2024** – Invited to present RIS-ISAC work on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="/RIS-ISAC.pdf">slides</a>]
 - **Feb. 2024** – Released code packages for academic use.  
 - **Nov. 2023** – Paper accepted by IEEE TWC.  
 - **Sep. 2023** – Started postdoctoral research at UCI.  

@@ -85,9 +85,9 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 26. Y. Sun, **Rang Liu**, M. Li, and Q. Liu, "[One-bit DAC/ADC-based transceiver designs for MIMO-ISAC systems]()," submitted. 
 
-25. S. Zhang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Target detection in ISAC systems with active RISs: A multi-perspective observation approach](https://arxiv.org/abs/2501.06449)," *IEEE Trans. Cogn. Commun. Netw.*, under review.  
+25. S. Zhang, **Rang Liu**, M. Li, W. Wang, and Q. Liu, "[Target detection in ISAC systems with active RISs: A multi-perspective observation approach](https://arxiv.org/abs/2501.06449)," *IEEE Trans. Cogn. Commun. Netw.*, to appear.  
 
-24. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Low range-Doppler sidelobe ISAC waveform design: A low-complexity approach](https://arxiv.org/abs/2503.11949)," *IEEE Trans. Veh. Technol.*, under review.
+24. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Low range-Doppler sidelobe ISAC waveform design: A low-complexity approach](https://ieeexplore.ieee.org/document/11004445)," *IEEE Trans. Veh. Technol.*, to appear.
 
 23. J. Xu, H. Wang, **Rang Liu**, J. A. Nossek, and A. L. Swindlehurst, "[Non-reciprocal reconfigurable intelligent surfaces](https://arxiv.org/abs/2411.15617)," *IEEE Wireless Commun. Lett.*, under review. 
 
@@ -95,7 +95,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 21. P. Jiang, M. Li, **Rang Liu**, W. Wang, and Q. Liu, "[SLP-based dual-functional waveform design for ISAC systems: A deep learning approach](https://ieeexplore.ieee.org/document/10902060)," *IEEE Trans. Veh. Technol.*, to appear.
 
-20. M. Liu, M. Li\*, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems](https://ieeexplore.ieee.org/document/10869384)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, to appear. 
+20. M. Liu, M. Li\*, **Rang Liu**, and Q. Liu, "[Distributed distortion-aware beamforming designs for cell-free mMIMO systems](https://ieeexplore.ieee.org/document/10869384)," *IEEE J. Sel. Topics Signal Process. (JSTSP)*, vol. 19, no. 2, pp. 381-397, Mar. 2025. 
 [<a href="https://github.com/RangLiu0706/Distributed-Distortion-Aware-Beamforming-Designs-for-CF-mMIMO-Systems">convergence analysis</a>] 
 
 19. P. Jiang, M. Li\*, **Rang Liu**, W. Wang, and Q. Liu, "[Joint waveform and beamforming design in RIS-ISAC systems: A model-driven learning approach](https://ieeexplore.ieee.org/document/10857301)," *IEEE Trans. Commun.*, to appear.
@@ -172,6 +172,7 @@ in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, U
 
 1.	**Rang Liu**, H. Li, Y. Guo, M. Li, and Q. Liu, "[Hybrid beamformer design with low-resolution phase shifters in MU-MISO SWIPT systems](https://ieeexplore.ieee.org/document/8555694)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Hangzhou, China, Oct. 2018.
 
+32. P. Li, **Rang Liu**, Q. Liu, and M. Li, "[Impact of insufficient CP on sensing performance in OFDM-ISAC systems](https://arxiv.org/abs/2505.01125), submitted.
 
 31. Y. Sun, **Rang Liu**, Z. Lu, H. Luo, M. Li, and Q. Liu, "[Active reconfigurable intelligent surface empowered synthetic aperture radar imaging](https://arxiv.org/abs/2409.11728)," in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, USA, Oct. 2024.
 
