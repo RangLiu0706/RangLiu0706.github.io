@@ -20,13 +20,8 @@ My research interests focus on optimization and signal processing in wireless co
 
 # 🔥 News
 - **Mar. 2024** – Invited to present RIS-ISAC work on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="/RIS-ISAC.pdf">slides</a>]
-- **Feb. 2024** – Released code packages for academic use.  
-- **Nov. 2023** – Paper accepted by IEEE TWC.  
 - **Sep. 2023** – Started postdoctoral research at UCI.  
-- **Aug. 2023** – Conference paper accepted by GLOBECOM 2023.  
 - **Jul. 2023** – Successfully defended doctoral dissertation.  
-- **Nov. 2022** – Paper accepted by WC and CL.
-- **Oct. 2022** – Received National Scholarship. Paper accepted by WCL.
 - **Jul. 2022** – Launched personal blog.  
 
 
@@ -35,7 +30,14 @@ My research interests focus on optimization and signal processing in wireless co
 <!-- *2024.02*: &nbsp; One journal paper co-authored with Haocheng is accepted by TVT. -->
 <!-- *2024.01*: &nbsp; Some papers coauthored with my colleagues are accepted by WCNC and ICC. -->
 <!-- *2023.10*: &nbsp; One correspondence co-authored with Jinjin is accepted by TVT.-->
-
+<!-- - **Feb. 2024** – Released code packages for academic use.  
+- **Nov. 2023** – Paper accepted by IEEE TWC.  
+- **Sep. 2023** – Started postdoctoral research at UCI.  
+- **Aug. 2023** – Conference paper accepted by GLOBECOM 2023.  
+- **Jul. 2023** – Successfully defended doctoral dissertation.  
+- **Nov. 2022** – Paper accepted by WC and CL.
+- **Oct. 2022** – Received National Scholarship. Paper accepted by WCL.
+- **Jul. 2022** – Launched personal blog.  -->
 <!-- *2023.02*: &nbsp; Two correspondence co-authored with Honghao and Qi are accepted by TVT.
 *2023.01*: &nbsp; One conference paper co-authored with Wanning is accepted by ICC2023.
 *2022.12*: &nbsp; One journal paper co-authored with Sifan is accepted by TVT.-->
