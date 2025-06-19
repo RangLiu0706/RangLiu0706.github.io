@@ -27,9 +27,10 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 
 # 📑 Journals (Lead)  {#journal-lead}
+1. **Rang Liu**\*, M. Li, M. Zafari, B. Ottersten, and A. L. Swindlehurst, "[Multi-domain optimization framework for ISAC: From electromagnetic shaping to network
+cooperation]()," submitted.
 
-
-20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective](https://arxiv.org/abs/2503.13870)," submitted.
+20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective](https://arxiv.org/abs/2503.13870)," under revision.
 
 19. **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, vol. 24, no. 3, pp. 2052-2066, Mar. 2025.
 
@@ -60,7 +61,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 8.	**Rang Liu**, H. Li, and M. Li\*, "[Symbol-level hybrid precoding in mmWave multiuser MISO systems](https://ieeexplore.ieee.org/document/8756035)," *IEEE Commun. Lett.*, vol. 23, no. 9, pp. 1636-1639, Sep. 2019.
 
-25. S. Zhang, **Rang Liu**\*, M. Li, W. Wang, and Q. Liu, "[Target detection in ISAC systems with active RISs: A multi-perspective observation approach](https://arxiv.org/abs/2501.06449)," *IEEE Trans. Cogn. Commun. Netw.*, to appear.  
+25. S. Zhang, **Rang Liu**\*, M. Li, W. Wang, and Q. Liu, "[Target detection in ISAC systems with active RISs: A multi-perspective observation approach](https://ieeexplore.ieee.org/document/11015517)," *IEEE Trans. Cogn. Commun. Netw.*, to appear.  
 
 6. Z. Xiao, **Rang Liu**\*, M. Li, W. Wang, and Q. Liu, "[Sparsity exploitation via joint receive processing and transmit beamforming design for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10736664)," *IEEE Trans. Commun.*, vol. 73, no. 5, pp. 3593-3607, May 2025.
 
