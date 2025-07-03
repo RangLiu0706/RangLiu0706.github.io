@@ -27,8 +27,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 
 # 📑 Journals (Lead)  {#journal-lead}
-1. **Rang Liu**\*, M. Li, M. Zafari, B. Ottersten, and A. L. Swindlehurst, "[Multi-domain optimization framework for ISAC: From electromagnetic shaping to network
-cooperation]()," submitted.
+1. **Rang Liu**\*, M. Li, M. Zafari, B. Ottersten, and A. L. Swindlehurst, "[Multi-domain optimization framework for ISAC: From electromagnetic shaping to network cooperation](https://arxiv.org/abs/2506.16011v1)," submitted.
 
 20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective](https://arxiv.org/abs/2503.13870)," under revision.
 
@@ -80,7 +79,9 @@ cooperation]()," submitted.
 
 # 🤝 Journals (Co-author)  {#journal-coauthor}
 
-29. L. V. Nguyen, **Rang Liu**, N. T. Nguyen, M. Juntti, B. Ottersten, and A. L. Swindlehurst, "[Exploiting symmetric non-convexity for multi-objective symbol-level DFRC signal design](https://arxiv.org/abs/2504.14281)," submitted.
+30. B. Lee, **Rang Liu**, D. J. Love, J. V. Krogmeier,and A. L. Swindlehurst, "[Integrated polarimetric sensing and communication with polarization-reconfigurable arrays](https://www.arxiv.org/abs/2506.23410)," submitted.
+
+29. L. V. Nguyen, **Rang Liu**, N. T. Nguyen, M. Juntti, B. Ottersten, and A. L. Swindlehurst, "[Exploiting symmetric non-convexity for multi-objective symbol-level DFRC signal design](https://arxiv.org/abs/2504.14281)," under revision.
 
 28. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Sensing-oriented adaptive resource allocation designs for OFDM-ISAC systems](https://arxiv.org/abs/2504.06605)," submitted.
 
