@@ -27,9 +27,9 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 
 # 📑 Journals (Lead)  {#journal-lead}
-1. **Rang Liu**\*, M. Li, M. Zafari, B. Ottersten, and A. L. Swindlehurst, "[Multi-domain optimization framework for ISAC: From electromagnetic shaping to network cooperation](https://arxiv.org/abs/2506.16011v1)," submitted.
+1. **Rang Liu**\*, M. Li, M. Zafari, B. Ottersten, and A. L. Swindlehurst, "[Multi-domain optimization framework for ISAC: From electromagnetic shaping to network cooperation](https://arxiv.org/abs/2506.16011v1)," *IEEE Wireless Commun.*, under revision.
 
-20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective](https://arxiv.org/abs/2503.13870)," under revision.
+20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective](https://arxiv.org/abs/2503.13870)," *IEEE J. Sel. Areas Commun. (JSAC)*, under revision.
 
 19. **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, vol. 24, no. 3, pp. 2052-2066, Mar. 2025.
 
@@ -79,19 +79,21 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 # 🤝 Journals (Co-author)  {#journal-coauthor}
 
+32. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Secure ISAC systems empowered by compound reconfigurable antenna arrays](https://arxiv.org/abs/2508.16055)," submitted.
+
 31. P. Jiang, M. Li, **Rang Liu**, and Q. Liu, "[Graph learning for cooperative cell-free ISAC systems: From optimization to estimation](https://arxiv.org/abs/2507.06612)," submitted.
 
-30. B. Lee, **Rang Liu**, D. J. Love, J. V. Krogmeier, and A. L. Swindlehurst, "[Integrated polarimetric sensing and communication with polarization-reconfigurable arrays](https://www.arxiv.org/abs/2506.23410)," submitted.
+30. B. Lee, **Rang Liu**, D. J. Love, J. V. Krogmeier, and A. L. Swindlehurst, "[Integrated polarimetric sensing and communication with polarization-reconfigurable arrays](https://www.arxiv.org/abs/2506.23410)," *IEEE Trans. Wireless Commun.*, under revision.
 
 29. L. V. Nguyen, **Rang Liu**, N. T. Nguyen, M. Juntti, B. Ottersten, and A. L. Swindlehurst, "[Exploiting symmetric non-convexity for multi-objective symbol-level DFRC signal design](https://arxiv.org/abs/2504.14281)," under revision.
 
-28. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Sensing-oriented adaptive resource allocation designs for OFDM-ISAC systems](https://arxiv.org/abs/2504.06605)," under revision.
+28. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Sensing-oriented adaptive resource allocation designs for OFDM-ISAC systems](https://arxiv.org/abs/2504.06605)," *IEEE Trans. Signal Process.*, under revision.
 
 27. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Tri-timescale beamforming design for tri-hybrid architectures with reconfigurable antennas](https://arxiv.org/abs/2503.03620)," submitted. 
 
-26. Y. Sun, **Rang Liu**, M. Li, and Q. Liu, "[One-bit DAC/ADC-based transceiver designs for MIMO-ISAC systems]()," submitted. 
+26. Y. Sun, **Rang Liu**, M. Li, and Q. Liu, "[One-bit DAC/ADC-based transceiver designs for MIMO-ISAC systems]()," *IEEE Trans. Commun.*, under revision. 
 
-22. L. Liu, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://arxiv.org/abs/2409.07034)," *IEEE Trans. Wireless Commun.*, under review.
+22. L. Liu, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://arxiv.org/abs/2409.07034)," *IEEE Trans. Wireless Commun.*, under revision.
 
 22. Y. Li *et al.*, "[Active reconfigurable intelligent surface assisted integrated sensing, communications and computation energy-constrained networks](https://ieeexplore.ieee.org/abstract/document/11087619)," *IEEE Trans. Commun.*, to appear.
 
@@ -101,7 +103,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 24. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Low range-Doppler sidelobe ISAC waveform design: A low-complexity approach](https://ieeexplore.ieee.org/document/11004445)," *IEEE Trans. Veh. Technol.*, to appear.
 
-19. P. Jiang, M. Li\*, **Rang Liu**, W. Wang, and Q. Liu, "[Joint waveform and beamforming design in RIS-ISAC systems: A model-driven learning approach](https://ieeexplore.ieee.org/document/10857301)," *IEEE Trans. Commun.*, to appear.
+19. P. Jiang, M. Li\*, **Rang Liu**, W. Wang, and Q. Liu, "[Joint waveform and beamforming design in RIS-ISAC systems: A model-driven learning approach](https://ieeexplore.ieee.org/document/10857301)," *IEEE Trans. Commun.*, vol. 73, no. 8, pp. 6469-6483, Aug. 2025.
 
 21. P. Jiang, M. Li\*, **Rang Liu**, W. Wang, and Q. Liu\*, "[SLP-based dual-functional waveform design for ISAC systems: A deep learning approach](https://ieeexplore.ieee.org/document/10902060)," *IEEE Trans. Veh. Technol.*, vol. 74, no. 7, pp. 11105-11119, Jul. 2025.
 
@@ -177,13 +179,15 @@ in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, U
 
 1.	**Rang Liu**, H. Li, Y. Guo, M. Li, and Q. Liu, "[Hybrid beamformer design with low-resolution phase shifters in MU-MISO SWIPT systems](https://ieeexplore.ieee.org/document/8555694)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Hangzhou, China, Oct. 2018.
 
-35. X. Lv, **Rang Liu**, Q. Liu, and M. Li, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
+36. X. Lv, **Rang Liu**, Q. Liu, and M. Li, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
 
-34. M. Liu, **Rang Liu**, Q. Liu, and M. Li, "[Tri-hybrid beamforming design with reconfigurable antennas](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
+35. M. Liu, **Rang Liu**, Q. Liu, and M. Li, "[Tri-hybrid beamforming design with reconfigurable antennas](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
 
-33. P. Jiang, **Rang Liu**, Q. Liu, and M. Li, "[Dynamic graph learning-based positioning for cell-free ISAC](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
+34. P. Jiang, **Rang Liu**, Q. Liu, and M. Li, "[Dynamic graph learning-based positioning for cell-free ISAC](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
 
-32. P. Li, **Rang Liu**, Q. Liu, and M. Li, "[Impact of insufficient CP on sensing performance in OFDM-ISAC systems](https://arxiv.org/abs/2505.01125), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
+33. P. Li, **Rang Liu**, Q. Liu, and M. Li, "[Impact of insufficient CP on sensing performance in OFDM-ISAC systems](https://arxiv.org/abs/2505.01125), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
+
+32. M. Zafari, **Rang Liu**, and A. L. Swindlehurst, "[Coordinated decentralized resource optimization for cell-free ISAC systems](https://arxiv.org/abs/2508.01044), iin *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, USA, Oct. 2025.
 
 31. Y. Sun, **Rang Liu**, Z. Lu, H. Luo, M. Li, and Q. Liu, "[Active reconfigurable intelligent surface empowered synthetic aperture radar imaging](https://ieeexplore.ieee.org/document/10942691)," in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, USA, Oct. 2024.
 
