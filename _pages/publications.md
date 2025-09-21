@@ -29,7 +29,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 # 📑 Journals (Lead)  {#journal-lead}
 1. **Rang Liu**\*, M. Li, M. Zafari, B. Ottersten, and A. L. Swindlehurst, "[Multi-domain optimization framework for ISAC: From electromagnetic shaping to network cooperation](https://arxiv.org/abs/2506.16011v1)," *IEEE Wireless Commun.*, under revision.
 
-20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective](https://arxiv.org/abs/2503.13870)," *IEEE J. Sel. Areas Commun. (JSAC)*, to appear.
+20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective](https://ieeexplore.ieee.org/document/11159118)," *IEEE J. Sel. Areas Commun. (JSAC)*, to appear.
 
 19. **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, vol. 24, no. 3, pp. 2052-2066, Mar. 2025.
 
@@ -81,7 +81,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 32. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Secure ISAC systems empowered by compound reconfigurable antenna arrays](https://arxiv.org/abs/2508.16055)," submitted.
 
-31. P. Jiang, M. Li, **Rang Liu**, and Q. Liu, "[Graph learning for cooperative cell-free ISAC systems: From optimization to estimation](https://arxiv.org/abs/2507.06612)," submitted.
+31. P. Jiang, M. Li, **Rang Liu**, and Q. Liu, "[Graph learning for cooperative cell-free ISAC systems: From optimization to estimation](https://arxiv.org/abs/2507.06612)," *IEEE Trans. Wireless Commun.*, under revision.
 
 30. B. Lee, **Rang Liu**, D. J. Love, J. V. Krogmeier, and A. L. Swindlehurst, "[Integrated polarimetric sensing and communication with polarization-reconfigurable arrays](https://www.arxiv.org/abs/2506.23410)," *IEEE Trans. Wireless Commun.*, under revision.
 
@@ -97,11 +97,9 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 22. Y. Li *et al.*, "[Active reconfigurable intelligent surface assisted integrated sensing, communications and computation energy-constrained networks](https://ieeexplore.ieee.org/abstract/document/11087619)," *IEEE Trans. Commun.*, to appear.
 
-
-
 23. J. Xu, H. Wang, **Rang Liu**, J. A. Nossek, and A. L. Swindlehurst, "[Non-reciprocal reconfigurable intelligent surfaces](https://ieeexplore.ieee.org/document/11098513)," *IEEE Wireless Commun. Lett.*, to appear. 
 
-24. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Low range-Doppler sidelobe ISAC waveform design: A low-complexity approach](https://ieeexplore.ieee.org/document/11004445)," *IEEE Trans. Veh. Technol.*, to appear.
+24. P. Li, M. Li\*, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Low range-Doppler sidelobe ISAC waveform design: A low-complexity approach](https://ieeexplore.ieee.org/document/11004445)," *IEEE Trans. Veh. Technol.*, to appear.
 
 19. P. Jiang, M. Li\*, **Rang Liu**, W. Wang, and Q. Liu, "[Joint waveform and beamforming design in RIS-ISAC systems: A model-driven learning approach](https://ieeexplore.ieee.org/document/10857301)," *IEEE Trans. Commun.*, vol. 73, no. 8, pp. 6469-6483, Aug. 2025.
 
