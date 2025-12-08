@@ -28,7 +28,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 # 📑 Journals (Lead)  {#journal-lead}
 
-1. **Rang Liu**\*, P. Li, M. Li, and A. L. Swindlehurst, "[Clutter-aware integrated sensing and communication: Models, methods, and future directions]( )," submitted.
+1. **Rang Liu**, P. Li, M. Li, and A. L. Swindlehurst\*, "[Clutter-aware integrated sensing and communication: Models, methods, and future directions]( )," submitted.
 
 1. **Rang Liu**\*, M. Li, M. Zafari, B. Ottersten, and A. L. Swindlehurst, "[Multi-domain optimization framework for ISAC: From electromagnetic shaping to network cooperation](https://arxiv.org/abs/2506.16011v1)," *IEEE Wireless Commun.*, under revision. [<a href="https://github.com/RangLiu0706/Multi-Domain-Optimization-for-ISAC">code</a>]
 
@@ -83,7 +83,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 # 🤝 Journals (Co-author)  {#journal-coauthor}
 1. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[OFDM-ISAC beyond CP limit: Performance analysis and mitigation algorithms]()," submitted.
 
-33. M. Liu, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Reconfigurable antenna arrays: Bridging electromagnetics and signal processing](https://arxiv.org/abs/2510.17113)," submitted.
+33. M. Liu, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Reconfigurable antenna arrays: Bridging electromagnetics and signal processing](https://arxiv.org/abs/2510.17113)," *IEEE Comm. Mag.*, under revision. 
  
 
 27. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Tri-timescale beamforming design for tri-hybrid architectures with reconfigurable antennas](https://arxiv.org/abs/2503.03620)," *IEEE Trans. Wireless Commun.*, under revision. 
@@ -97,10 +97,10 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 29. L. V. Nguyen, **Rang Liu**, N. T. Nguyen, M. Juntti, B. Ottersten, and A. L. Swindlehurst, "[Exploiting symmetric non-convexity for multi-objective symbol-level DFRC signal design](https://arxiv.org/abs/2504.14281)," *IEEE Trans. Wireless Commun.*, under revision.
 
 
-28. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Sensing-oriented adaptive resource allocation designs for OFDM-ISAC systems](https://arxiv.org/abs/2504.06605)," *IEEE Trans. Signal Process.*, to appear.
+28. P. Li, M. Li\*, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Sensing-oriented adaptive resource allocation designs for OFDM-ISAC systems](https://arxiv.org/abs/2504.06605)," *IEEE Trans. Signal Process.*, to appear.
 
  
-22. L. Liu, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://arxiv.org/abs/2409.07034)," *IEEE Trans. Wireless Commun.*, to appear.
+22. L. Liu\*, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://arxiv.org/abs/2409.07034)," *IEEE Trans. Wireless Commun.*, to appear.
 
 23. Z. Li *et al.*, "[RIS-empowered anti-jamming integrated communications and sensing systems](https://ieeexplore.ieee.org/document/11224478)," *IEEE Trans. Veh. Technol.*, to appear.
 
