@@ -17,8 +17,9 @@ sidebar: true
 
 # 👩‍🎓 Education
 - **Sep. 2020 - Sep. 2023**: Ph.D. in Information and Communication Engineering, Dalian University of Technology.
-    <a href="/RangLiu_PhD_Thesis.pdf"> Download Ph.D. Dissertation </a>
+    <a href="/RangLiu_PhD_Dissertation.pdf"> Download Ph.D. Dissertation </a>
 - **Sep. 2014 - Jun. 2018**: B.Eng. in Electronic and Information Engineering, Dalian University of Technology.
+
 
 
 
