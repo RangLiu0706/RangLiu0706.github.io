@@ -30,7 +30,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 1. **Rang Liu**, P. Li, M. Li, and A. L. Swindlehurst\*, "[Clutter-aware integrated sensing and communication: Models, methods, and future directions]( )," *Proceedings of the IEEE*, under revision.
 
-1. **Rang Liu**\*, M. Li, M. Zafari, B. Ottersten, and A. L. Swindlehurst, "[Multi-domain optimization framework for ISAC: From electromagnetic shaping to network cooperation](https://arxiv.org/abs/2506.16011v1)," *IEEE Wireless Commun.*, to appear. [<a href="https://github.com/RangLiu0706/Multi-Domain-Optimization-for-ISAC">code</a>]
+1. **Rang Liu**\*, M. Li, M. Zafari, B. Ottersten, and A. L. Swindlehurst, "[Multi-domain optimization framework for ISAC: From electromagnetic shaping to network cooperation](https://ieeexplore.ieee.org/document/11347588)," *IEEE Wireless Commun.*, to appear. [<a href="https://github.com/RangLiu0706/Multi-Domain-Optimization-for-ISAC">code</a>]
 
 20. **Rang Liu**\*, M. Li, and A. L. Swindlehurst, "[Joint array partitioning and beamforming designs in ISAC systems: A Bayesian CRB perspective](https://ieeexplore.ieee.org/document/11159118)," *IEEE J. Sel. Areas Commun. (JSAC)*, to appear.
 
@@ -103,11 +103,11 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 28. P. Li, M. Li\*, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Sensing-oriented adaptive resource allocation designs for OFDM-ISAC systems](https://ieeexplore.ieee.org/document/11271832)," *IEEE Trans. Signal Process.*, vol. 73, pp. 5121-5135, Dec. 2025.
 
  
-22. L. Liu\*, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://ieeexplore.ieee.org/document/11299458)," *IEEE Trans. Wireless Commun.*, to appear.
+22. L. Liu\*, **Rang Liu**, L. V. Nguyen, and A. L. Swindlehurst, "[Symbol level precoding for systems with improper Gaussian interference](https://ieeexplore.ieee.org/document/11299458)," *IEEE Trans. Wireless Commun.*, vol. 25, pp. 8564-8579, Dec. 2025.
 
 23. Z. Li *et al.*, "[RIS-empowered anti-jamming integrated communications and sensing systems](https://ieeexplore.ieee.org/document/11224478)," *IEEE Trans. Veh. Technol.*, to appear.
 
-22. Y. Li *et al.*, "[Active reconfigurable intelligent surface assisted integrated sensing, communications and computation energy-constrained networks](https://ieeexplore.ieee.org/abstract/document/11087619)," *IEEE Trans. Commun.*, to appear.
+22. Y. Li *et al.*, "[Active reconfigurable intelligent surface assisted integrated sensing, communications and computation energy-constrained networks](https://ieeexplore.ieee.org/abstract/document/11087619)," *IEEE Trans. Commun.*, vol. 73, no. 12, pp. 14548-14561, Dec. 2025.
 
 23. J. Xu, H. Wang, **Rang Liu**, J. A. Nossek, and A. L. Swindlehurst, "[Non-reciprocal reconfigurable intelligent surfaces](https://ieeexplore.ieee.org/document/11098513)," *IEEE Wireless Commun. Lett.*, vol. 14, no. 10, pp. 3329-3333, Oct. 2025.
 
@@ -188,6 +188,13 @@ in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, U
 
 
 1.	**Rang Liu**, H. Li, Y. Guo, M. Li, and Q. Liu, "[Hybrid beamformer design with low-resolution phase shifters in MU-MISO SWIPT systems](https://ieeexplore.ieee.org/document/8555694)," in *Proc. Int. Conf. Wireless Commun. Signal Process. (WCSP)*, Hangzhou, China, Oct. 2018.
+
+
+1. H. Liu, P. Li, **Rang Liu**, Q. Liu, and M. Li, "[Dynamic dictionary-based OMP for super-resolution sensing in OFDM-ISAC systems](), in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Kuala Lumpur, Malaysia, Apr. 2026. 
+
+
+1. X. Lv, **Rang Liu**, Y. Chen, Q. Liu, and M. Li, "[Message passing based parameter estimation in cooperative MIMO-OFDM ISAC systems](), in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Kuala Lumpur, Malaysia, Apr. 2026. 
+
 
 36. X. Lv, **Rang Liu**, Q. Liu, and M. Li, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
 
