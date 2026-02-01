@@ -91,13 +91,13 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 31. P. Jiang, M. Li, **Rang Liu**, and Q. Liu, "[Graph learning for cooperative cell-free ISAC systems: From optimization to estimation](https://arxiv.org/abs/2507.06612)," *IEEE Trans. Wireless Commun.*, under revision.
 
 
-26. Y. Sun, **Rang Liu**, M. Li, and Q. Liu, "[One-bit DAC/ADC-based transceiver designs for MIMO-ISAC systems]()," *IEEE Trans. Commun.*, under revision. 
+26. Y. Sun, **Rang Liu**, M. Li, and Q. Liu, "[One-bit DAC/ADC-based transceiver designs for MIMO-ISAC systems]()," *IEEE Trans. Commun.*, to appear. 
 
 
-30. B. Lee, **Rang Liu**, D. J. Love, J. V. Krogmeier, and A. L. Swindlehurst, "[Integrated polarimetric sensing and communication with polarization-reconfigurable arrays](https://www.arxiv.org/abs/2506.23410)," *IEEE Trans. Wireless Commun.*, to appear.
+30. B. Lee\*, **Rang Liu**, D. J. Love, J. V. Krogmeier, and A. L. Swindlehurst, "[Integrated polarimetric sensing and communication with polarization-reconfigurable arrays](https://ieeexplore.ieee.org/document/11358846)," *IEEE Trans. Wireless Commun.*, vol. 25, pp. 10618-10634, Jan. 2026.
 
 
-29. L. V. Nguyen, **Rang Liu**, N. T. Nguyen, M. Juntti, B. Ottersten, and A. L. Swindlehurst, "[Exploiting symmetric non-convexity for multi-objective symbol-level DFRC signal design](https://arxiv.org/abs/2504.14281)," *IEEE Trans. Wireless Commun.*, to appear.
+29. L. V. Nguyen\*, **Rang Liu**, N. T. Nguyen, M. Juntti, B. Ottersten, and A. L. Swindlehurst, "[Exploiting symmetric non-convexity for multi-objective symbol-level DFRC signal design](https://ieeexplore.ieee.org/document/11360621)," *IEEE Trans. Wireless Commun.*, vol. 25, pp. 10530-10545, Jan. 2026.
 
 
 28. P. Li, M. Li\*, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Sensing-oriented adaptive resource allocation designs for OFDM-ISAC systems](https://ieeexplore.ieee.org/document/11271832)," *IEEE Trans. Signal Process.*, vol. 73, pp. 5121-5135, Dec. 2025.
@@ -196,7 +196,7 @@ in *Proc. Asilomar Conf. on Signals Systems and Computers*, Pacific Grove, CA, U
 1. X. Lv, **Rang Liu**, Y. Chen, Q. Liu, and M. Li, "[Message passing based parameter estimation in cooperative MIMO-OFDM ISAC systems](), in *Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)*, Kuala Lumpur, Malaysia, Apr. 2026. 
 
 
-36. X. Lv, **Rang Liu**, Q. Liu, and M. Li, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
+36. X. Lv, **Rang Liu**, Q. Liu, and M. Li, "[Target detection in OFDM-ISAC systems: A multipath exploitation approach](https://arxiv.org/pdf/2501.07893), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
 
 35. M. Liu, **Rang Liu**, Q. Liu, and M. Li, "[Tri-hybrid beamforming design with reconfigurable antennas](), in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
 
