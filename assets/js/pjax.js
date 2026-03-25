@@ -19,6 +19,30 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // 重新执行 pjax-container 内的脚本（innerHTML 插入的 script 不会自动执行）
+  function rerunScripts() {
+    if (!container) return;
+    container.querySelectorAll('script').forEach(oldScript => {
+      const newScript = document.createElement('script');
+      // 复制所有属性
+      Array.from(oldScript.attributes).forEach(attr => {
+        // 对外部脚本（如不蒜子）添加时间戳避免缓存导致回调不触发
+        if (attr.name === 'src') {
+          var src = attr.value;
+          var sep = src.indexOf('?') === -1 ? '?' : '&';
+          newScript.setAttribute('src', src + sep + '_t=' + Date.now());
+        } else {
+          newScript.setAttribute(attr.name, attr.value);
+        }
+      });
+      // 复制内联脚本内容
+      if (oldScript.textContent) {
+        newScript.textContent = oldScript.textContent;
+      }
+      oldScript.parentNode.replaceChild(newScript, oldScript);
+    });
+  }
+
   // 绑定子导航锚点滚动（覆盖 base target）
   function bindSubnav() {
     document.querySelectorAll('.subnav a[href^="#"]').forEach(link => {
@@ -45,21 +69,23 @@ document.addEventListener('DOMContentLoaded', () => {
         if (next && container) {
           container.innerHTML = next.innerHTML;
         }
-        // 可选：更新页内标题
-        const newTitle = doc.querySelector('h1.page__title');
-        if (newTitle) {
-          const titleEl = document.querySelector('h1.page__title');
-          if (titleEl) titleEl.textContent = newTitle.textContent;
+        // 更新浏览器标签页标题
+        const docTitle = doc.querySelector('title');
+        if (docTitle) {
+          document.title = docTitle.textContent;
         }
 
         // 先更新历史记录
         if (addToHistory) {
           history.pushState(null, '', url);
+          window.scrollTo(0, 0);
         }
         // 再更新主导航高亮
         updateTopnavHighlight();
         // 重新绑定子导航
         bindSubnav();
+        // 重新执行页面内的脚本（如不蒜子统计）
+        rerunScripts();
       })
       .catch(console.error);
   }

@@ -40,278 +40,168 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
+/* ══════════════════════════════════════════
+   Custom Styles
+   ══════════════════════════════════════════ */
+
+/* --- Paper box (publications with images) --- */
 .paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0;
+
+  .paper-box-image {
+    justify-content: center;
     display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
-
-    .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
+    width: 100%;
+    order: 2;
+    img {
+      max-width: 400px;
+      box-shadow: 3px 3px 6px #888;
+      object-fit: cover;
     }
-    
-    .paper-box-text{
-        max-width: 100%;
-        order: 1;
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 1;
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      justify-content: left;
+      min-width: 200px;
+      max-width: 40%;
+      order: 1;
     }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
+    .paper-box-text {
+      justify-content: left;
+      padding-left: 2em;
+      max-width: 60%;
+      order: 2;
     }
-
-
+  }
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+/* --- Scroll offset for anchor links --- */
+$scroll_offset: 2em;
+h1:before, .anchor:before {
+  content: '';
+  display: block;
+  position: relative;
+  width: 0;
+  height: $scroll_offset;
+  margin-top: -$scroll_offset;
 }
 
+/* --- Badge (generic) --- */
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  position: absolute;
+  margin-top: .5em;
+  margin-left: -.5em;
+  color: white;
+  background-color: #00369f;
+  font-size: .8em;
 }
 
-/* ─────────────────────────────────────────
-   导航栏字体大小调整
-   ───────────────────────────────────────── */
-   .masthead__menu-item a {
-    font-size: 1.125em !important;   /* 这里把 1.125em 换成你想要的大小 */
-    line-height: 1.2;                /* 可选：调整行高，让点击区域更舒服 */
-    padding: 0.5em 0.75em;           /* 可选：扩大左右内边距，增加点击面积 */
-  }
-
-  /* ─────────────────────────────────────────
-   覆盖：内容区里 H2/H3 缩小
-   ───────────────────────────────────────── */
-.page__content {
-
-  /* 二级标题（## Book Chapters, ## Journal） */
-  h2 {
-    font-size: 1.25em !important;      /* 原来可能是 1.5em，这里调小 */
-    line-height: 1.3;
-    margin-top: 1.2em;
-    margin-bottom: 0.6em;
-  }
-
-  /* 三级标题（### 小节标题） */
-  h3 {
-    font-size: 1.125em !important;     /* 原来可能是 1.25em，这里再调小 */
-    line-height: 1.35;
-    margin-top: 1em;
-    margin-bottom: 0.5em;
-  }
-
-}
-
-/* 二级导航样式 */
-.subnav {
-    margin: 1.5em 0;
-    border-bottom: 1px solid $border-color;
-  }
-  .subnav ul {
-    display: flex;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  .subnav li {
-    margin-right: 1.5em;
-  }
-  .subnav a {
-    font-size: 1em;
-    font-weight: 600;
-    color: $text-color;
-    padding: 0.25em 0;
-    border-bottom: 3px solid transparent;
-    transition: border-color 0.2s;
-  }
-  .subnav a:hover,
-  .subnav a:focus {
-    border-bottom-color: $primary-color;
-    color: $text-color;
-  }
-  .subnav a:active {
-    border-bottom-color: darken($primary-color, 10%);
-  }
-  
-/* ─────────────────────────────────────────
-   子导航：去下划+灰底高亮+四项布局
-   ───────────────────────────────────────── */
-
-   .subnav {
-    margin: 1.5em 0;
-    padding: 0.25em 0;
-    border-bottom: 1px solid $border-color;
-  }
-  
-  .subnav ul {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .subnav li {
-    margin-right: 1em; /* 四项时也会均匀分布 */
-  }
-  
-  .subnav a {
-    display: inline-block;
-    padding: 0.5em 0.75em;
-    font-size: 1em;
-    font-weight: 500;
-    color: $text-color;         /* 非活动文字颜色 */
-    text-decoration: none;      /* 去掉默认下划线 */
-    border-radius: 0.375em;     /* 圆角 */
-    transition: background 0.2s, color 0.2s;
-  }
-  
-  .subnav a:hover {
-    background: rgba($dark-gray, 0.1); /* 悬停浅灰 */
-  }
-  
-  .subnav a.active {
-    background: rgba($dark-gray, 0.15); /* 活动项浅灰背景 */
-    color: $primary-color;             /* 活动文字用主色 */
-  }
-  
-/* ─────────────────────────────────────────
-   顶栏导航：文字颜色 & 当前项高亮
-   ───────────────────────────────────────── */
-
-/* 整体加深文字（从原来的浅灰换成深灰） */
+/* --- Top navigation --- */
 .masthead__menu-item a {
-  color: $text-color !important;      /* 用主题的深灰核心色 */
+  font-size: 1.125em !important;
+  line-height: 1.2;
+  padding: 0.5em 0.75em;
+  color: $text-color !important;
   font-weight: 500;
   text-decoration: none;
   transition: color 0.2s, border-color 0.2s;
 }
 
- 
-.masthead__menu-link:hover,
-.masthead__menu-link:focus {
-  color: $primary-color !important;
-}
-
-.masthead__menu-link.active {
-  color: $primary-color !important;
-  font-weight: 600;
-  border-bottom: 2px solid $primary-color;
-  padding-bottom: 0.25em;
-}
-
-
-
-/* ─────────────────────────────────────────
-   子导航吸顶（Sticky Subnav）
-   ───────────────────────────────────────── */
-   .subnav {
-    position: sticky;
-    top: 3.5rem;         /* 根据你的顶部主导航高度调整，这里示例 3.5rem */
-    background: white;   /* 吸顶后盖住底下内容 */
-    z-index: 15;         /* 保证在内容之上 */
-    margin-top: 1em;     /* 可选：和上面内容留点空隙 */
-    padding-bottom: 0.5em; /* 可选：吸顶时稍微加点内边距 */
-    border-bottom: 1px solid $border-color; /* 保留下边框 */
-  }
-  
-// —— 主导航 链接的基础样式 ——
 .masthead__menu-link {
   display: inline-block;
   padding: 0.5em 1em;
   text-decoration: none;
   color: inherit;
-}
 
-// Hover / Focus
-.masthead__menu-link:hover,
-.masthead__menu-link:focus {
-  color: $primary-color !important;
-}
-
-// 当前页面高亮
-.masthead__menu-link.active {
-  color: $primary-color !important;
-  font-weight: 600;
-  border-bottom: 2px solid $primary-color;
-  padding-bottom: 0.25em;
-}
-
-
-// ──────────────────────────────────────────────────────────────────────────
-// Custom Nav Active Styling
-// ──────────────────────────────────────────────────────────────────────────
-
-.masthead__menu-link {
-  display: inline-block;
-  padding: 0.5em 1em;
-  text-decoration: none;
-  color: inherit;
-}
-
-.masthead__menu-link:hover,
-.masthead__menu-link:focus {
-  color: $primary-color !important;
-}
-
-.masthead__menu-link.active {
-  color: $primary-color !important;
-  font-weight: 600;
-  border-bottom: 2px solid $primary-color;
-  padding-bottom: 0.25em;
-}
-// ──────────────────────────────────────────────────────────
-// Sidebar “Copy Email” 按钮样式
-// ──────────────────────────────────────────────────────────
-
-.sidebar-item.copy-email {
-  display: flex;
-  align-items: center;
-  margin: 0.5em 0;
-
-  i {
-    margin-right: 0.5em;
-    font-size: 1.2em;
+  &:hover,
+  &:focus {
+    color: $primary-color !important;
   }
 
+  &.active {
+    color: $primary-color !important;
+    font-weight: 600;
+    border-bottom: 2px solid $primary-color;
+    padding-bottom: 0.25em;
+  }
+}
+
+/* --- Content heading sizes --- */
+.page__content {
+  h2 {
+    font-size: 1.25em !important;
+    line-height: 1.3;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+  }
+  h3 {
+    font-size: 1.125em !important;
+    line-height: 1.35;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+  }
+}
+
+/* --- Subnav (sticky, Publications page) --- */
+.subnav {
+  position: sticky;
+  top: 3.5rem;
+  background: white;
+  z-index: 15;
+  margin: 1.5em 0 0;
+  padding: 0.25em 0 0.5em;
+  border-bottom: 1px solid $border-color;
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin-right: 1em;
+  }
+
+  a {
+    display: inline-block;
+    padding: 0.5em 0.75em;
+    font-size: 1em;
+    font-weight: 500;
+    color: $text-color;
+    text-decoration: none;
+    border-radius: 0.375em;
+    transition: background 0.2s, color 0.2s;
+
+    &:hover {
+      background: rgba($dark-gray, 0.1);
+    }
+
+    &.active {
+      background: rgba($dark-gray, 0.15);
+      color: $primary-color;
+    }
+  }
+}
+
+/* --- Sidebar Copy Email button --- */
+.copy-email {
   #copy-email-btn {
     background: none;
     border: 1px solid $primary-color;
@@ -325,4 +215,197 @@ h1:before, .anchor:before {
       color: white;
     }
   }
+}
+
+
+/* ══════════════════════════════════════════
+   Homepage: Research Tags
+   ══════════════════════════════════════════ */
+.research-tags {
+  margin: 0.75em 0 1.5em;
+}
+
+.research-tag {
+  display: inline-block;
+  background: #e8f0fe;
+  color: #1a56db;
+  font-size: 0.8em;
+  font-weight: 500;
+  padding: 0.25em 0.7em;
+  margin: 0.2em 0.3em 0.2em 0;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+
+/* ══════════════════════════════════════════
+   Homepage: News Timeline
+   ══════════════════════════════════════════ */
+.news-timeline {
+  list-style: none;
+  padding: 0;
+  margin: 0.5em 0 0.25em;
+  border-left: 3px solid #1a56db;
+  padding-left: 1.25em;
+
+  li {
+    position: relative;
+    padding: 0.5em 0;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: -1.5em;
+      top: 0.85em;
+      width: 9px;
+      height: 9px;
+      background: #1a56db;
+      border-radius: 50%;
+      border: 2px solid white;
+    }
+  }
+}
+
+.news-date {
+  font-weight: 600;
+  color: #555;
+  margin-right: 0.5em;
+  font-size: 0.9em;
+}
+
+.news-text {
+  font-size: 0.95em;
+}
+
+.news-hidden {
+  display: none;
+}
+
+.news-toggle-btn {
+  background: none;
+  border: 1px solid #ccc;
+  padding: 0.3em 1em;
+  font-size: 0.85em;
+  color: #555;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 0.25em;
+  transition: background 0.2s, color 0.2s;
+
+  &:hover {
+    background: #f0f0f0;
+    color: #333;
+  }
+}
+
+
+/* ══════════════════════════════════════════
+   Homepage: Code Repository Cards
+   ══════════════════════════════════════════ */
+.repo-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1em;
+  margin: 1em 0 1.5em;
+
+  @include breakpoint($medium) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.repo-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1em 1.15em;
+  transition: box-shadow 0.2s, border-color 0.2s;
+
+  &:hover {
+    border-color: #bbb;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  }
+}
+
+.repo-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+
+.repo-name {
+  font-weight: 600;
+  font-size: 0.85em;
+  color: #1a56db;
+  word-break: break-word;
+
+  i {
+    margin-right: 0.25em;
+  }
+}
+
+.repo-desc {
+  font-size: 0.82em;
+  color: #666;
+  margin: 0.4em 0;
+  line-height: 1.4;
+}
+
+.repo-lang {
+  font-size: 0.78em;
+  color: #777;
+  display: inline-flex;
+  align-items: center;
+}
+
+.lang-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 0.35em;
+
+  &.matlab {
+    background: #e16737;
+  }
+}
+
+
+/* ══════════════════════════════════════════
+   Publications: Code & Citation Badges
+   ══════════════════════════════════════════ */
+.pub-badge {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 500;
+  padding: 0.15em 0.55em;
+  border-radius: 4px;
+  vertical-align: middle;
+  text-decoration: none;
+  white-space: nowrap;
+  margin-left: 0.15em;
+}
+
+.pub-code {
+  background: #dcfce7;
+  color: #166534;
+
+  &:hover {
+    background: #bbf7d0;
+    text-decoration: none;
+  }
+
+  i {
+    margin-right: 0.2em;
+  }
+}
+
+.pub-highly-cited {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.pub-hot {
+  background: #fee2e2;
+  color: #991b1b;
 }
