@@ -351,25 +351,6 @@ h1:before, .anchor:before {
   line-height: 1.4;
 }
 
-.repo-lang {
-  font-size: 0.78em;
-  color: #777;
-  display: inline-flex;
-  align-items: center;
-}
-
-.lang-dot {
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  margin-right: 0.35em;
-
-  &.matlab {
-    background: #e16737;
-  }
-}
-
 
 /* ══════════════════════════════════════════
    Publications: Code & Citation Badges

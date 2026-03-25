@@ -23,24 +23,36 @@ document.addEventListener('DOMContentLoaded', () => {
   function rerunScripts() {
     if (!container) return;
     container.querySelectorAll('script').forEach(oldScript => {
+      // 不蒜子脚本由 reloadBusuanzi() 单独处理
+      if (oldScript.src && oldScript.src.indexOf('busuanzi') !== -1) return;
+
       const newScript = document.createElement('script');
-      // 复制所有属性
       Array.from(oldScript.attributes).forEach(attr => {
-        // 对外部脚本（如不蒜子）添加时间戳避免缓存导致回调不触发
-        if (attr.name === 'src') {
-          var src = attr.value;
-          var sep = src.indexOf('?') === -1 ? '?' : '&';
-          newScript.setAttribute('src', src + sep + '_t=' + Date.now());
-        } else {
-          newScript.setAttribute(attr.name, attr.value);
-        }
+        newScript.setAttribute(attr.name, attr.value);
       });
-      // 复制内联脚本内容
       if (oldScript.textContent) {
         newScript.textContent = oldScript.textContent;
       }
       oldScript.parentNode.replaceChild(newScript, oldScript);
     });
+  }
+
+  // 专门处理不蒜子统计脚本的重新加载
+  // 不蒜子使用 JSONP 回调，必须从 document.head 加载才能正常工作
+  function reloadBusuanzi() {
+    // 如果页面没有不蒜子的显示元素，跳过
+    if (!document.getElementById('busuanzi_container_site_pv')) return;
+
+    // 1. 移除页面上所有旧的不蒜子脚本（head、body 和容器内的）
+    document.querySelectorAll('script[src*="busuanzi"]').forEach(function(s) {
+      s.parentNode.removeChild(s);
+    });
+
+    // 2. 创建全新的 script 标签，追加到 head（不是容器内部）
+    var script = document.createElement('script');
+    script.src = '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js?' + Date.now();
+    script.async = true;
+    document.head.appendChild(script);
   }
 
   // 绑定子导航锚点滚动（覆盖 base target）
@@ -84,8 +96,10 @@ document.addEventListener('DOMContentLoaded', () => {
         updateTopnavHighlight();
         // 重新绑定子导航
         bindSubnav();
-        // 重新执行页面内的脚本（如不蒜子统计）
+        // 重新执行页面内的脚本
         rerunScripts();
+        // 重新加载不蒜子统计（需要从 head 加载，不能在容器内）
+        reloadBusuanzi();
       })
       .catch(console.error);
   }

@@ -66,7 +66,6 @@ My research interests focus on optimization and signal processing in wireless co
       <img src="https://img.shields.io/github/stars/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC?style=social" alt="stars">
     </div>
     <p class="repo-desc">SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems (IEEE TWC 2024)</p>
-    <span class="repo-lang"><span class="lang-dot matlab"></span>MATLAB</span>
   </div>
 
   <div class="repo-card">
@@ -75,7 +74,6 @@ My research interests focus on optimization and signal processing in wireless co
       <img src="https://img.shields.io/github/stars/RangLiu0706/waveform-design-for-RIS-ISAC?style=social" alt="stars">
     </div>
     <p class="repo-desc">Joint transmit waveform and passive beamforming for RIS-aided DFRC systems (IEEE JSTSP 2022)</p>
-    <span class="repo-lang"><span class="lang-dot matlab"></span>MATLAB</span>
   </div>
 
   <div class="repo-card">
@@ -84,7 +82,6 @@ My research interests focus on optimization and signal processing in wireless co
       <img src="https://img.shields.io/github/stars/RangLiu0706/RIS_ISAC_magazine?style=social" alt="stars">
     </div>
     <p class="repo-desc">Integrated sensing and communication with RIS: opportunities and directions (IEEE WCM 2023)</p>
-    <span class="repo-lang"><span class="lang-dot matlab"></span>MATLAB</span>
   </div>
 
   <div class="repo-card">
@@ -93,7 +90,6 @@ My research interests focus on optimization and signal processing in wireless co
       <img src="https://img.shields.io/github/stars/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC?style=social" alt="stars">
     </div>
     <p class="repo-desc">Joint waveform and filter designs for STAP-SLP-based MIMO-DFRC systems (IEEE JSAC 2022)</p>
-    <span class="repo-lang"><span class="lang-dot matlab"></span>MATLAB</span>
   </div>
 
   <div class="repo-card">
@@ -102,7 +98,6 @@ My research interests focus on optimization and signal processing in wireless co
       <img src="https://img.shields.io/github/stars/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO?style=social" alt="stars">
     </div>
     <p class="repo-desc">Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO (IEEE TWC 2021)</p>
-    <span class="repo-lang"><span class="lang-dot matlab"></span>MATLAB</span>
   </div>
 
   <div class="repo-card">
@@ -111,7 +106,6 @@ My research interests focus on optimization and signal processing in wireless co
       <img src="https://img.shields.io/github/stars/RangLiu0706/RIS-based-passive-information-transmission?style=social" alt="stars">
     </div>
     <p class="repo-desc">IRS-based passive information transmission via symbol-level precoding (IEEE TVT 2021)</p>
-    <span class="repo-lang"><span class="lang-dot matlab"></span>MATLAB</span>
   </div>
 
   <div class="repo-card">
@@ -120,7 +114,6 @@ My research interests focus on optimization and signal processing in wireless co
       <img src="https://img.shields.io/github/stars/RangLiu0706/Clutter-Aware-ISAC-Tutorial?style=social" alt="stars">
     </div>
     <p class="repo-desc">Clutter-aware ISAC: models, methods, and future directions (Proc. IEEE, 2025)</p>
-    <span class="repo-lang"><span class="lang-dot matlab"></span>MATLAB</span>
   </div>
 
   <div class="repo-card">
@@ -129,7 +122,6 @@ My research interests focus on optimization and signal processing in wireless co
       <img src="https://img.shields.io/github/stars/RangLiu0706/Multi-Domain-Optimization-for-ISAC?style=social" alt="stars">
     </div>
     <p class="repo-desc">Multi-domain optimization framework for ISAC (IEEE WCM, 2025)</p>
-    <span class="repo-lang"><span class="lang-dot matlab"></span>MATLAB</span>
   </div>
 
 </div>
