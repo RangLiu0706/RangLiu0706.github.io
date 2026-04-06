@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rang Liu"
-description              : "Postdoc"
+description              : "Humboldt Postdoctoral Research Fellow"
 repository               : "RangLiu0706/RangLiu0706.github.io"
 
 # google analytics
@@ -22,10 +22,11 @@ google_analytics_id      :  324368529 # get google_analytics_id from https://ana
 author:
   name             : "Rang Liu"
   avatar           : "images/Rang.jpg"
-  bio              : "University of California Irvine"
-  location         : "Irvine, CA"
+  bio              : "Institute for Digital Communications, FAU"
+  location         : "Erlangen, Germany"
+  employer         : "FAU"
   googlescholar    : "https://scholar.google.com/citations?user=YVZWuQcAAAAJ&hl=en"
-  email            : "rangl2@uci.edu"
+  email            : "rang.liu@fau.de"
   researchgate     : "https://www.researchgate.net/profile/Rang-Liu-3"
 
 

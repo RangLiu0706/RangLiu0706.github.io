@@ -12,7 +12,8 @@ sidebar: true
 - Reviewer for JSAC, JSTSP, TSP, TCOM, TIFS, TAES, TWC, TVT, TGCN, TCCN, SJ, WCM, CM, WCL, SPL, CL, ICC, GLOBECOM, WCNC, etc.
  
 # 🏫 Academic Positions
-- **Sep. 2023 - Present**: Postdoctoral Scholar, University of California, Irvine.
+- **Apr. 2026 - Present**: Humboldt Postdoctoral Research Fellow, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).
+- **Sep. 2023 - Mar. 2026**: Postdoctoral Scholar, University of California, Irvine.
 
 
 # 👩‍🎓 Education

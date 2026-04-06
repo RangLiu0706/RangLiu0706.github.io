@@ -9,6 +9,7 @@ sidebar: true
  
 
 # 🏆 Honors &amp; Awards
+- **Nov. 2025** - Humboldt Research Fellowship for Postdoctoral Researchers, Alexander von Humboldt Foundation.
 - **Aug. 2025** - Listed among the World's Top 2% Most-Cited Scientists, Stanford University.
 - **Aug. 2024** - Listed among the World's Top 2% Most-Cited Scientists, Stanford University.
 - **Feb. 2025** - Exemplary Reviewer Award, IEEE Wireless Communications Letters.

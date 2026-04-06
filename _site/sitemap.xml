@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/experience/</loc>
+<loc>/experience/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/honors-awards/</loc>
+<loc>/honors-awards/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publications/</loc>
+<loc>/publications/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/RangLiu_PhD_Thesis.pdf</loc>
-<lastmod>2025-04-26T10:43:19+08:00</lastmod>
+<loc>/RIS-ISAC.pdf</loc>
+<lastmod>2025-08-03T08:52:30+08:00</lastmod>
+</url>
+<url>
+<loc>/RangLiu_PhD_Dissertation.pdf</loc>
+<lastmod>2026-04-07T01:23:30+08:00</lastmod>
 </url>
 </urlset>
