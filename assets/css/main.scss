@@ -277,11 +277,8 @@ h1:before, .anchor:before {
   font-size: 0.95em;
 }
 
-.news-hidden {
-  display: none;
-}
-
 .news-toggle-btn {
+  display: inline-block;
   background: none;
   border: 1px solid #ccc;
   padding: 0.3em 1em;
@@ -296,6 +293,26 @@ h1:before, .anchor:before {
     background: #f0f0f0;
     color: #333;
   }
+}
+
+.news-archive {
+  margin-top: 0.35em;
+
+  summary {
+    list-style: none;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  &[open] .news-toggle-btn {
+    margin-bottom: 0.65em;
+  }
+}
+
+.news-timeline-archive {
+  margin-top: 0.25em;
 }
 
 

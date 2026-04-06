@@ -23,41 +23,47 @@ I received the B.S. degree in Electronics and Information Engineering from Dalia
 
 ## 🔥 News
 
-<ul class="news-timeline">
-  <li>
-    <span class="news-date">Apr. 2026</span>
-    <span class="news-text">Started as a Humboldt Postdoctoral Research Fellow at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).</span>
-  </li>
-  <li>
-    <span class="news-date">Mar. 2026</span>
-    <span class="news-text">Our paper on clutter-aware integrated sensing and communication was accepted for publication in Proceedings of the IEEE, and open-source implementations for several papers were released on GitHub.</span>
-  </li>
-  <li>
-    <span class="news-date">Aug. 2025</span>
-    <span class="news-text">Selected into Stanford University's list of the World's Top 2% Most-Cited Scientists.</span>
-  </li>
-  <li>
-    <span class="news-date">Aug. 2024</span>
-    <span class="news-text">Selected into Stanford University's list of the World's Top 2% Most-Cited Scientists.</span>
-  </li>
-  <li class="news-hidden">
-    <span class="news-date">Mar. 2024</span>
-    <span class="news-text">Invited to present RIS-ISAC work on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="/RIS-ISAC.pdf">slides</a>]</span>
-  </li>
-  <li class="news-hidden">
-    <span class="news-date">Sep. 2023</span>
-    <span class="news-text">Started postdoctoral research at UCI.</span>
-  </li>
-  <li class="news-hidden">
-    <span class="news-date">Jul. 2023</span>
-    <span class="news-text">Successfully defended doctoral dissertation.</span>
-  </li>
-  <li class="news-hidden">
-    <span class="news-date">Jul. 2022</span>
-    <span class="news-text">Launched personal blog.</span>
-  </li>
-</ul>
-<button class="news-toggle-btn" onclick="(function(btn){var items=btn.parentElement.querySelectorAll('.news-hidden');var expanded=btn.getAttribute('data-expanded')==='true';items.forEach(function(el){el.style.display=expanded?'none':'list-item';});btn.setAttribute('data-expanded',!expanded);btn.textContent=expanded?'View Earlier News':'Hide Earlier News';})(this)">View Earlier News</button>
+<div class="news-section">
+  <ul class="news-timeline">
+    <li>
+      <span class="news-date">Apr. 2026</span>
+      <span class="news-text">Started as a Humboldt Postdoctoral Research Fellow at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).</span>
+    </li>
+    <li>
+      <span class="news-date">Mar. 2026</span>
+      <span class="news-text">Our paper on clutter-aware integrated sensing and communication was accepted for publication in Proceedings of the IEEE, and open-source implementations for several papers were released on GitHub.</span>
+    </li>
+    <li>
+      <span class="news-date">Aug. 2025</span>
+      <span class="news-text">Selected into Stanford University's list of the World's Top 2% Most-Cited Scientists.</span>
+    </li>
+    <li>
+      <span class="news-date">Aug. 2024</span>
+      <span class="news-text">Selected into Stanford University's list of the World's Top 2% Most-Cited Scientists.</span>
+    </li>
+  </ul>
+  <details class="news-archive">
+    <summary class="news-toggle-btn">View Earlier News</summary>
+    <ul class="news-timeline news-timeline-archive">
+      <li>
+        <span class="news-date">Mar. 2024</span>
+        <span class="news-text">Invited to present RIS-ISAC work on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="/RIS-ISAC.pdf">slides</a>]</span>
+      </li>
+      <li>
+        <span class="news-date">Sep. 2023</span>
+        <span class="news-text">Started postdoctoral research at UCI.</span>
+      </li>
+      <li>
+        <span class="news-date">Jul. 2023</span>
+        <span class="news-text">Successfully defended doctoral dissertation.</span>
+      </li>
+      <li>
+        <span class="news-date">Jul. 2022</span>
+        <span class="news-text">Launched personal blog.</span>
+      </li>
+    </ul>
+  </details>
+</div>
 
 ## Selected Code Repositories
 
