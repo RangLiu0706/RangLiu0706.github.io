@@ -37,7 +37,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 1. **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[DOA estimation-oriented joint array partitioning and beamforming designs for ISAC systems](https://ieeexplore.ieee.org/document/10810291)," *IEEE Trans. Wireless Commun.*, vol. 24, no. 3, pp. 2052-2066, Mar. 2025.
 
-1. **Rang Liu**, M. Li\*, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. <a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC?style=social&label=" alt="stars"> <span class="pub-badge pub-highly-cited">🏆 Highly Cited</span>
+1. **Rang Liu**, M. Li\*, Q. Liu, and A. L. Swindlehurst, "[SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems](https://ieeexplore.ieee.org/document/10364735)," *IEEE Trans. Wireless Commun.*, vol. 23, no. 7, pp. 7456-7470, Jul. 2024. <a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC?style=social&label=" alt="stars"> <span class="pub-badge pub-highly-cited">🏆 Highly Cited</span><span class="pub-badge pub-hot">🔥 Hot Paper</span>  
 
 1. **Rang Liu**, M. Li\*, H. Luo, Q. Liu, and A. L. Swindlehurst, "[Integrated sensing and communication with reconfigurable intelligent surfaces: Opportunities, applications, and future directions](https://ieeexplore.ieee.org/document/10077119/)," *IEEE Wireless Commun.*, vol. 30, no. 1, pp. 50-57, Feb. 2023.  <a href="https://github.com/RangLiu0706/RIS_ISAC_magazine" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/RIS_ISAC_magazine?style=social&label=" alt="stars"> <span class="pub-badge pub-highly-cited">🏆 Highly Cited</span> <span class="pub-badge pub-hot">🔥 Hot Paper</span>      
 
@@ -70,11 +70,11 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 1. Z. Xiao, **Rang Liu**\*, M. Li, W. Wang, and Q. Liu, "[Sparsity exploitation via joint receive processing and transmit beamforming design for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10736664)," *IEEE Trans. Commun.*, vol. 73, no. 5, pp. 3593-3607, May 2025. <a href="https://github.com/RangLiu0706/Sparsity-Exploitation-MIMO-OFDM-ISAC" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/Sparsity-Exploitation-MIMO-OFDM-ISAC?style=social&label=" alt="stars">
 
-1. Z. Xiao, **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[A novel joint angle-range-velocity estimation method for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10634583)," *IEEE Trans. Signal Process.*, vol. 72, pp. 3805-3818, Aug. 2024. <a href="https://github.com/RangLiu0706/Parameter-Estimation-MIMO-OFDM-ISAC" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/Parameter-Estimation-MIMO-OFDM-ISAC?style=social&label=" alt="stars">
+1. Z. Xiao, **Rang Liu**\*, M. Li, Q. Liu, and A. L. Swindlehurst, "[A novel joint angle-range-velocity estimation method for MIMO-OFDM ISAC systems](https://ieeexplore.ieee.org/document/10634583)," *IEEE Trans. Signal Process.*, vol. 72, pp. 3805-3818, Aug. 2024. <a href="https://github.com/RangLiu0706/Parameter-Estimation-MIMO-OFDM-ISAC" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/Parameter-Estimation-MIMO-OFDM-ISAC?style=social&label=" alt="stars"><span class="pub-badge pub-hot">🔥 Hot Paper</span>  
 
 1. J. Chu, Z. Lu, **Rang Liu**\*, M. Li\*, and Q. Liu, "[Joint beamforming and reflection design for secure RIS-ISAC systems](https://ieeexplore.ieee.org/document/10298597)," *IEEE Trans. Veh. Technol.*, vol. 73, no. 3, pp. 4471-4475, Mar. 2024.
 
-1. H. Luo, **Rang Liu**\*, M. Li\*, and Q. Liu, "[RIS-aided integrated sensing and communication: Joint beamforming and reflection design](https://ieeexplore.ieee.org/document/10052711/)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 7, pp. 9626-9630, Jul. 2023. <a href="https://github.com/RangLiu0706/RIS-ISAC-Beamforming" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/RIS-ISAC-Beamforming?style=social&label=" alt="stars">
+1. H. Luo, **Rang Liu**\*, M. Li\*, and Q. Liu, "[RIS-aided integrated sensing and communication: Joint beamforming and reflection design](https://ieeexplore.ieee.org/document/10052711/)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 7, pp. 9626-9630, Jul. 2023. <a href="https://github.com/RangLiu0706/RIS-ISAC-Beamforming" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/RIS-ISAC-Beamforming?style=social&label=" alt="stars"><span class="pub-badge pub-hot">🔥 Hot Paper</span>  
 
 1. J. Chu, **Rang Liu**\*, M. Li\*, Y. Liu, and Q. Liu, "[Joint secure transmit beamforming designs for integrated sensing and communication systems](https://ieeexplore.ieee.org/document/9968163)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 4, pp. 4778-4791, Apr. 2023.
 
@@ -86,14 +86,14 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 # 🤝 Journals (Co-author)  {#journal-coauthor}
 1. M. Liu, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "Clutter suppression in ISAC systems with compound reconfigurable antenna arrays," submitted.
 
-1. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[OFDM-ISAC beyond CP limit: Performance analysis and mitigation algorithms](https://arxiv.org/abs/2511.17878)," submitted.
+1. P. Li, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[OFDM-ISAC beyond CP limit: Performance analysis and mitigation algorithms](https://arxiv.org/abs/2511.17878)," *IEEE Trans. Signal Process.*, under revision.
  
 27. M. Liu, M. Li, **Rang Liu**, and Q. Liu, "[Tri-timescale beamforming design for tri-hybrid architectures with reconfigurable antennas](https://arxiv.org/abs/2503.03620)," *IEEE Trans. Wireless Commun.*, under revision. 
 
 31. P. Jiang, M. Li, **Rang Liu**, and Q. Liu, "[Graph learning for cooperative cell-free ISAC systems: From optimization to estimation](https://ieeexplore.ieee.org/document/11449475/)," *IEEE Trans. Wireless Commun.*, vol. 25, pp. 13992-14008, 2026.
 
 
-33. M. Liu, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Reconfigurable antenna arrays: Bridging electromagnetics and signal processing](https://arxiv.org/abs/2510.17113)," *IEEE Commun. Mag.*, to appear. 
+33. M. Liu, M. Li, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[Reconfigurable antenna arrays: Bridging electromagnetics and signal processing](https://ieeexplore.ieee.org/document/11480925)," *IEEE Commun. Mag.*, to appear. 
  
 30. B. Lee\*, **Rang Liu**, D. J. Love, J. V. Krogmeier, and A. L. Swindlehurst, "[Integrated polarimetric sensing and communication with polarization-reconfigurable arrays](https://ieeexplore.ieee.org/document/11358846/)," *IEEE Trans. Wireless Commun.*, vol. 25, pp. 10618-10634, 2026.
 
@@ -123,7 +123,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 18. M. Liu, M. Li\*, **Rang Liu**, and Q. Liu, "[Dynamic hybrid beamforming designs for ELAA near-field communications](https://ieeexplore.ieee.org/document/10845800)," *IEEE J. Sel. Areas Commun. (JSAC)*, vol. 43, no. 3, pp. 644-658, Mar. 2025. 
 
-17. P. Li, M. Li\*, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[MIMO-OFDM ISAC waveform design for range-Doppler sidelobe suppression](https://ieeexplore.ieee.org/document/10771629/)," *IEEE Trans. Wireless Commun.*, vol. 24, no. 2, pp. 1001-1015, Feb. 2025. <a href="https://github.com/RangLiu0706/MIMO-OFDM-ISAC-Waveform-Sidelobe-Suppression" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/MIMO-OFDM-ISAC-Waveform-Sidelobe-Suppression?style=social&label=" alt="stars"> <span class="pub-badge pub-highly-cited">🏆 Highly Cited</span>
+17. P. Li, M. Li\*, **Rang Liu**, Q. Liu, and A. L. Swindlehurst, "[MIMO-OFDM ISAC waveform design for range-Doppler sidelobe suppression](https://ieeexplore.ieee.org/document/10771629/)," *IEEE Trans. Wireless Commun.*, vol. 24, no. 2, pp. 1001-1015, Feb. 2025. <a href="https://github.com/RangLiu0706/MIMO-OFDM-ISAC-Waveform-Sidelobe-Suppression" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/MIMO-OFDM-ISAC-Waveform-Sidelobe-Suppression?style=social&label=" alt="stars"> <span class="pub-badge pub-highly-cited">🏆 Highly Cited</span><span class="pub-badge pub-hot">🔥 Hot Paper</span>  
 
 16. S. Zhang, Z. Xiao, **Rang Liu**, M. Li\*, W. Wang, and Q. Liu, "[Multipath exploitation for fluctuating target detection in RIS-assisted ISAC systems](https://ieeexplore.ieee.org/document/10564104)," *IEEE Wireless Commun. Lett.*, vol. 13, no. 9, pp. 2392-2396, Sep. 2024.
 
@@ -135,7 +135,7 @@ in *Metasurfaces for Wireless Communications*. Springer, in production.
 
 11. Q. Liu, Y. Zhu, M. Li\*, **Rang Liu**, Y. Liu, and Z. Lu,  "[DRL-based secrecy rate optimization for RIS-assisted secure ISAC systems](https://ieeexplore.ieee.org/document/10193812/)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 2, pp. 16871-16875, Dec. 2023.
 
-10. Q. Zhu, M. Li\*, **Rang Liu**, and Q. Liu\*, "[Joint transceiver beamforming and reflecting design for active RIS-aided ISAC systems](https://ieeexplore.ieee.org/document/10054402/)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 7, pp. 9636-9640, Jul. 2023. <a href="https://github.com/RangLiu0706/Active-RIS-ISAC-detection" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/Active-RIS-ISAC-detection?style=social&label=" alt="stars"> <span class="pub-badge pub-highly-cited">🏆 Highly Cited</span>
+10. Q. Zhu, M. Li\*, **Rang Liu**, and Q. Liu\*, "[Joint transceiver beamforming and reflecting design for active RIS-aided ISAC systems](https://ieeexplore.ieee.org/document/10054402/)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 7, pp. 9636-9640, Jul. 2023. <a href="https://github.com/RangLiu0706/Active-RIS-ISAC-detection" class="pub-badge pub-code"><i class="fab fa-github"></i> Code</a> <img src="https://img.shields.io/github/stars/RangLiu0706/Active-RIS-ISAC-detection?style=social&label=" alt="stars"> <span class="pub-badge pub-highly-cited">🏆 Highly Cited</span><span class="pub-badge pub-hot">🔥 Hot Paper</span>  
 
 9. S. Liu, **Rang Liu**, M. Li\*, Y. Liu, and Q. Liu\*, "[Joint BS-RIS-user association and beamforming design for RIS-assisted cellular networks](https://ieeexplore.ieee.org/document/9996967)," *IEEE Trans. Veh. Technol.*, vol. 72, no. 5, pp. 6113-6128, May 2023.
 
