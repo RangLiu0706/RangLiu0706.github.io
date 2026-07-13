@@ -9,7 +9,7 @@ sidebar: true
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree in Electronics and Information Engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree from the School of Information and Communication Engineering, Dalian University of Technology, in 2023, under the supervision of [Prof. Ming Li](https://www.minglabdut.com/index.html). From September 2023 to March 2026, I was a Postdoctoral Scholar working with [Prof. A. Lee Swindlehurst](https://github.com/LS-Wireless) in the Department of Electrical Engineering and Computer Science at the University of California, Irvine. I am currently a Humboldt Postdoctoral Research Fellow working with [Prof. Robert Schober](https://www.idc.tf.fau.eu/faudir/prof-dr-ing-robert-schober/) at the Institute for Digital Communications, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany. My research interests include optimization and signal processing for wireless communication systems, with a particular emphasis on massive MIMO, reconfigurable intelligent surfaces, and integrated sensing and communications.
+I am currently a Humboldt Postdoctoral Research Fellow working with [Prof. Robert Schober](https://www.idc.tf.fau.eu/faudir/prof-dr-ing-robert-schober/) at the Institute for Digital Communications, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany. I received the B.S. degree in Electronics and Information Engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree from the School of Information and Communication Engineering, Dalian University of Technology, in 2023, under the supervision of [Prof. Ming Li](https://www.minglabdut.com/index.html). From September 2023 to March 2026, I was a Postdoctoral Scholar working with [Prof. A. Lee Swindlehurst](https://github.com/LS-Wireless) in the Department of Electrical Engineering and Computer Science at the University of California, Irvine. My research interests include optimization and signal processing for wireless communication systems, with a particular emphasis on massive MIMO, reconfigurable intelligent surfaces, and integrated sensing and communications.
 
 <div class="research-tags">
   <span class="research-tag">ISAC</span>
@@ -122,7 +122,7 @@ I received the B.S. degree in Electronics and Information Engineering from Dalia
       <a href="https://github.com/RangLiu0706/Clutter-Aware-ISAC-Tutorial" class="repo-name"><i class="fab fa-github"></i> Clutter-Aware-ISAC-Tutorial</a>
       <img src="https://img.shields.io/github/stars/RangLiu0706/Clutter-Aware-ISAC-Tutorial?style=social" alt="stars">
     </div>
-    <p class="repo-desc">Clutter-aware ISAC: models, methods, and future directions (Proc. IEEE, 2025)</p>
+    <p class="repo-desc">Clutter-aware ISAC: models, methods, and future directions (Proc. IEEE, 2026)</p>
   </div>
 
   <div class="repo-card">
@@ -130,7 +130,7 @@ I received the B.S. degree in Electronics and Information Engineering from Dalia
       <a href="https://github.com/RangLiu0706/Multi-Domain-Optimization-for-ISAC" class="repo-name"><i class="fab fa-github"></i> Multi-Domain-Optimization-for-ISAC</a>
       <img src="https://img.shields.io/github/stars/RangLiu0706/Multi-Domain-Optimization-for-ISAC?style=social" alt="stars">
     </div>
-    <p class="repo-desc">Multi-domain optimization framework for ISAC (IEEE WCM, 2025)</p>
+    <p class="repo-desc">Multi-domain optimization framework for ISAC (IEEE WCM, 2026)</p>
   </div>
 
 </div>
