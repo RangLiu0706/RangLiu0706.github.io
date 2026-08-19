@@ -9,9 +9,12 @@
 title                    : "Rang Liu"
 description              : "Humboldt Postdoctoral Research Fellow"
 repository               : "RangLiu0706/RangLiu0706.github.io"
+url                      : "https://rangliu0706.github.io"
+baseurl                  : ""
 
 # google analytics
-google_analytics_id      :  324368529 # get google_analytics_id from https://analytics.google.com/analytics/
+# Set this to a GA4 Measurement ID (for example, G-XXXXXXXXXX) to enable tracking.
+google_analytics_id      :
 
 # SEO Related (uncomment and fill in when needed)
 # google_site_verification :
