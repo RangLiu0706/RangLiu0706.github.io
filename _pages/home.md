@@ -7,9 +7,9 @@ sidebar: true
 
 ## About Me
 
-<span class='anchor' id='about-me'></span>
+I am currently a Humboldt Postdoctoral Research Fellow at the Institute for Digital Communications, Friedrich-Alexander University Erlangen-Nürnberg (FAU), where I work with [Prof. Robert Schober](https://www.idc.tf.fau.eu/faudir/prof-dr-ing-robert-schober/). I received the B.Eng. degree in Electronic and Information Engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree in Information and Communication Engineering from the same university in 2023, under the supervision of [Prof. Ming Li](https://faculty.dlut.edu.cn/2014011075/en/index.htm). From September 2023 to March 2026, I was a Postdoctoral Scholar in the Department of Electrical Engineering and Computer Science at the University of California, Irvine, where I worked with [Prof. A. Lee Swindlehurst](https://github.com/LS-Wireless).
 
-I am currently a Humboldt Postdoctoral Research Fellow working with [Prof. Robert Schober](https://www.idc.tf.fau.eu/faudir/prof-dr-ing-robert-schober/) at the Institute for Digital Communications, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany. I received the B.S. degree in Electronics and Information Engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree from the School of Information and Communication Engineering, Dalian University of Technology, in 2023, under the supervision of [Prof. Ming Li](https://www.minglabdut.com/index.html). From September 2023 to March 2026, I was a Postdoctoral Scholar working with [Prof. A. Lee Swindlehurst](https://github.com/LS-Wireless) in the Department of Electrical Engineering and Computer Science at the University of California, Irvine. My research interests include optimization and signal processing for wireless communication systems, with a particular emphasis on massive MIMO, reconfigurable intelligent surfaces, and integrated sensing and communications.
+My research interests include optimization and signal processing for wireless communication systems, with a particular focus on massive MIMO, reconfigurable intelligent surfaces, and integrated sensing and communication.
 
 <div class="research-tags">
   <span class="research-tag">ISAC</span>
@@ -27,7 +27,7 @@ I am currently a Humboldt Postdoctoral Research Fellow working with [Prof. Rober
   <ul class="news-timeline">
     <li>
       <span class="news-date">Apr. 2026</span>
-      <span class="news-text">Started as a Humboldt Postdoctoral Research Fellow at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU).</span>
+      <span class="news-text">Started as a Humboldt Postdoctoral Research Fellow at Friedrich-Alexander University Erlangen-Nürnberg (FAU).</span>
     </li>
     <li>
       <span class="news-date">Mar. 2026</span>
@@ -35,11 +35,11 @@ I am currently a Humboldt Postdoctoral Research Fellow working with [Prof. Rober
     </li>
     <li>
       <span class="news-date">Aug. 2025</span>
-      <span class="news-text">Selected into Stanford University's list of the World's Top 2% Most-Cited Scientists.</span>
+      <span class="news-text">Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.</span>
     </li>
     <li>
       <span class="news-date">Aug. 2024</span>
-      <span class="news-text">Selected into Stanford University's list of the World's Top 2% Most-Cited Scientists.</span>
+      <span class="news-text">Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.</span>
     </li>
   </ul>
   <details class="news-archive">
@@ -47,15 +47,15 @@ I am currently a Humboldt Postdoctoral Research Fellow working with [Prof. Rober
     <ul class="news-timeline news-timeline-archive">
       <li>
         <span class="news-date">Mar. 2024</span>
-        <span class="news-text">Invited to present RIS-ISAC work on SPS Webinar. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="/RIS-ISAC.pdf">slides</a>]</span>
+        <span class="news-text">Delivered an invited IEEE SPS webinar on RIS-ISAC. [<a href="https://rc.signalprocessingsociety.org/education/webinars/spsweb24007">website</a>], [<a href="https://drive.google.com/file/d/18s4gF51hxSQIrkyjua2B9HT15ZJNLcc2/view?usp=drive_link">video</a>], [<a href="/RIS-ISAC.pdf">slides</a>]</span>
       </li>
       <li>
         <span class="news-date">Sep. 2023</span>
-        <span class="news-text">Started postdoctoral research at UCI.</span>
+        <span class="news-text">Started a postdoctoral appointment at UCI.</span>
       </li>
       <li>
         <span class="news-date">Jul. 2023</span>
-        <span class="news-text">Successfully defended doctoral dissertation.</span>
+        <span class="news-text">Successfully defended my doctoral dissertation.</span>
       </li>
       <li>
         <span class="news-date">Jul. 2022</span>

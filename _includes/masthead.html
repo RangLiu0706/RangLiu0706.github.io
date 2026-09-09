@@ -6,11 +6,17 @@
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% assign this_url = link.url | relative_url %}
+            {% assign is_active = false %}
+            {% if page.url == this_url %}
+              {% assign is_active = true %}
+            {% elsif this_url != '/' and page.url contains this_url %}
+              {% assign is_active = true %}
+            {% endif %}
             <li class="masthead__menu-item">
               <a
                 href="{{ this_url }}"
-                class="masthead__menu-link{% if page.url == this_url or page.url contains this_url %} active{% endif %}"
-                {% if page.url == this_url %}aria-current="page"{% endif %}
+                class="masthead__menu-link{% if is_active %} active{% endif %}"
+                {% if is_active %}aria-current="page"{% endif %}
               >
                 {{ link.title | replace: '&amp;', '&' }}
               </a>
