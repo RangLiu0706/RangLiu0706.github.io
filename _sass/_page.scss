@@ -3,33 +3,32 @@
    ========================================================================== */
 
 #main {
-  @include container;
-  @include clearfix;
-  margin-top: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.5rem;
+  max-width: 1160px;
+  margin: 1.25rem auto 3rem;
+  padding: 0 1rem;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
+  @include breakpoint($large) {
+    grid-template-columns: 210px minmax(0, 1fr);
+    gap: 2.25rem;
+    padding: 0 1.25rem;
   }
 }
 
 .page {
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(0 of 12);
-  }
+  min-width: 0;
 
   .page__inner-wrap {
-    @include full();
+    width: 100%;
 
     .page__content,
     .page__meta,
     .page__share {
-      @include full();
+      width: 100%;
     }
   }
 }
@@ -49,16 +48,12 @@
 }
 
 .page__content {
-  #about-me{
-    margin-top: -10em;
-      &:before { 
-        content: ''; 
-        display: block; 
-        position: relative; 
-        width: 0; 
-        height: 10em; 
-        margin-top: -10em;
-    }
+  > p {
+    max-width: 75ch;
+  }
+
+  h1[id], h2[id], h3[id], .anchor {
+    scroll-margin-top: calc(var(--masthead-height) + var(--subnav-height) + 1rem);
   }
   h1 {
     margin-top: 1em;
@@ -72,7 +67,7 @@
 
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    margin: 0 0 0.85rem;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -81,6 +76,11 @@
         margin-top: -($indent-var);
       }
     }
+  }
+
+  > ol > li,
+  > ul > li {
+    margin-bottom: 0.85rem;
   }
 
   a {

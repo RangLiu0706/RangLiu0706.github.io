@@ -5,17 +5,28 @@ permalink: /experience/
 sidebar: true
 ---
 
-# 👩‍🎓 Education
+<nav class="subnav subnav--experience" aria-label="Experience sections">
+  <ul>
+    <li><a href="#-education" target="_self"><i class="fas fa-graduation-cap nav-icon" aria-hidden="true"></i> Education</a></li>
+    <li><a href="#-academic-positions" target="_self"><i class="fas fa-university nav-icon" aria-hidden="true"></i> Positions</a></li>
+    <li><a href="#-professional-service--outreach" target="_self"><i class="fas fa-globe nav-icon" aria-hidden="true"></i> Service</a></li>
+    <li><a href="#invited-talks" target="_self"><i class="fas fa-microphone nav-icon" aria-hidden="true"></i> Talks</a></li>
+    <li><a href="#tutorials" target="_self"><i class="fas fa-chalkboard-teacher nav-icon" aria-hidden="true"></i> Tutorials</a></li>
+    <li><a href="#journal-reviewing" target="_self"><i class="fas fa-clipboard-check nav-icon" aria-hidden="true"></i> Reviewing</a></li>
+  </ul>
+</nav>
+
+<h1 id="-education"><i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i> Education</h1>
 
 - **Sep. 2020–Sep. 2023:** Ph.D. in Information and Communication Engineering, Dalian University of Technology. [[Download Ph.D. Dissertation](/RangLiu_PhD_Dissertation.pdf)]
 - **Sep. 2014–Jun. 2018:** B.Eng. in Electronic and Information Engineering, Dalian University of Technology.
 
-# 🏫 Academic Positions
+<h1 id="-academic-positions"><i class="fas fa-university section-icon" aria-hidden="true"></i> Academic Positions</h1>
 
 - **Apr. 2026–Present:** Humboldt Postdoctoral Research Fellow, Friedrich-Alexander University Erlangen-Nürnberg (FAU).
 - **Sep. 2023–Mar. 2026:** Postdoctoral Scholar, University of California, Irvine.
 
-# 🌍 Professional Service & Outreach
+<h1 id="-professional-service--outreach"><i class="fas fa-globe section-icon" aria-hidden="true"></i> Professional Service &amp; Outreach</h1>
 
 ## Conference Organization
 

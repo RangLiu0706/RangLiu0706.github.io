@@ -14,6 +14,8 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    <div id="page-status" class="page-status" role="status" aria-live="polite" aria-atomic="true"></div>
+
     <div id="main" role="main">
       {% include sidebar.html %}
     
@@ -27,6 +29,10 @@ layout: compress
       
       
     </div>
+
+    <button id="back-to-top" class="back-to-top" type="button" aria-label="Back to top" hidden>
+      <i class="fas fa-arrow-up" aria-hidden="true"></i><span>Top</span>
+    </button>
 
     {% include scripts.html %}
 

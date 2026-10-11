@@ -1,28 +1,123 @@
-<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/pjax.js'        | relative_url }}"></script>
+<script src="{{ '/assets/js/main.min.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
+<script src="{{ '/assets/js/pjax.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
 
 {% include analytics.html %}
 
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const btn = document.getElementById('copy-email-btn');
-    if (!btn) return;
-    btn.addEventListener('click', () => {
-      const email = btn.dataset.email;
-      navigator.clipboard.writeText(email).then(() => {
-        btn.textContent = 'Copied!';
-        setTimeout(() => { btn.textContent = 'Copy Email'; }, 2000);
-      }).catch(() => {
-        // 如果浏览器不支持 clipboard API
-        const textarea = document.createElement('textarea');
-        textarea.value = email;
+  (() => {
+    function legacyCopy(text) {
+      const activeElement = document.activeElement;
+      const selection = window.getSelection();
+      const ranges = [];
+      let inputSelection = null;
+      if (selection) {
+        for (let index = 0; index < selection.rangeCount; index += 1) {
+          ranges.push(selection.getRangeAt(index).cloneRange());
+        }
+      }
+      if (activeElement && typeof activeElement.selectionStart === 'number') {
+        inputSelection = {
+          start: activeElement.selectionStart,
+          end: activeElement.selectionEnd,
+          direction: activeElement.selectionDirection
+        };
+      }
+
+      const textarea = document.createElement('textarea');
+      textarea.value = text;
+      textarea.setAttribute('readonly', '');
+      textarea.setAttribute('tabindex', '-1');
+      textarea.style.cssText = 'position:fixed;left:-9999px;top:0;opacity:0;';
+      let copied = false;
+      try {
         document.body.appendChild(textarea);
+        textarea.focus({ preventScroll: true });
         textarea.select();
-        document.execCommand('copy');
-        document.body.removeChild(textarea);
-        btn.textContent = 'Copied!';
-        setTimeout(() => { btn.textContent = 'Copy Email'; }, 2000);
+        copied = document.execCommand('copy') === true;
+      } catch (error) {
+        copied = false;
+      } finally {
+        textarea.remove();
+        if (activeElement && activeElement.isConnected && typeof activeElement.focus === 'function') {
+          try {
+            activeElement.focus({ preventScroll: true });
+            if (inputSelection && typeof activeElement.setSelectionRange === 'function') {
+              activeElement.setSelectionRange(inputSelection.start, inputSelection.end, inputSelection.direction);
+            }
+          } catch (error) {
+            // The original control may no longer support a text selection.
+          }
+        }
+        if (selection) {
+          try {
+            selection.removeAllRanges();
+            ranges.forEach(range => selection.addRange(range));
+          } catch (error) {
+            // Navigation may have removed the original selected content.
+          }
+        }
+      }
+      return copied;
+    }
+
+    function initCopyEmail() {
+      const btn = document.getElementById('copy-email-btn');
+      const status = document.getElementById('copy-email-status');
+      const label = btn && btn.querySelector('.copy-email-label');
+      if (!btn || !status || !label || btn.dataset.copyReady === 'true') return;
+      btn.dataset.copyReady = 'true';
+      let copying = false;
+      let restoreTimer;
+
+      btn.addEventListener('click', async () => {
+        if (copying) return;
+        copying = true;
+        clearTimeout(restoreTimer);
+        const email = btn.dataset.email || '';
+        label.textContent = 'Copying…';
+        status.textContent = '';
+        status.dataset.state = 'pending';
+        btn.setAttribute('aria-busy', 'true');
+        btn.setAttribute('aria-disabled', 'true');
+        let copied = false;
+        if (email) {
+          try {
+            if (navigator.clipboard && typeof navigator.clipboard.writeText === 'function') {
+              await navigator.clipboard.writeText(email);
+              copied = true;
+            } else {
+              copied = legacyCopy(email);
+            }
+          } catch (error) {
+            try {
+              copied = legacyCopy(email);
+            } catch (fallbackError) {
+              copied = false;
+            }
+          }
+        }
+        copying = false;
+        btn.removeAttribute('aria-busy');
+        btn.removeAttribute('aria-disabled');
+        label.textContent = copied ? 'Copied!' : 'Copy failed';
+        status.dataset.state = copied ? 'success' : 'error';
+        status.textContent = copied
+          ? 'Email address copied to clipboard.'
+          : 'Could not copy. Select and copy this email address manually: ' + email;
+        if (copied) {
+          restoreTimer = setTimeout(() => {
+            label.textContent = 'Copy Email';
+            status.textContent = '';
+            delete status.dataset.state;
+          }, 3000);
+        }
       });
-    });
-  });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initCopyEmail, { once: true });
+    } else {
+      initCopyEmail();
+    }
+  })();
 </script>

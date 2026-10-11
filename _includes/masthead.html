@@ -2,7 +2,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+        <button type="button" aria-label="Toggle navigation" aria-controls="site-nav-overflow" aria-expanded="false"><div class="navicon" aria-hidden="true"></div></button>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% assign this_url = link.url | relative_url %}
@@ -23,7 +23,7 @@
             </li>
           {% endfor %}
         </ul>
-        <ul class="hidden-links hidden"></ul>
+        <ul id="site-nav-overflow" class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>

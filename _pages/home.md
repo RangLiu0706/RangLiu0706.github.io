@@ -5,7 +5,7 @@ permalink: /
 sidebar: true
 ---
 
-## About Me
+## <i class="fas fa-user section-icon" aria-hidden="true"></i> About Me {#about-me}
 
 I am currently a Humboldt Postdoctoral Research Fellow at the Institute for Digital Communications, Friedrich-Alexander University Erlangen-Nürnberg (FAU), where I work with [Prof. Robert Schober](https://www.idc.tf.fau.eu/faudir/prof-dr-ing-robert-schober/). I received the B.Eng. degree in Electronic and Information Engineering from Dalian University of Technology, Dalian, China, in 2018, and the Ph.D. degree in Information and Communication Engineering from the same university in 2023, under the supervision of [Prof. Ming Li](https://faculty.dlut.edu.cn/2014011075/en/index.htm). From September 2023 to March 2026, I was a Postdoctoral Scholar in the Department of Electrical Engineering and Computer Science at the University of California, Irvine, where I worked with [Prof. A. Lee Swindlehurst](https://github.com/LS-Wireless).
 
@@ -21,7 +21,7 @@ My research interests include optimization and signal processing for wireless co
   <span class="research-tag">Optimization</span>
 </div>
 
-## 🔥 News
+<h2 id="-news"><i class="fas fa-newspaper section-icon" aria-hidden="true"></i> News</h2>
 
 <div class="news-section">
   <ul class="news-timeline">
@@ -43,7 +43,7 @@ My research interests include optimization and signal processing for wireless co
     </li>
   </ul>
   <details class="news-archive">
-    <summary class="news-toggle-btn">View Earlier News</summary>
+    <summary class="news-toggle-btn"><i class="fas fa-chevron-down news-toggle-icon" aria-hidden="true"></i> <span class="news-label-collapsed">View Earlier News</span><span class="news-label-expanded">Hide Earlier News</span></summary>
     <ul class="news-timeline news-timeline-archive">
       <li>
         <span class="news-date">Mar. 2024</span>
@@ -65,77 +65,77 @@ My research interests include optimization and signal processing for wireless co
   </details>
 </div>
 
-## Selected Code Repositories
+## <i class="fas fa-code section-icon" aria-hidden="true"></i> Selected Code Repositories {#selected-code-repositories}
 
 <div class="repo-grid">
 
-  <div class="repo-card">
+  <a class="repo-card" href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC" target="_blank" rel="noopener noreferrer">
     <div class="repo-header">
-      <a href="https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC" class="repo-name"><i class="fab fa-github"></i> SNR-CRB-constrained-beamforming-for-RIS-ISAC</a>
-      <img src="https://img.shields.io/github/stars/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC?style=social" alt="stars">
+      <span class="repo-name">RIS-ISAC Beamforming</span>
+      {% include publication-code.html repo="RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC" link=false %}
     </div>
     <p class="repo-desc">SNR/CRB-constrained joint beamforming and reflection designs for RIS-ISAC systems (IEEE TWC 2024)</p>
-  </div>
+  </a>
 
-  <div class="repo-card">
+  <a class="repo-card" href="https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC" target="_blank" rel="noopener noreferrer">
     <div class="repo-header">
-      <a href="https://github.com/RangLiu0706/waveform-design-for-RIS-ISAC" class="repo-name"><i class="fab fa-github"></i> waveform-design-for-RIS-ISAC</a>
-      <img src="https://img.shields.io/github/stars/RangLiu0706/waveform-design-for-RIS-ISAC?style=social" alt="stars">
+      <span class="repo-name">RIS-ISAC Waveform Design</span>
+      {% include publication-code.html repo="RangLiu0706/waveform-design-for-RIS-ISAC" link=false %}
     </div>
     <p class="repo-desc">Joint transmit waveform and passive beamforming for RIS-aided DFRC systems (IEEE JSTSP 2022)</p>
-  </div>
+  </a>
 
-  <div class="repo-card">
+  <a class="repo-card" href="https://github.com/RangLiu0706/RIS_ISAC_magazine" target="_blank" rel="noopener noreferrer">
     <div class="repo-header">
-      <a href="https://github.com/RangLiu0706/RIS_ISAC_magazine" class="repo-name"><i class="fab fa-github"></i> RIS_ISAC_magazine</a>
-      <img src="https://img.shields.io/github/stars/RangLiu0706/RIS_ISAC_magazine?style=social" alt="stars">
+      <span class="repo-name">RIS-ISAC Opportunities</span>
+      {% include publication-code.html repo="RangLiu0706/RIS_ISAC_magazine" link=false %}
     </div>
     <p class="repo-desc">Integrated sensing and communication with RIS: opportunities and directions (IEEE WCM 2023)</p>
-  </div>
+  </a>
 
-  <div class="repo-card">
+  <a class="repo-card" href="https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC" target="_blank" rel="noopener noreferrer">
     <div class="repo-header">
-      <a href="https://github.com/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC" class="repo-name"><i class="fab fa-github"></i> waveform-designs-for-STAP-SLP-based-MIMO-ISAC</a>
-      <img src="https://img.shields.io/github/stars/RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC?style=social" alt="stars">
+      <span class="repo-name">STAP-SLP Waveform Design</span>
+      {% include publication-code.html repo="RangLiu0706/waveform-designs-for-STAP-SLP-based-MIMO-ISAC" link=false %}
     </div>
     <p class="repo-desc">Joint waveform and filter designs for STAP-SLP-based MIMO-DFRC systems (IEEE JSAC 2022)</p>
-  </div>
+  </a>
 
-  <div class="repo-card">
+  <a class="repo-card" href="https://github.com/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO" target="_blank" rel="noopener noreferrer">
     <div class="repo-header">
-      <a href="https://github.com/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO" class="repo-name"><i class="fab fa-github"></i> RIS-enhanced-SLP-for-MU-MISO</a>
-      <img src="https://img.shields.io/github/stars/RangLiu0706/RIS-enhanced-SLP-for-MU-MISO?style=social" alt="stars">
+      <span class="repo-name">RIS-Enhanced Precoding</span>
+      {% include publication-code.html repo="RangLiu0706/RIS-enhanced-SLP-for-MU-MISO" link=false %}
     </div>
     <p class="repo-desc">Joint symbol-level precoding and reflecting designs for IRS-enhanced MU-MISO (IEEE TWC 2021)</p>
-  </div>
+  </a>
 
-  <div class="repo-card">
+  <a class="repo-card" href="https://github.com/RangLiu0706/RIS-based-passive-information-transmission" target="_blank" rel="noopener noreferrer">
     <div class="repo-header">
-      <a href="https://github.com/RangLiu0706/RIS-based-passive-information-transmission" class="repo-name"><i class="fab fa-github"></i> RIS-based-passive-information-transmission</a>
-      <img src="https://img.shields.io/github/stars/RangLiu0706/RIS-based-passive-information-transmission?style=social" alt="stars">
+      <span class="repo-name">RIS-Based Passive Transmission</span>
+      {% include publication-code.html repo="RangLiu0706/RIS-based-passive-information-transmission" link=false %}
     </div>
     <p class="repo-desc">IRS-based passive information transmission via symbol-level precoding (IEEE TVT 2021)</p>
-  </div>
+  </a>
 
-  <div class="repo-card">
+  <a class="repo-card" href="https://github.com/RangLiu0706/Clutter-Aware-ISAC-Tutorial" target="_blank" rel="noopener noreferrer">
     <div class="repo-header">
-      <a href="https://github.com/RangLiu0706/Clutter-Aware-ISAC-Tutorial" class="repo-name"><i class="fab fa-github"></i> Clutter-Aware-ISAC-Tutorial</a>
-      <img src="https://img.shields.io/github/stars/RangLiu0706/Clutter-Aware-ISAC-Tutorial?style=social" alt="stars">
+      <span class="repo-name">Clutter-Aware ISAC</span>
+      {% include publication-code.html repo="RangLiu0706/Clutter-Aware-ISAC-Tutorial" link=false %}
     </div>
     <p class="repo-desc">Clutter-aware ISAC: models, methods, and future directions (Proc. IEEE, 2026)</p>
-  </div>
+  </a>
 
-  <div class="repo-card">
+  <a class="repo-card" href="https://github.com/RangLiu0706/Multi-Domain-Optimization-for-ISAC" target="_blank" rel="noopener noreferrer">
     <div class="repo-header">
-      <a href="https://github.com/RangLiu0706/Multi-Domain-Optimization-for-ISAC" class="repo-name"><i class="fab fa-github"></i> Multi-Domain-Optimization-for-ISAC</a>
-      <img src="https://img.shields.io/github/stars/RangLiu0706/Multi-Domain-Optimization-for-ISAC?style=social" alt="stars">
+      <span class="repo-name">Multi-Domain ISAC Optimization</span>
+      {% include publication-code.html repo="RangLiu0706/Multi-Domain-Optimization-for-ISAC" link=false %}
     </div>
     <p class="repo-desc">Multi-domain optimization framework for ISAC (IEEE WCM, 2026)</p>
-  </div>
+  </a>
 
 </div>
 
-<div class="site-stats">
+<div class="site-stats" hidden>
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   <span id="busuanzi_container_site_pv" class="site-stat-item">
     Views <span id="busuanzi_value_site_pv"></span>

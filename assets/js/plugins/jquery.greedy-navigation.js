@@ -13,49 +13,36 @@ var $hlinks = $('#site-nav .hidden-links');
 var breaks = [];
 
 function updateNav() {
-
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
-  // The visible list is overflowing the nav
-  if($vlinks.width() > availableSpace) {
-
-    // Record the width of the list
+  // Move as many items as needed; each iteration removes one visible item.
+  while ($vlinks.children().length && $vlinks.width() > availableSpace) {
     breaks.push($vlinks.width());
-
-    // Move item to the hidden list
     $vlinks.children().last().prependTo($hlinks);
+    $btn.removeClass('hidden');
+    availableSpace = $nav.width() - $btn.width() - 30;
+  }
 
-    // Show the dropdown btn
-    if($btn.hasClass('hidden')) {
-      $btn.removeClass('hidden');
-    }
+  // Restore every item that fits, including the space released by the last menu button.
+  while (breaks.length && $hlinks.children().length) {
+    var restoredSpace = breaks.length === 1 ? $nav.width() : $nav.width() - $btn.width() - 30;
+    if (restoredSpace < breaks[breaks.length - 1]) break;
+    $hlinks.children().first().appendTo($vlinks);
+    breaks.pop();
 
-  // The visible list is not overflowing
-  } else {
-
-    // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
-
-      // Move the item to the visible list
-      $hlinks.children().first().appendTo($vlinks);
-      breaks.pop();
-    }
-
-    // Hide the dropdown btn if hidden list is empty
-    if(breaks.length < 1) {
-      $btn.addClass('hidden');
-      $hlinks.addClass('hidden');
+    // Font sizes may change at a breakpoint, so verify the restored item still fits.
+    if ($vlinks.width() > restoredSpace) {
+      breaks.push($vlinks.width());
+      $vlinks.children().last().prependTo($hlinks);
+      break;
     }
   }
 
-  // Keep counter updated
-  $btn.attr("count", breaks.length);
-
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
-    updateNav();
+  if (breaks.length < 1) {
+    $btn.addClass('hidden').removeClass('close');
+    $hlinks.addClass('hidden');
   }
-
+  $btn.attr('count', breaks.length);
 }
 
 // Window listeners

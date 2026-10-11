@@ -11,10 +11,12 @@
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-bottom: 1em;
+  min-width: 0;
+  align-self: start;
+  font-size: 0.9375rem;
+  margin-bottom: 0;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -69,19 +71,19 @@
    Author profile and links
    ========================================================================== */
 .profile_box{
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
+  align-items: center;
+
   @include breakpoint($large) {
     display: block;
   }
-  display: flex;
-  justify-content: flex-start;
-  align-content: flex-start;
-  align-items: center;
 }
 
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px;
+  width: 64px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -92,8 +94,8 @@
   }
 
   img {
-    max-width: 175px;
-    min-width: 75px;
+    max-width: 160px;
+    min-width: 64px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -107,7 +109,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 10px;
-  min-width: 120px;
+  min-width: 0;
   // padding-right: 25px;
   line-height: 1;
 
@@ -129,11 +131,8 @@
 }
 
 .sidebar .author__name {
-  @include breakpoint($medium) {
-    font-size: $type-size-3;
-  }
   font-family: $sans-serif;
-  font-size: $type-size-4;
+  font-size: 1.375rem;
 }
 
 .author__bio {
@@ -141,19 +140,14 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 14px;
   }
 }
 
 .author__urls-wrapper {
-  position: relative;
-  display: table-cell;
-  vertical-align: middle;
+  grid-column: 1 / -1;
+  margin-top: 0.625rem;
   font-family: $sans-serif;
-  z-index: 10;
-  position: relative;
-  margin-left: auto;
-  cursor: pointer;
 
   li:last-child {
     a {
@@ -162,87 +156,55 @@
   }
 
   @include breakpoint($large) {
-    display: block;
+    margin-top: 0;
   }
 
   button {
     margin-bottom: 0;
     width: 120px;
+    max-width: 100%;
     padding: 0.5em;
-    @include breakpoint($large) {
-      display: none;
-    }
   }
 }
 
 .author__urls {
-  display: none;
-  position: absolute;
-  right: 0;
-  margin-top: 15px;
-  padding: 10px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.15rem 0.75rem;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  background: #fff;
-  z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
-  cursor: default;
 
   @include breakpoint($large) {
     display: block;
-    position: relative;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    background: transparent;
-    box-shadow: none;
   }
 
-  &:before {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -11px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: $border-color transparent;
-    z-index: 0;
+  .author__description {
+    grid-column: 1 / -1;
+    margin-bottom: 0.35rem;
 
     @include breakpoint($large) {
-      display: none;
-    }
-  }
-
-  &:after {
-    display: block;
-    content: "";
-    position: absolute;
-    top: -10px;
-    left: calc(50% - 10px);
-    width: 0;
-    border-style: solid;
-    border-width: 0 10px 10px;
-    border-color: #fff transparent;
-    z-index: 1;
-
-    @include breakpoint($large) {
-      display: none;
+      margin-bottom: 0.75rem;
     }
   }
 
   li {
-    white-space: nowrap;
+    min-width: 0;
+    overflow-wrap: anywhere;
+    margin-bottom: 0;
+
+    @include breakpoint($large) {
+      margin-bottom: 0.25rem;
+    }
   }
 
   a {
     display: block;
-    margin-bottom: 5px;
+    min-height: 32px;
+    margin-bottom: 0;
     padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;

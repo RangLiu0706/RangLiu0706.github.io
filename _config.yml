@@ -28,6 +28,7 @@ author:
   bio              : "Institute for Digital Communications, FAU"
   location         : "Erlangen, Germany"
   employer         : "FAU"
+  github           : "RangLiu0706"
   googlescholar    : "https://scholar.google.com/citations?user=YVZWuQcAAAAJ&hl=en"
   linkedin         : "rangliu0706"
   email            : "rang.liu@fau.de"
@@ -41,7 +42,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

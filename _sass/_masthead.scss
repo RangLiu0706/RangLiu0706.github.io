@@ -14,14 +14,11 @@
   z-index: 20;
 
   &__inner-wrap {
-    @include container;
+    max-width: 1160px;
+    margin: 0 auto;
     @include clearfix;
     padding: .5em;
     font-family: $sans-serif-narrow;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
 
     nav {
       z-index: 10;

@@ -24,8 +24,8 @@
   <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">
       {% if site.description %}
-        <li>
-          <div style="white-space: normal; margin-bottom: 1em;">
+        <li class="author__description">
+          <div>
             {{ site.description }}
           </div>
         </li>
@@ -51,10 +51,11 @@
         </li>
         <!-- Copy-to-Clipboard 邮箱按钮 -->
         <li class="copy-email">
-          <button id="copy-email-btn" data-email="{{ author.email }}">
-            <i class="fas fa-fw fa-envelope"></i>
-            Copy Email
+          <button type="button" id="copy-email-btn" data-email="{{ author.email }}" aria-describedby="copy-email-status">
+            <i class="fas fa-fw fa-envelope" aria-hidden="true"></i>
+            <span class="copy-email-label">Copy Email</span>
           </button>
+          <span id="copy-email-status" class="copy-email-status" role="status" aria-live="polite" aria-atomic="true"></span>
         </li>
       {% endif %}
       {% if author.keybase %}
@@ -89,6 +90,13 @@
         <li>
           <a href="https://www.linkedin.com/in/{{ author.linkedin }}">
             <i class="fab fa-fw fa-linkedin"></i> LinkedIn
+          </a>
+        </li>
+      {% endif %}
+      {% if author.cv %}
+        <li>
+          <a href="{{ author.cv | relative_url }}" download="Rang_Liu_CV.pdf">
+            <i class="fas fa-fw fa-file-pdf"></i> CV (PDF)
           </a>
         </li>
       {% endif %}

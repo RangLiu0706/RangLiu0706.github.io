@@ -5,7 +5,7 @@ permalink: /honors-awards/
 sidebar: true
 ---
 
-# 🏆 Honors &amp; Awards
+<h1 id="-honors--awards"><i class="fas fa-trophy section-icon" aria-hidden="true"></i> Honors &amp; Awards</h1>
 
 - **Nov. 2025** - Humboldt Research Fellowship for Postdoctoral Researchers, Alexander von Humboldt Foundation.
 - **Aug. 2025** - Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.
