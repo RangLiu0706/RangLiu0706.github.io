@@ -20,6 +20,7 @@ sidebar: true
 
 ## Editorial Service
 
+- **Oct. 2026–Present:** Editor, [*IEEE Transactions on Communications (TCOM)*](https://www.comsoc.org/publications/journals/ieee-tcom/ieee-transactions-communications-editorial-board).
 - **Sep. 2026–Present:** Associate Editor, [*IEEE Open Journal of the Communications Society (OJ-COMS)*](https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board).
 - **Sep. 2026–Present:** Associate Editor, [*IEEE Wireless Communications Letters (WCL)*](https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board).
 
