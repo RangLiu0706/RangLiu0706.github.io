@@ -154,6 +154,14 @@ const initializePageNavigation = () => {
   function scrollToHash(hash, behavior = 'auto') {
     const target = targetFromHash(hash);
     if (!target) return false;
+    const disclosureId = target.getAttribute('data-expand-details');
+    const disclosure = disclosureId && document.getElementById(disclosureId);
+    if (disclosure && disclosure.tagName === 'DETAILS') disclosure.open = true;
+    let parentDetails = target.closest('details');
+    while (parentDetails) {
+      parentDetails.open = true;
+      parentDetails = parentDetails.parentElement.closest('details');
+    }
     const motion = reducedMotion() ? 'auto' : behavior;
     updateStickyOffsets();
     updateSubnavHighlight(hash);
@@ -284,6 +292,11 @@ const initializePageNavigation = () => {
       });
     });
     if (subnav) subnav.addEventListener('scroll', updateSubnavOverflow, { passive: true });
+    if (container) {
+      container.querySelectorAll('.reviewing-panel').forEach(panel => {
+        panel.addEventListener('toggle', queueStickyMeasurements);
+      });
+    }
     updateStickyOffsets();
     updateSubnavHighlight();
     if (headerObserver) {

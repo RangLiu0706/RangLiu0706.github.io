@@ -4,8 +4,8 @@ main:
     url: "/"
   - title: "Publications"
     url: "/publications/"
-  - title: "Experience"
-    url: "/experience/"
-  - title: "Honors &amp; Awards"
-    url: "/honors-awards/"
+  - title: "Profile"
+    url: "/profile/"
+  - title: "Service &amp; Talks"
+    url: "/service/"
 

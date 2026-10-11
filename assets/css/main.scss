@@ -496,6 +496,63 @@
   margin-top: 0.25em;
 }
 
+/* --- Service: expandable journal-reviewing list --- */
+.reviewing-panel {
+  margin: 0 0 1.75rem;
+  border: 1px solid #d7e1ef;
+  border-radius: 8px;
+  overflow: hidden;
+
+  summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+    min-height: 48px;
+    padding: 0.8rem 1rem;
+    background: #f5f8fc;
+    color: $link-color;
+    font-weight: 600;
+    list-style: none;
+    cursor: pointer;
+
+    &::-webkit-details-marker { display: none; }
+    &:hover { background: #e8eef7; }
+    &:focus-visible {
+      outline: 3px solid rgba($link-color, 0.7);
+      outline-offset: -3px;
+    }
+  }
+
+  .reviewing-action {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+
+  .reviewing-label-expanded { display: none; }
+
+  &[open] {
+    .reviewing-label-collapsed { display: none; }
+    .reviewing-label-expanded { display: inline; }
+    .reviewing-action i { transform: rotate(180deg); }
+  }
+
+  .reviewing-list {
+    margin: 0;
+    padding: 1rem 1rem 1rem 2.25rem;
+
+    li {
+      margin-bottom: 0.5rem;
+      overflow-wrap: anywhere;
+      &:last-child { margin-bottom: 0; }
+    }
+  }
+}
+
 
 /* ══════════════════════════════════════════
    Homepage: Code Repository Cards
@@ -622,7 +679,7 @@
 
 
 /* ══════════════════════════════════════════
-   Publications: Code & Citation Badges
+   Publications: Paper Badges
    ══════════════════════════════════════════ */
 .pub-badge {
   display: inline-block;
@@ -687,4 +744,9 @@
 .pub-highly-cited {
   background: #fef3c7;
   color: #92400e;
+}
+
+.pub-presenter {
+  background: #e2e8f0;
+  color: #334155;
 }

@@ -3,15 +3,11 @@ layout: default
 title: "Honors & Awards"
 permalink: /honors-awards/
 sidebar: true
+sitemap: false
 ---
 
-<h1 id="-honors--awards"><i class="fas fa-trophy section-icon" aria-hidden="true"></i> Honors &amp; Awards</h1>
-
-- **Nov. 2025** - Humboldt Research Fellowship for Postdoctoral Researchers, Alexander von Humboldt Foundation.
-- **Aug. 2025** - Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.
-- **Feb. 2025** - Exemplary Reviewer Certificate, IEEE Wireless Communications Letters.
-- **Aug. 2024** - Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.
-- **Dec. 2023** - Outstanding Doctoral Dissertation Award, China Education Society of Electronics.
-- **Oct. 2022** - National Scholarship, Ministry of Education of China.
-- **Oct. 2020** - National Scholarship, Ministry of Education of China.
-- **Jun. 2018** - Excellent Undergraduate Student, Dalian University of Technology.
+<div class="legacy-page-redirect" data-source="honors" data-profile-url="{{ '/profile/' | relative_url }}" data-service-url="{{ '/service/' | relative_url }}">
+  <h1>This page has moved</h1>
+  <p>Education, academic positions, and honors are now on <a href="{{ '/profile/' | relative_url }}" target="_self">Profile</a>. Professional service, invited talks, and tutorials are on <a href="{{ '/service/' | relative_url }}" target="_self">Service &amp; Talks</a>.</p>
+</div>
+<script src="{{ '/assets/js/legacy-redirect.js' | relative_url }}"></script>
