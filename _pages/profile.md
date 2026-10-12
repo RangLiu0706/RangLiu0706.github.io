@@ -26,6 +26,7 @@ sidebar: true
 <h1 id="honors-awards"><i class="fas fa-trophy section-icon" aria-hidden="true"></i> Honors &amp; Awards</h1>
 
 - **2024, 2025, 2026:** Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.
+- **Sep. 2026:** Outstanding Doctoral Dissertation Award (2025), Liaoning Provincial Department of Education.
 - **Nov. 2025:** Humboldt Research Fellowship for Postdoctoral Researchers, Alexander von Humboldt Foundation.
 - **Feb. 2025:** Exemplary Reviewer Certificate, IEEE Wireless Communications Letters.
 - **Dec. 2023:** Outstanding Doctoral Dissertation Award, China Education Society of Electronics.

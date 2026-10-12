@@ -27,6 +27,10 @@ My research interests include optimization and signal processing for wireless co
   <ul class="news-timeline">
     <li>
       <span class="news-date">Oct. 2026</span>
+      <span class="news-text">Appointed Editor of <a href="https://www.comsoc.org/publications/journals/ieee-tcom/ieee-transactions-communications-editorial-board">IEEE Transactions on Communications</a>.</span>
+    </li>
+    <li>
+      <span class="news-date">Oct. 2026</span>
       <span class="news-text">Attended the International Workshop on Smart Antennas (WSA 2026) in Barcelona, Spain, and presented our work on <a href="https://arxiv.org/abs/2610.08550">pixel antenna arrays</a>.</span>
     </li>
     <li>
@@ -34,21 +38,29 @@ My research interests include optimization and signal processing for wireless co
       <span class="news-text">Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.</span>
     </li>
     <li>
-      <span class="news-date">Apr. 2026</span>
-      <span class="news-text">Started as a Humboldt Postdoctoral Research Fellow at Friedrich-Alexander University Erlangen-Nürnberg (FAU).</span>
+      <span class="news-date">Sep. 2026</span>
+      <span class="news-text">Received the <a href="/profile/#honors-awards" target="_self">2025 Liaoning Provincial Outstanding Doctoral Dissertation Award</a>.</span>
     </li>
     <li>
-      <span class="news-date">Mar. 2026</span>
-      <span class="news-text">Our paper on clutter-aware integrated sensing and communication was accepted for publication in Proceedings of the IEEE, and open-source implementations for several papers were released on GitHub.</span>
-    </li>
-    <li>
-      <span class="news-date">Aug. 2025</span>
-      <span class="news-text">Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.</span>
+      <span class="news-date">Sep. 2026</span>
+      <span class="news-text">Appointed Associate Editor of <a href="https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board">IEEE Open Journal of the Communications Society</a> and <a href="https://www.comsoc.org/publications/journals/ieee-wcl/ieee-wireless-communications-letters-editorial-board">IEEE Wireless Communications Letters</a>.</span>
     </li>
   </ul>
   <details class="news-archive">
     <summary class="news-toggle-btn"><i class="fas fa-chevron-down news-toggle-icon" aria-hidden="true"></i> <span class="news-label-collapsed">View Earlier News</span><span class="news-label-expanded">Hide Earlier News</span></summary>
     <ul class="news-timeline news-timeline-archive">
+      <li>
+        <span class="news-date">Apr. 2026</span>
+        <span class="news-text">Started as a Humboldt Postdoctoral Research Fellow at Friedrich-Alexander University Erlangen-Nürnberg (FAU).</span>
+      </li>
+      <li>
+        <span class="news-date">Mar. 2026</span>
+        <span class="news-text">Our paper on clutter-aware integrated sensing and communication was accepted for publication in Proceedings of the IEEE, and open-source implementations for several papers were released on GitHub.</span>
+      </li>
+      <li>
+        <span class="news-date">Aug. 2025</span>
+        <span class="news-text">Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.</span>
+      </li>
       <li>
         <span class="news-date">Aug. 2024</span>
         <span class="news-text">Named to the Stanford University/Elsevier list of the World's Top 2% Scientists.</span>
